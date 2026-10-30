@@ -1,0 +1,13 @@
+<theme>
+  <formatVersion>7</formatVersion>
+
+  <view name="system">
+    <text name="shortdescription" extra="true">
+      <text>${type_1988_arcade_system_board}</text>
+    </text>
+    <text name="description" extra="true">
+      <text>${cps1_desc}</text>
+    </text>
+  </view>
+
+</theme>

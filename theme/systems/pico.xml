@@ -1,0 +1,14 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="shortdescription" extra="true">
+			<text>${type_1993_4th_gen_console}</text>
+		</text>
+		<text name="description" extra="true">
+			<text>${pico_desc}</text>
+		</text>
+
+	</view>
+</theme>

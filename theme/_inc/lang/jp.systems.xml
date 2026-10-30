@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+	<acclaim_coll>Acclaim Entertainment, Inc.は、ニューヨーク州グレンコーブに本拠を置くアメリカのゲームパブリッシャーでした。Activisionの元社員によって設立され、アルファベット順でActivisionやAccoladeより前に来るようAcclaimと名付けられました。</acclaim_coll>
+	<activision_coll>Activisionは1979年10月、カリフォルニア州サニーベールで、Atariでの待遇に不満を持った元Atari開発者たちによって設立されました。コンソールゲームにおける初の独立系サードパーティ開発会社です。</activision_coll>
+	<advision_desc>アドベンチャービジョンは、エンテックス・インダストリーズが発売したカートリッジ式ゲーム機です。モニター、コントローラー、コンピューターが一体の携帯型ユニットに収まっており、ゲームは4本しか発売されませんでした。</advision_desc>
+	<amiga_desc>アミーガは、1980年代から1990年代にかけてコモドールが販売したパーソナルコンピューターのファミリーです。最初のモデルは1985年にハイエンド家庭用コンピューターとして発売され、グラフィック、サウンド、マルチタスク能力で人気を博しました。</amiga_desc>
+	<amigacd32_desc>アミーガCD32は、コモドールが開発し、ヨーロッパ、オーストラリア、カナダ、ブラジルで発売した32ビット家庭用ゲーム機です。1993年7月16日にロンドンのサイエンスミュージアムで発表され、同年9月に発売されました。</amigacd32_desc>
+	<amigacdtv_desc>コモドールCDTVは、1991年に発売されたマルチメディア家庭用コンピューターで、Amiga 500をベースにCD-ROMドライブを搭載し、リビングルーム向けに設計されました。</amigacdtv_desc>
+	<amstradcpc_desc>CPC 464は、1984年にアムストラッドが製造した最初の家庭用コンピューターです。ヨーロッパで200万台以上を売り上げた、ベストセラーのマイクロコンピューターの一つでした。</amstradcpc_desc>
+	<aof_coll>龍虎の拳は、1990年代初頭にネオジオ向けに発売された対戦格闘ゲーム三部作です。餓狼伝説に続くSNKの2番目の格闘ゲームシリーズで、同じ架空の世界を舞台としています。</aof_coll>
+	<apfm1000_desc>APFマイクロコンピューターシステムは、1978年10月にAPFエレクトロニクスが6本のカートリッジとともに発売した、第2世代のカートリッジ式家庭用ゲーム機です。</apfm1000_desc>
+	<apple2_desc>1977年発売のApple IIは、スティーブ・ウォズニアックが設計した家庭用コンピューターです。2解像度のカラーグラフィックに対応した8ビットプロセッサを搭載していました。</apple2_desc>
+	<arcade_desc>アーケードゲームとは、レストラン、バー、ゲームセンターなどの公共施設に設置されるコイン式の娯楽機器です。アーケードゲームの黄金時代は、通常1970年代後半から1980年代半ばまでとされています。</arcade_desc>
+	<arcadia_desc>アルカディア2001は、エマーソン・ラジオがコレコビジョンの数か月前に発売した第2世代の8ビット家庭用ゲーム機です。わずか18か月後に製造終了となり、ゲームは35本が発売されました。</arcadia_desc>
+	<archimedes_desc>エイコーン・アルキメデスは、イギリスのケンブリッジにあるエイコーン・コンピューターズが設計したパーソナルコンピューターのファミリーです。独自のARMアーキテクチャプロセッサを搭載し、当初はArthurオペレーティングシステムで動作しました。</archimedes_desc>
+	<arduboy_desc>アードゥボーイは、ケビン・ベイツが開発した携帯型ゲーム機で、2015年に発売されました。クレジットカードほどの大きさで、300本以上のゲームがあります。</arduboy_desc>
+	<astrocade_desc>バリー・アストロケードは、当時バリーのゲーム部門だったミッドウェイのチームが設計した、第2世代の家庭用ゲーム機兼簡易コンピューターシステムです。</astrocade_desc>
+	<astrocde_desc>バリー・アストロケードは、当時バリーのゲーム部門だったミッドウェイのチームが設計した、第2世代の家庭用ゲーム機兼簡易コンピューターシステムです。</astrocde_desc>
+	<atari2600_desc>Atari Video Computer System（VCS）は、Atari, Inc.が開発・販売した第2世代（1976年〜1992年）の家庭用ゲーム機です。1977年9月11日に北米で199ドルで発売されました。</atari2600_desc>
+	<atari5200_desc>Atari 5200 SuperSystemは、アタリが開発・販売した第2世代ゲーム機です。360度倒せるジョイスティックとテンキー、スタート・ポーズ・リセットボタンを備えた革新的なコントローラーが付属していました。</atari5200_desc>
+	<atari7800_desc>Atari 7800 Pro Systemは、アタリコーポレーションが開発・販売した第3世代ゲーム機です。追加モジュールなしでAtari 2600のゲームをプレイできる、最初期の後方互換機の一つとされています。</atari7800_desc>
+	<atari800_desc>Atari 8ビットファミリーは、1979年にAtari 400およびAtari 800としてアタリが発売し、1992年まで製造された8ビット家庭用コンピューターのシリーズです。</atari800_desc>
+	<atari_coll>1972年にノーラン・ブッシュネルとテッド・ダブニーがカリフォルニア州サニーベールで創業したAtari, Inc.は、アーケード、家庭用ゲーム機、家庭用コンピューターの先駆者でした。PongやAtari 2600などの製品は電子エンターテインメント業界を定義づけました。</atari_coll>
+	<atarijaguarcd_desc>Atari Jaguar CDは、Atari Jaguarゲーム機用のCD-ROM周辺機器です。生涯で11本のゲームしか発売されませんでした。</atarijaguarcd_desc>
+	<atarilynx_desc>Atari Lynxは、アタリコーポレーションが開発・販売した16ビット携帯型ゲーム機です。1989年9月に北米で149.95ドルで発売されました。世界初のカラー液晶搭載携帯型ゲーム機でした。</atarilynx_desc>
+	<atarist_desc>Atari STは、アタリコーポレーションの家庭用コンピューターシリーズで、Atari 8ビットファミリーの後継です。1986年発売の1040STは、基本構成で1メガバイトのRAMを搭載した最初のパーソナルコンピューターでした。</atarist_desc>
+	<atarixegs_desc>Atari XE Game System（XEGS）は、1987年にアタリコーポレーションが発売した家庭用ゲーム機で、Atari 8ビットコンピューターファミリーをベースとしています。</atarixegs_desc>
+	<atlus_coll>アトラスは東京に本社を置く日本のゲーム開発・販売・流通会社です。セガの子会社で、女神転生、ペルソナ、世界樹の迷宮、トラウマセンターなどのシリーズで知られています。</atlus_coll>
+	<atomiswave_desc>アトミスウェーブは、サミーコーポレーションのアーケードシステム基板および筐体で、セガのNAOMI基板をベースとしています。交換式のゲームカートリッジを使用します。</atomiswave_desc>
+	<auto-at2players_coll>「もしパックマンが子供の頃の私たちに影響を与えていたら、みんな暗い部屋を走り回り、薬を食べ、反復的な電子音楽を聴いていただろう。」— マーカス・ブリッグストック</auto-at2players_coll>
+	<auto-at4players_coll>「遊ぶこととゲームをすることには違いがある。前者は喜びの行為であり、後者は行為である。」— ヴェラ・ナザリアン</auto-at4players_coll>
+	<auto-favorites_coll>「ゲームは死に鈍感になるから悪いと言う人もいた。本当の問題は、プレイヤーがすべてを試すべきだということだ。」— ホリー・ブラック</auto-favorites_coll>
+	<auto-lastplayed_coll>「宿題について子供が言える最悪の言葉は『難しすぎる』。ゲームについて言える最悪の言葉は『簡単すぎる』。」— ヘンリー・ジェンキンス</auto-lastplayed_coll>
+	<auto-neverplayed_coll>「延期されたゲームはいつか良くなるが、悪いゲームは永遠に悪い。」— 宮本茂</auto-neverplayed_coll>
+	<auto-retroachievements_coll>Retroachievements.orgは、レトロゲーム向けに現代のゲーム機のようなトロフィー・実績解除機能を提供するサービスです。セガ・メガドライブ、スーパーファミコン、NINTENDO64、プレイステーション、ネオジオなどに対応しています。</auto-retroachievements_coll>
+	<batman_coll>バットマンは1980年代以降、コンピューター、携帯電話、ゲーム機向けに50本以上のゲームに登場しています。</batman_coll>
+	<battletoads_coll>バトルトードは、1991年のベルトスクロールアクション「バトルトード」に始まるレアのゲームシリーズです。皮膚病にちなんで名付けられた3匹のカエル、ラッシュ、ジッツ、ピンプルが主人公で、ティーンエイジ・ミュータント・ニンジャ・タートルズに対抗するために作られました。</battletoads_coll>
+	<bbc_desc>BBC Microcomputer System（BBC Micro）は、1980年代初頭にエイコーン・コンピューターズがBBCのコンピューターリテラシープロジェクトの一環として開発・製造したマイクロコンピューターのファミリーです。</bbc_desc>
+	<bbcmicro_desc>BBC Microcomputer System（BBC Micro）は、1980年代初頭にエイコーン・コンピューターズがBBCのコンピューターリテラシープロジェクトの一環として開発したマイクロコンピューターのファミリーです。</bbcmicro_desc>
+	<bk_desc>エレクトロニカBKは、ソビエト連邦のNPO科学センターがエレクトロニカブランドで開発した、PDP-11互換の16ビット家庭用コンピューターシリーズです。</bk_desc>
+	<c128_desc>コモドール128（C128）は、コモドール・ビジネス・マシーンズ（CBM）が商業発売した最後の8ビット家庭用コンピューターです。1985年1月にラスベガスのCESで発表されました。</c128_desc>
+	<c16_desc>C16は、コモドール・インターナショナルが製造した家庭用コンピューターで、VIC-20の後継となる入門機として開発されました。</c16_desc>
+	<c64_desc>コモドール64は、1982年1月にコモドール・インターナショナルが発売した8ビット家庭用コンピューターです。史上最も売れた単一コンピューターモデルとしてギネス世界記録に登録されています。</c64_desc>
+	<capcom_coll>カプコンは日本のゲーム開発・販売会社です。ストリートファイター、ロックマン、ヴァンパイア、バイオハザード、魔界村など、多数のミリオンセラーシリーズを生み出しました。</capcom_coll>
+	<castlevania_coll>悪魔城ドラキュラは、コナミが生み出したヴァンパイアハンターを描くゴシックホラーアクションアドベンチャーゲームシリーズです。初期のシステムから現代のゲーム機、携帯電話まで様々なプラットフォームで発売されています。</castlevania_coll>
+	<cave_coll>株式会社ケイブは、東亜プランの倒産後、元社員によって1994年に設立された日本のゲーム会社です。1995年から2013年にかけて、日本市場で最も多作なシューティングゲーム開発会社の一つでした。</cave_coll>
+	<cavestory_coll>洞窟物語は、2004年発売のMicrosoft Windows向けメトロイドヴァニア風プラットフォームアドベンチャーです。日本の開発者「Pixel」こと天谷大輔が5年かけて個人で開発しました。</cavestory_coll>
+	<cdi_desc>CD-iフォーマットは1980年代後半に発表され、対応する最初の機器は1991年に発売されました。フィリップスCD-iは商業的に失敗し、1998年に製造終了となりました。</cdi_desc>
+	<cdimono1_desc>CD-iフォーマットは1980年代後半に発表され、最初の機器は1991年に発売されました。フィリップスCD-iは商業的に失敗しました。</cdimono1_desc>
+	<channelf_desc>フェアチャイルド・チャンネルF（「チャンネルファン」の略）は、マイクロプロセッサを搭載し、内蔵ゲームではなく「ビデオカート」と呼ばれるROMカートリッジを使用した最初の家庭用ゲーム機として知られています。</channelf_desc>
+	<chip8_desc>CHIP-8は、ジョセフ・ワイスベッカーが自身の1802マイクロプロセッサ向けに開発したインタプリタ型プログラミング言語です。1970年代半ばの8ビットマイクロコンピューター、COSMAC VIPやTelmac 1800で使われました。</chip8_desc>
+	<coco3_desc>「coco3」は、タンディ・コーポレーションのTRS-80 Color Computerの第3世代です。</coco3_desc>
+	<coco_desc>TRS-80 Color Computer（後にTandy Color Computerとして販売）は、タンディ・コーポレーションが開発・販売した家庭用コンピューターシリーズです。</coco_desc>
+	<codemasters_coll>コードマスターズ・ソフトウェア・カンパニーは、イギリスのサウザムに本拠を置くゲーム開発・販売会社です。1986年10月にリチャードとデビッドのダーリング兄弟によって設立された、イギリス最古のゲームスタジオの一つです。</codemasters_coll>
+	<colecovision_desc>コレコビジョンは、1982年8月に発売されたコレコインダストリーズの第2世代家庭用ゲーム機です。</colecovision_desc>
+	<cps1_desc>カプコン・プレイシステム1は、カプコンが開発したアーケードシステム基板で、交換式ROMカートリッジからゲームを実行しました。CPS-1向けに20本以上のアーケードタイトルが発売されました。</cps1_desc>
+	<cps2_desc>CPS-2は、1993年にスーパーストリートファイターIIで初めて使用されたアーケードシステム基板です。前身のCPシステムの後継で、1996年にCPシステムIIIに引き継がれました。</cps2_desc>
+	<cps3_desc>CPS-3は、1996年にアーケードゲーム「レッドアース」で初めて使用されたアーケードシステム基板です。CPシステムIIに続く2番目の後継で、カプコンが最後に製造した独自基板でした。</cps3_desc>
+	<crashbandicoot_coll>クラッシュ・バンディクーは、プラットフォームゲームのシリーズです。元々はノーティードッグがソニーのプレイステーション独占タイトルとして開発し、現在はアクティビジョン・ブリザードが所有しています。</crashbandicoot_coll>
+	<creativision_desc>VTechクリエイティビジョンは、1981年にVTechが発表し、1982年に発売した、コンピューターと家庭用ゲーム機のハイブリッド機です。</creativision_desc>
+	<crvision_desc>VTechクリエイティビジョンは、1981年にVTechが発表し、第2世代ゲーム機の時代である1982年に発売した、コンピューターと家庭用ゲーム機のハイブリッド機です。</crvision_desc>
+	<daphne_desc>ダフネは、マット・オウンビーが開発したWindows、Linux、Mac OS X向けのアーケードゲームエミュレーターです。ほとんどのセガLaserDiscゲームを含む、複数のLaserDiscベースシステムのゲームを実行します。</daphne_desc>
+	<dataeast_coll>データイースト株式会社（DECO）は、日本のゲーム・電子機器会社でした。1976年から2003年まで操業し、150本のゲームをリリースしました。</dataeast_coll>
+	<dbz_coll>ドラゴンボールのゲームシリーズは、鳥山明による同名の漫画・アニメシリーズを原作としています。シリーズは、七つのドラゴンボールを探して世界を冒険する悟空の物語を描いています。</dbz_coll>
+	<ddr_coll>Dance Dance Revolution（ヨーロッパ初期版ではDancing Stage）は、コナミが生み出した先駆的な音楽ゲームシリーズです。1998年に日本で登場し、プレイヤーはダンスプラットフォームの上で音楽に合わせて色付きの矢印を踏みます。</ddr_coll>
+	<dice_desc>DICEは、ディスクリート集積回路エミュレーターです。CPUを持たず、ディスクリートロジック部品のみで構成されたコンピューターシステムをエミュレートします。</dice_desc>
+	<donkeykong_coll>ドンキーコングは、1981年に宮本茂が考案した、ドンキーコングというゴリラの冒険を描くゲームシリーズです。</donkeykong_coll>
+	<doom_coll>ドゥームは、1993年に最初の作品が発売されたゲームシリーズです。UAC（ユニオン・エアロスペース・コーポレーション）の名もなき宇宙海兵隊員が、悪魔やアンデッドの大群と戦う物語です。</doom_coll>
+	<doubledragon_coll>ダブルドラゴンは、1987年にテクノスジャパンが開発し、タイトーが北米・ヨーロッパで販売したベルトスクロールアクションです。テクノスの前作「熱血硬派くにおくん」の精神的後継作です。</doubledragon_coll>
+	<dragon32_desc>Dragon 32とDragon 64は、1980年代に製造された8ビット家庭用コンピューターです。TRS-80 Color Computerと非常によく似ており、ヨーロッパ市場向けにDragon Dataが生産しました。</dragon32_desc>
+	<dragon64_desc>Dragon 32とDragon 64は、1980年代に製造された8ビット家庭用コンピューターです。TRS-80 Color Computerと非常によく似ており、ヨーロッパ市場向けにDragon Dataが生産しました。</dragon64_desc>
+	<dreamcast_desc>ドリームキャストは、1998年後半に日本で、1999年9月から他の地域でセガが発売した128ビットゲーム機です。第6世代ゲーム機の最初の機種で、ソニーのプレイステーション2、マイクロソフトのXbox、任天堂のゲームキューブに先駆けました。</dreamcast_desc>
+	<dukenukem_coll>デューク・ニューケムは、主人公デューク・ニューケムにちなんで名付けられたゲームシリーズです。シリーズ最初の2作は2Dプラットフォーマーで、後作は一人称・三人称シューターが混在しています。</dukenukem_coll>
+	<ea_coll>エレクトロニック・アーツ（EA）は、カリフォルニア州レッドウッドシティに本社を置くアメリカのゲーム会社です。Activision Blizzardに次ぐ、南北アメリカ・ヨーロッパで2番目に大きなゲーム会社です。</ea_coll>
+	<easports_coll>EAスポーツは、スポーツゲームを開発・販売するエレクトロニック・アーツの部門です。かつてのマーケティング戦略から、FIFAやMadden NFLなどのシリーズを擁する独立レーベルへと成長しました。</easports_coll>
+	<easryrpg_desc>Easy RPGは、RPGツクール2000および2003と互換性のあるゲームをプレイできる、フリーでオープンソースのRPGインタプリタ兼エディターです。</easryrpg_desc>
+	<ecwolf_desc>ECWolfは、Wolf4SDLコードベースを基にした、Wolfenstein 3D、Spear of Destiny、Super 3D Noah's Arkの高機能ソースポートです。</ecwolf_desc>
+	<eidos_coll>アイドス・インタラクティブは、1995年から2005年までのイギリスのソフトウェアパブリッシャーで、トゥームレイダーやチャンピオンシップマネージャーのシリーズで有名です。現在は日本のスクウェア・エニックスグループに属しています。</eidos_coll>
+	<eighting_coll>エイティング株式会社（8ing）は、日本のゲーム開発・販売会社で、旧社名はライジング。シューティングゲームと版権格闘ゲームで知られています。</eighting_coll>
+	<electron_desc>エイコーン・エレクトロンは、同じくエイコーン・コンピューターズが開発したBBC Microの低価格代替機として登場しました。</electron_desc>
+	<famicom_desc>ファミリーコンピュータは、1983年に任天堂が日本で発売した8ビットゲーム機です。略してファミコン、またはFCと呼ばれます。</famicom_desc>
+	<fatalfury_coll>餓狼伝説は、ネオジオ向けにSNKが開発した対戦格闘ゲームシリーズです。餓狼伝説と姉妹シリーズの龍虎の拳は、同じ架空の世界を舞台としています。</fatalfury_coll>
+	<fbn_desc>FinalBurn Neoは、アーケードゲームと一部のゲーム機向けのエミュレーターです。FinalBurnと古いバージョンのMAMEをベースとしています。</fbn_desc>
+	<fds_desc>ファミリーコンピュータ ディスクシステムは、任天堂のファミリーコンピュータ用周辺機器で、1986年2月21日に日本で発売されました。「ディスクカード」と呼ばれる専用フロッピーディスクを使用します。</fds_desc>
+	<finalfantasy_coll>ファイナルファンタジーは、日本のファンタジーシリーズです。1987年に最初の作品が発売され、以降15本のメインタイトルが発売されています。</finalfantasy_coll>
+	<finalfight_coll>ファイナルファイトは、1989年のアーケード版ファイナルファイトに始まるカプコンのベルトスクロールアクションシリーズです。架空の都市メトロシティを舞台としています。</finalfight_coll>
+	<fm7_desc>FM-7は、富士通が開発した家庭用コンピューターです。日本とスペインで販売され、富士通の前身機FM-8の簡易版です。</fm7_desc>
+	<fmtowns_desc>FM TOWNS マーティは、1989年に富士通が発売したFM TOWNSコンピューターシステムをベースとした、第5世代の16ビットゲーム機です。</fmtowns_desc>
+	<freej2me_desc>FreeJ2MEは、古い携帯電話ゲームに焦点を当てたシンプルなJ2ME（Java Platform Micro Edition）エミュレーターです。Windows、Linuxデスクトップ、Raspberry Pi 3上で動作します。</freej2me_desc>
+	<gameandwatch_desc>ゲーム&amp;ウオッチは、1980年から1991年にかけて任天堂が製造した携帯型電子ゲームシリーズです。ゲームデザイナーの横井軍平が考案し、各機種に1つのゲームと液晶画面の時計が搭載されていました。</gameandwatch_desc>
+	<gamecom_desc>ゲームコムは、タイガー・エレクトロニクスが開発した第5世代携帯型ゲーム機です。インターネット接続機能を備えていたことから、名前に「.com」が付いています。</gamecom_desc>
+	<gamegear_desc>セガ・ゲームギアは、セガ初の携帯型ゲーム機です。アタリ・リンクスとターボエクスプレスに次ぐ、3番目の市販カラー携帯型ゲーム機でした。</gamegear_desc>
+	<gametank_desc>GameTankは、新しいゲームと自作開発のために設計されたオープンソースの8ビット家庭用ゲーム機です。</gametank_desc>
+	<gb_desc>ゲームボーイは、1989年に発売された8ビット携帯型ゲーム機です。ゲームボーイシリーズ最初の携帯機で、ゲーム&amp;ウオッチを設計した横井軍平と任天堂の開発部門が開発しました。</gb_desc>
+	<gba_desc>ゲームボーイアドバンスは、ゲームボーイカラーの後継として任天堂が開発した32ビット携帯型ゲーム機です。</gba_desc>
+	<gbc_desc>ゲームボーイカラー（GBC）は、1998年に発売された任天堂の携帯型ゲーム機です。ゲームボーイの後継で、カラー画面を搭載していますがバックライトはありません。</gbc_desc>
+	<gc_desc>ゲームキューブは、第6世代ゲーム機における任天堂の機種で、NINTENDO64の後継です。ソニーのプレイステーション2やマイクロソフトのXboxと競合しました。</gc_desc>
+	<genesis_desc>ジェネシス（米国外ではメガドライブ）は、セガの3番目のゲーム機で、マスターシステムの後継です。メインプロセッサは7.6MHzの16/32ビットMotorola 68000 CPUです。</genesis_desc>
+	<genre-vertical_coll>「私たちは年を取ったから遊ばなくなるのではなく、遊ばなくなったから年を取るのだ！」— ベンジャミン・フランクリン</genre-vertical_coll>
+	<gmaster_desc>ゲームマスターは、任天堂のゲームボーイに対抗するためにハルトゥングが製造した携帯型ゲーム機です。ドイツではハルトゥング自身が、イギリスではシステム2000として販売しました。</gmaster_desc>
+	<gmloader_desc>GameMaker（当初はAnimo、後にGame Maker）は、1999年にマーク・オーバーマーズが開発し、2007年からYoYo Gamesが開発しているクロスプラットフォームのゲームエンジンシリーズです。</gmloader_desc>
+	<gt_coll>GTインタラクティブ・ソフトウェア（GTI）は、1993年2月にGoodTimes Home Videoの一部門として設立されました。複数の合併を経て、現在はAtari, Inc.の一部です。</gt_coll>
+	<gta_desc>グランド・セフト・オートは、1997年にプレイステーション向けに初めて発売されたアクションアドベンチャーシリーズです。多くの作品が実在の都市をモデルにした架空の舞台を描いています。</gta_desc>
+	<gx4000_desc>GX4000は、アムストラッドが製造したゲーム機です。ゲーム機市場への短命な参入の試みで、1990年にヨーロッパで発売され、当時人気のCPC技術をベースにしていました。</gx4000_desc>
+	<ikemen_desc>Ikemen（いつまでも完成しない永遠に未完成エンジンの略）は、M.U.G.E.Nコンテンツと互換性のあるフリーでオープンソースの格闘ゲームエンジンです。</ikemen_desc>
+	<infogrames_coll>インフォグラムは、1983年から2009年までのソフトウェア開発・販売会社で、アローン・イン・ザ・ダークシリーズで有名です。現在はAtari, Inc.の一部です。</infogrames_coll>
+	<intellivision_desc>インテレビジョン（「インテリジェントテレビジョン」）は、1979年にマテルエレクトロニクスが発売した家庭用ゲーム機です。開発は1977年に始まりました。</intellivision_desc>
+	<irem_coll>アイレムソフトウェアエンジニアリングは、日本のゲーム開発・販売会社で、かつてはアーケードゲームの開発・製造も行っていました。本社は東京都千代田区にあります。</irem_coll>
+	<jaguar_desc>アタリジャガーは、アタリコーポレーションが開発し、1993年11月に北米で発売した家庭用ゲーム機です。第5世代の一部として、16ビットのセガ・ジェネシス、スーパーファミコン、32ビットの3DOと競合しました。</jaguar_desc>
+	<kaneko_coll>カネコ株式会社は、東京都杉並区で金子浩が創業した日本のゲームパブリッシャーです。エアバスター、ネクスザール、将軍などのゲームやギャルズパニックシリーズを発売しました。</kaneko_coll>
+	<karaoke_coll>カラオケは、通常クラブやバーで提供されるインタラクティブな娯楽で、録音された音楽に合わせてマイクで歌います。歌詞は通常、映像画面に表示されます。</karaoke_coll>
+	<kof_coll>ザ・キング・オブ・ファイターズは、1994年の「ザ・キング・オブ・ファイターズ'94」に始まるSNKの対戦格闘ゲームシリーズです。当初はネオジオMVSアーケードハードウェア向けに開発されました。</kof_coll>
+	<konami_coll>コナミは、アクションの悪魔城ドラキュラシリーズ、サバイバルホラーのサイレントヒルシリーズ、アクションシューターの魂斗羅シリーズ、ステルスアクションのメタルギアシリーズなどを擁するゲームパブリッシャーです。</konami_coll>
+	<lego_coll>1995年以降、レゴグループの組み立て玩具レゴを題材にした85本の商用ゲームが発売されています。ジャンルはアドベンチャー、ボードゲーム、レーシングなど多岐にわたります。</lego_coll>
+	<lowresnx_desc>LowresNXは、8ビットゲームを作成・プレイできるレトロスタイルのゲーム開発環境です。ピクセルベースのグラフィックエディターとBASIC風のプログラミング言語を提供します。</lowresnx_desc>
+	<lucasarts_coll>ルーカスアーツ・エンターテインメント・カンパニー（Lucasfilm Games）は、アメリカのライセンサーです。2013年まではゲーム開発・販売も行い、グラフィックアドベンチャーやスター・ウォーズ、インディ・ジョーンズのゲームで知られていました。</lucasarts_coll>
+	<m2000_desc>フィリップスP2000Tは、1980年にフィリップスが家庭用コンピューター市場へ本格参入した最初の製品です。</m2000_desc>
+	<macintosh_desc>Macintosh 128Kは、アップルのオリジナルMacintoshパーソナルコンピューターです。グラフィカルユーザーインターフェース、内蔵画面、マウスを備えた、初の成功した大衆向けオールインワンデスクトップです。</macintosh_desc>
+	<mame_desc>MAME（Multiple Arcade Machine Emulatorの頭字語）は、アーケードゲームシステムのハードウェアをソフトウェアで再現するフリーでオープンソースのエミュレーターです。</mame_desc>
+	<mario_coll>マリオは、任天堂が所有し、宮本茂が生み出したゲームシリーズ「マリオ」の架空のキャラクターです。同社のマスコットとして、誕生以来200本以上のゲームに登場しています。</mario_coll>
+	<mastersystem_desc>マスターシステムは、1985年にセガが発売した第3世代ゲーム機です。任天堂エンターテインメントシステムの直接の競合機でした。</mastersystem_desc>
+	<mc10_desc>TRS-80 MC-10は、TRS-80シリーズの中でもあまり知られていない家庭用コンピューターです。VIC-20やSinclair ZX81などのエントリー機に対抗する低価格機でした。</mc10_desc>
+	<megadrive_desc>メガドライブは、セガの3番目のゲーム機で、マスターシステムの後継です。メインプロセッサは7.6MHzの16/32ビットMotorola 68000 CPUです。</megadrive_desc>
+	<megadrivemsu_desc>MSU-MDは、Mega Everdrive Proカートリッジ用の追加チップで、メガドライブのゲームにフルモーションビデオやCD品質のサウンドなどの拡張を追加します。</megadrivemsu_desc>
+	<megaduck_desc>メガダックWG-108（クーガーボーイとしても知られる）は、香港のウェルバック・ホールディングスが開発・製造し、1993年に発売した携帯型ゲーム機です。</megaduck_desc>
+	<megaman_coll>ロックマン（日本国外ではMega Man）は、カプコンが生み出したSFゲームシリーズで、一連のロボットキャラクターが登場します。1987年にファミコン向けに発売されたロックマンは、50本以上に広がるシリーズの第1作です。</megaman_coll>
+	<metalgear_coll>メタルギアは、小島秀夫が生み出し、コナミが開発・販売したステルスアクションアドベンチャーシリーズです。第1作は1987年にMSX向けに発売されました。</metalgear_coll>
+	<metalslug_coll>メタルスラッグは、1996年にSNKと合併する前にナスカが開発したラン&amp;ガンゲームシリーズです。</metalslug_coll>
+	<metroid_coll>メトロイドは、任天堂が生み出したSFアクションシリーズです。銀河を宇宙海賊から守る賞金稼ぎ、サムス・アランの物語です。</metroid_coll>
+	<microvision_desc>マイクロビジョンは、交換式カートリッジを使用した最初の携帯型ゲーム機で、1979年にミルトン・ブラッドリーが発売しました。</microvision_desc>
+	<midway_coll>ミッドウェイはアメリカのゲーム開発・販売会社でした。モータルコンバット、ランページ、スパイハンター、NBAジャム、クルージン、NFLブリッツなどのシリーズを擁し、2009年に倒産しました。</midway_coll>
+	<mortalkombat_coll>モータルコンバットは、1992年に最初の作品が発売されたゲームシリーズです。数多くの続編やスピンオフを生み出しました。</mortalkombat_coll>
+	<msx2_desc>MSXは、1983年6月16日にマイクロソフトとアスキーが発表した標準化された家庭用コンピューターアーキテクチャです。</msx2_desc>
+	<msx_desc>MSXは、1983年6月16日にマイクロソフトとアスキーが発表した標準化された家庭用コンピューターアーキテクチャです。ファミコンの成功以前は、コナミやハドソンなどの日本の大手スタジオがゲームを開発したプラットフォームでした。</msx_desc>
+	<multivision_desc>オセロマルチビジョンは、セガが設計しツクダオリジナルが販売した、SG-1000のライセンスクローンです。</multivision_desc>
+	<n64_desc>コードネームUltra64として開発されたNINTENDO64は、1996年に発売され、カートリッジを主な記憶媒体として使用した最後の主要家庭用ゲーム機でした。全世界で3293万台が販売されました。</n64_desc>
+	<n64dd_desc>64DDは、1999年に日本で発売されたNINTENDO64用の磁気ディスクドライブ周辺機器です。記憶容量を拡張しオンライン機能を追加しましたが、商業的には失敗しました。</n64dd_desc>
+	<namco_coll>ナムコは、東京都大田区に本社を置く日本のアーケードおよび家庭用ゲームの開発・販売会社でした。2005年に50年の歴史を経てバンダイと合併しました。</namco_coll>
+	<naomi_desc>セガNAOMI（New Arcade Operation Machine Idea）は、セガ・モデル3の後継として1998年に発売されたアーケードシステム基板です。ドリームキャストと同じアーキテクチャを使用しています。</naomi_desc>
+	<nds_desc>ニンテンドーDSは、任天堂が開発・発売した32ビットのデュアルスクリーン携帯型ゲーム機です。2004年11月21日に北米で発売されました。</nds_desc>
+	<neogeo_desc>ネオジオAESは、当初日本のゲームショップ向けのレンタル用ゲーム機（ネオジオレンタルシステム）として発売されました。高い需要により、後に高級ゲーム機として市場に出回りました。</neogeo_desc>
+	<neogeocd_desc>ネオジオCDは、AESシステムの安価な代替機として発売されたSNKの2番目の家庭用ゲーム機です。内部ハードウェアは同じですが、ゲームははるかに安価なCD-ROMで動作します。</neogeocd_desc>
+	<nes_desc>任天堂エンターテインメントシステムは、1985年に任天堂が北米で発売した8ビットゲーム機です。当時最も売れたゲーム機として、1983年のゲーム市場崩壊後のアメリカのゲーム業界復興に貢献しました。</nes_desc>
+	<ngp_desc>ネオジオポケットは、SNKが発売したモノクロ携帯型ゲーム機です。同社初の携帯機で、1998年後半に日本でデビューしました。</ngp_desc>
+	<ngpc_desc>ネオジオポケットカラーは、SNKが製造した16ビットカラー携帯型ゲーム機です。1998年にデビューしたモノクロのネオジオポケットの後継で、完全な後方互換性があります。</ngpc_desc>
+	<nintendo_coll>任天堂は、ゲームボーイ、スーパーファミコン、ニンテンドーDS、Wii、Nintendo Switchなど、ゲーム業界で最も成功したゲーム機の数々を生み出してきました。</nintendo_coll>
+	<ocean_coll>オーシャンソフトウェアは、1980年代から1990年代にかけてヨーロッパ最大級のゲーム開発・販売会社の一つとなったイギリスのソフトウェア開発会社です。ランボー、ショート・サーキット、コブラなどの映画ライセンスを初めて取得したゲーム会社です。</ocean_coll>
+	<openbor_desc>OpenBORは、ロイヤリティフリーのスプライトベース横スクロールゲームエンジンです。ダブルドラゴン、ベア・ナックル、ファイナルファイトのようなベルトスクロールアクション向けに最適化されています。</openbor_desc>
+	<oricatmos_desc>オリックは、1980年代にタンジェリン・コンピューター・システムズが販売した家庭用コンピューターブランドです。全機種がMOS Technology 6502Aマイクロプロセッサを搭載していました。</oricatmos_desc>
+	<outrun_coll>アウトランは、1986年9月にセガが発売したアーケードレーシングゲームです。革新的なハードウェアとグラフィック、非線形のゲームプレイ、選択可能なサウンドトラックで知られています。</outrun_coll>
+	<pc88_desc>1979年から1989年にかけてNECが製造した日本の8ビットパーソナルコンピューターのシリーズです。</pc88_desc>
+	<pc98_desc>1982年から2000年にかけてNECが製造した日本の16ビットおよび32ビットパーソナルコンピューターのシリーズです。</pc98_desc>
+	<pc_desc>DOSBoxは、MS-DOS互換のオペレーティングシステム向けソフトウェア、主にゲームを実行するフリーでオープンソースのエミュレーターです。DOS技術が時代遅れになりつつあった2002年に初めてリリースされました。</pc_desc>
+	<pce-cd_desc>PCエンジン（北米ではTurboGrafx-16）は、ハドソンとNECが開発したゲーム機で、1987年10月30日に日本で発売されました。</pce-cd_desc>
+	<pcengine_desc>PCエンジンは、1987年10月30日に日本で発売されました。強力なサードパーティサポートを得て、スーパーファミコンの主要なライバルとなりました。</pcengine_desc>
+	<pcfx_desc>PC-FXは、1994年に発売された32ビット家庭用ゲーム機です。PCエンジンの後継として開発され、NECの家庭用ゲーム機市場への最後の進出となりました。</pcfx_desc>
+	<pgm2_desc>IGSポリゲームマスター2は、2007年にIGSが発売したアーケードシステムで、IGSポリゲームマスターの後継です。</pgm2_desc>
+	<pgm_desc>ポリゲームマスター（PGM）は、1997年に台湾のIGSが発売したアーケードシステム基板です。SNKのネオジオMVSに対抗するために開発されました。</pgm_desc>
+	<pico8_desc>PICO-8は、レクサロフ・ゲームズが開発した仮想マシン兼ゲームエンジンです。1980年代頃のゲーム機の厳しいハードウェア制限を再現することで、架空のゲーム機を模倣しています。</pico8_desc>
+	<pico_desc>「エデュテインメント」として販売されたセガピコは、3歳から7歳の子供向け教育ゲームを中心としていました。</pico_desc>
+	<pokemini_desc>ポケモンミニは、ポケモンフランチャイズをテーマに任天堂が設計・製造した携帯型ゲーム機です。任天堂が製造した中で最小のカートリッジ交換式ゲーム機です。</pokemini_desc>
+	<pokemon_coll>ポケットモンスターは、任天堂と株式会社ポケモンが発売するゲームシリーズです。田尻智が生み出し、最初の作品「ポケットモンスター 赤・緑」は1996年に日本でゲームボーイ向けに発売されました。</pokemon_coll>
+	<ports_desc>PCからDOSへのソフトウェアやゲームエンジンのマルチプラットフォーム移植版です。</ports_desc>
+	<prboom_coll>ドゥームは、1993年に最初の作品が発売されたゲームシリーズです。UACの名もなき宇宙海兵隊員が悪魔やアンデッドの大群と戦う物語です。</prboom_coll>
+	<psikyo_coll>彩京は、シューティングゲームと脱衣麻雀で知られる日本のゲーム開発・販売会社でした。主にアーケードゲームを開発し、一部を家庭用ゲーム機にも移植しました。</psikyo_coll>
+	<psp_desc>プレイステーション・ポータブル（PSP）は、2005年にソニーが発売した携帯型ゲーム機です。任天堂の携帯機支配に対する最初の本格的な競合機でした。</psp_desc>
+	<pspminis_desc>PSP Minisは、PSP goと同時に発売された100MB以下のデジタルゲームです。合計290本のMinisゲームが発売されました。</pspminis_desc>
+	<psx_desc>プレイステーション（非公式にPSXと略される）は、ソニー・コンピュータエンタテインメントが開発・販売した家庭用ゲーム機です。シリーズ最初の機種は、10年足らずで1億台以上を出荷した最初のゲーム機となりました。</psx_desc>
+	<quake_coll>Quakeは、id Softwareが開発し、2010年からベセスダ・ソフトワークスが発売している一人称シューティングゲームシリーズです。</quake_coll>
+	<residentevil_coll>バイオハザードは、カプコンが生み出したゲームシリーズです。1996年にプレイステーション向けに発売された第1作は、サバイバルホラージャンルを定義づけました。</residentevil_coll>
+	<residualvm_desc>ResidualVMは、共通のグラフィカルユーザーインターフェースを備えた3Dゲームエンジンの再実装からなるクロスプラットフォームプログラムです。Grim Fandango、Myst III: Exile、The Longest Journeyに対応しています。</residualvm_desc>
+	<rockstar_coll>ロックスター・ゲームスは、ニューヨーク市に本社を置くアメリカのゲームパブリッシャーです。1998年12月にテイクツー・インタラクティブの子会社として設立され、BMGインタラクティブから取得した資産（グランド・セフト・オートの生みの親DMA Designを含む）を活用しました。</rockstar_coll>
+	<samcoupe_desc>SAM Coupéは、スウォンジーに拠点を置くマイルズ・ゴードン・テクノロジー（MGT）が製造した8ビットのイギリス製家庭用コンピューターです。ZX Spectrum 48Kをベースに設計され、互換モードを備えていました。</samcoupe_desc>
+	<samuraishodown_coll>サムライスピリッツ（日本国外ではSamurai Shodown）は、SNKの対戦格闘ゲームシリーズです。18世紀の日本を舞台としています。</samuraishodown_coll>
+	<satellaview_desc>サテラビューは、任天堂のスーパーファミコン用の衛星モデム周辺機器で、1995年に日本でのみ発売されました。St.GIGA衛星サービスを通じてゲーム、雑誌、放送をダウンロードできました。</satellaview_desc>
+	<saturn_desc>セガサターンは日本では当初成功しましたが、1995年5月の発売後、米国では大量に売れませんでした。複雑なハードウェア設計のため、評価は分かれています。</saturn_desc>
+	<sc-3000_desc>SC-3000は、セガが設計・製造した最初で唯一のコンピューターです。1983年7月に日本で発売されました。</sc-3000_desc>
+	<scummvm_desc>ScummVM（Script Creation Utility for Maniac Mansion Virtual Machine）は、ゲームエンジンの再実装の集合です。当初はSCUMMシステムを使用するルーカスアーツのアドベンチャーゲーム向けに設計されました。</scummvm_desc>
+	<scv_desc>スーパーカセットビジョンは、エポック社が製造し、日本と後にヨーロッパ（特にフランス）で発売された家庭用ゲーム機です。ファミコンやセガのSG-1000シリーズと競合しました。</scv_desc>
+	<sega32x_desc>スーパー32Xは、セガ・ジェネシス用のアドオンです。コードネーム「プロジェクト・マーズ」として、セガサターンの発売までジェネシスの性能を拡張するために設計されました。</sega32x_desc>
+	<sega_coll>セガは、東京都品川区に本社を置く日本の多国籍ゲーム開発・販売会社です。ソニック・ザ・ヘッジホッグ、トータルウォー、龍が如くなどのミリオンセラーシリーズを生み出してきました。</sega_coll>
+	<segacd_desc>メガCDは、第4世代ゲーム機の一部としてセガが製造した、セガ・ジェネシス用のCD-ROMアクセサリーです。</segacd_desc>
+	<setup_desc>「有限ゲームは勝つためにプレイされ、無限ゲームはプレイを続けるためにプレイされる。」— ジェームズ・P・カース</setup_desc>
+	<sfc_desc>スーパーファミコンは、1990年に日本で発売された任天堂の16ビット家庭用ゲーム機です。他の国ではスーパーファミコン（Super Nintendo）として販売されました。</sfc_desc>
+	<sg-1000_desc>セガのSG-1000（別名Mark I）は、1983年7月に発売された、同社初の家庭用ゲーム機への挑戦でした。当時としてはかなり先進的なシステムでした。</sg-1000_desc>
+	<sgb_desc>スーパーゲームボーイは、スーパーファミコンでゲームボーイのカートリッジをプレイできる周辺機器です。1994年6月に発売されました。</sgb_desc>
+	<sharpx1_desc>X1（シャープX1またはCZ-800C）は、1982年から1988年にかけてシャープが発売した家庭用コンピューターシリーズです。Zilog Z80 CPUを搭載しています。</sharpx1_desc>
+	<silenthill_coll>サイレントヒルは、外山圭一郎が生み出し、コナミが開発・販売したサバイバルホラーゲームシリーズを中心とするホラーメディアフランチャイズです。</silenthill_coll>
+	<simpsons_coll>ザ・シンプソンズは、ホーマー、マージ、バート、リサ、マギーのシンプソン一家に象徴される、アメリカの生活を風刺した作品です。</simpsons_coll>
+	<snes_desc>任天堂の2番目の家庭用ゲーム機は、当時の他のシステムと比べて高度なグラフィックとサウンドを備え、全世界で4900万台以上を販売しました。</snes_desc>
+	<snesmsu1_desc>MSU-1は、スーパーファミコンのゲームにフルモーションビデオやCD品質のサウンドなどの多くの拡張を追加するカートリッジ用チップです。</snesmsu1_desc>
+	<snk_coll>SNK（株式会社SNK）は、日本のゲームハードウェア・ソフトウェア会社です。1990年のネオジオファミリー（アーケード・家庭用・携帯型）の生みの親として知られています。</snk_coll>
+	<socrates_desc>VTechソクラテスは、VTechが製造・発売した教育用家庭用ゲーム機です。ギリシャの哲学者にちなんで名付けられたロボットキャラクター、ソクラテスが登場します。</socrates_desc>
+	<solarus_desc>Solarusは、アクションRPG向けの軽量でフリー、オープンソースのゲームエンジンです。C++で構築され、Luaで作られたゲームを実行します。</solarus_desc>
+	<sonic_coll>ソニックは、セガが生み出し所有するフランチャイズです。悪の科学者ドクター・エッグマンと戦う、青いハリネズミのソニックの物語です。</sonic_coll>
+	<streetfighter_coll>ストリートファイターは、カプコンが開発・販売するフランチャイズです。1987年に第1作が発売され、その後5本のメインシリーズと多数のスピンオフが展開されました。</streetfighter_coll>
+	<supergrafx_desc>スーパーグラフィックスは、PCエンジンの後継機です。開発中はPCエンジン2として知られ、前機種よりも優れたグラフィックとサウンドを備えた真の16ビットゲーム機とされました。</supergrafx_desc>
+	<supervision_desc>ワタラ・スーパービジョン（イギリスではQuickShot Supervision）は、1992年に任天堂のゲームボーイの低価格競合機として登場したモノクロ携帯型ゲーム機です。</supervision_desc>
+	<sys_1970s_coll>1970年代はアーケードゲーム黄金時代の始まりでした。Pac-Man、Galaxians、Space Invadersなどの名作を生んだコイン式筐体が人気を博し、Atari 2600のような最初の家庭用ゲーム機も登場しました。</sys_1970s_coll>
+	<sys_1980s_coll>1980年代は、SinclairやCommodoreの家庭用コンピューターと、SegaやNintendoによる最初の大型ゲーム機の発売により、手頃な家庭用ゲームの時代が始まりました。</sys_1980s_coll>
+	<sys_1990s_coll>1990年代にはStreet Fighter、Tekken、Mortal Kombatなどの格闘ゲームでアーケードが再び盛り上がり、家庭用市場にはSony PlayStation、Sega Saturn、Nintendo 64といった第5世代機が登場しました。</sys_1990s_coll>
+	<sys_3do_desc>3DOは、起業家でElectronic Arts創業者のトリップ・ホーキンスが構想した家庭用ゲーム機です。本体は自社生産ではなく、初期モデルはPanasonicが、後にはGoldStarとSanyoが製造しました。</sys_3do_desc>
+	<taito_coll>タイトーは、東京都新宿区に本社を置く、ゲーム、玩具、アーケード筐体、ゲームセンターを手がける日本の会社です。1953年にマイケル・コーガンが太東貿易として創業し、1973年にゲームの生産を開始しました。</taito_coll>
+	<tekken_coll>鉄拳は、バンダイナムコエンターテインメントが開発・販売する対戦格闘ゲームシリーズを中心とする日本のメディアフランチャイズです。</tekken_coll>
+	<tg16_desc>TurboGrafx-16（日本ではPCエンジン）は、ハドソンとNECが開発したゲーム機で、1987年10月30日に日本で発売されました。</tg16_desc>
+	<tg16cd_desc>TurboGrafx-CDは、TurboGrafx-16用のアドオンです。フルモーションビデオやCDオーディオの再生能力と、大幅に拡張された記憶容量を追加します。</tg16cd_desc>
+	<thomson_desc>トムソンMO5は、1984年6月にフランスで発売された家庭用コンピューターで、ZX SpectrumやCommodore 64に対抗しました。</thomson_desc>
+	<ti99_desc>TI-99/4およびTI-99/4Aは、テキサス・インスツルメンツが発売した家庭用コンピューターです。TI-99/4は最初の16ビット家庭用コンピューターでした。</ti99_desc>
+	<tic-80_desc>TIC-80は、小さなゲームを作成・プレイ・共有するためのファンタジーコンピューターです。ゲームは240x136ピクセル、16色、4チャンネルサウンドに制限されています。</tic-80_desc>
+	<tigerlcd_desc>タイガー・エレクトロニクスは、1980年代から1990年代にかけて、それぞれ1つのゲームを内蔵した専用の携帯型LCDゲームを数多く製造しました。</tigerlcd_desc>
+	<tmnt_coll>ティーンエイジ・ミュータント・ニンジャ・タートルズは、4匹のスーパーヒーローのカメです。イタリアのルネサンスの芸術家にちなんで名付けられました。</tmnt_coll>
+	<toaplan_coll>東亜プランは、数多くのスクロールシューティングやアーケードゲームを生み出した日本のゲーム開発会社です。初のシューティング「タイガーヘリ」の成功により、1980年代から1990年代にかけてシューティングの大手メーカーとしての地位を確立しました。</toaplan_coll>
+	<tombraider_coll>トゥームレイダーは、1996年にデビューしたメディアフランチャイズです。ララはゲーム業界のアイコンとなりました。</tombraider_coll>
+	<tutor_desc>トミー・チューター（日本ではぴゅう太）は、日本の玩具メーカー、トミーが製造した家庭用コンピューターです。TI-99/4Aと似たアーキテクチャです。</tutor_desc>
+	<tux_coll>SuperTux、SuperTux Kart、SuperTux Partyは、スーパーマリオに触発されたオープンソースゲームです。</tux_coll>
+	<type_1970_s_arcade_machines>1970's  · Arcade Machines</type_1970_s_arcade_machines>
+	<type_1970_s_coin_operated_cabinet>1970's  · Coin Operated Cabinet</type_1970_s_coin_operated_cabinet>
+	<type_1970_s_programming_language>1970's  · Programming Language</type_1970_s_programming_language>
+	<type_1976_8_bit_console>1976  · 8-bit コンソール</type_1976_8_bit_console>
+	<type_1977_8_bit_computer>1977  · 8-bit computer</type_1977_8_bit_computer>
+	<type_1977_8_bit_console>1977  · 8-bit コンソール</type_1977_8_bit_console>
+	<type_1978_8_bit_console>1978  · 8-bit コンソール</type_1978_8_bit_console>
+	<type_1979_16_bit_computer>1979  · 16-bit コンピューター</type_1979_16_bit_computer>
+	<type_1979_8_bit_computer>1979  · 8-bit コンピューター</type_1979_8_bit_computer>
+	<type_1979_handheld_console>1979  ·  携帯型コンソール</type_1979_handheld_console>
+	<type_1979_virtual_machine>1979  · Virtual Machine</type_1979_virtual_machine>
+	<type_1980_8_bit_computer>1980  · 8-bit コンピューター</type_1980_8_bit_computer>
+	<type_1980_8_bit_console>1980  · 8-bit コンソール</type_1980_8_bit_console>
+	<type_1980_s_computer>1980's  · コンピューター</type_1980_s_computer>
+	<type_1981_8_bit_computer>1981  · 8-bit コンピューター</type_1981_8_bit_computer>
+	<type_1981_8_bit_console>1981  ·  8ビットコンソール</type_1981_8_bit_console>
+	<type_1982_16_bit_computer>1982  · 16-bit コンピューター</type_1982_16_bit_computer>
+	<type_1982_2nd_gen_console>1982  · 2nd Gen Console</type_1982_2nd_gen_console>
+	<type_1982_32_bit_computer>1982  · 32-bit コンピューター</type_1982_32_bit_computer>
+	<type_1982_8_bit_computer>1982  · 8-bit コンピューター</type_1982_8_bit_computer>
+	<type_1982_8_bit_console>1982  · 8-bit コンソール</type_1982_8_bit_console>
+	<type_1983_8_bit_computer>1983  · 8-bit コンピューター</type_1983_8_bit_computer>
+	<type_1983_8_bit_console>1983  · 8-bit コンソール</type_1983_8_bit_console>
+	<type_1984_16_bit_computer>1984  · 16-bit コンピューター</type_1984_16_bit_computer>
+	<type_1984_8_bit_computer>1984  · 8-bit コンピューター</type_1984_8_bit_computer>
+	<type_1984_8_bit_console>1984  · 8-bit コンソール</type_1984_8_bit_console>
+	<type_1985_16_bit_computer>1985  · 16-bit コンピューター</type_1985_16_bit_computer>
+	<type_1985_8_bit_computer>1985  · 8-bit コンピューター</type_1985_8_bit_computer>
+	<type_1985_8_bit_console>1985  · 8-bit コンソール</type_1985_8_bit_console>
+	<type_1986_8_bit_computer>1986  · 8-bit コンピューター</type_1986_8_bit_computer>
+	<type_1986_8_bit_console>1986  · 8-bit コンソール</type_1986_8_bit_console>
+	<type_1987_16_bit_console>1987  · 16-bit コンソール</type_1987_16_bit_console>
+	<type_1987_24_bit_computer>1987  · 24-bit コンピューター</type_1987_24_bit_computer>
+	<type_1987_32_bit_computer>1987  · 32-bit コンピューター</type_1987_32_bit_computer>
+	<type_1987_8_bit_console>1987  ·  8ビットコンソール</type_1987_8_bit_console>
+	<type_1988_16_bit_console>1988  · 16-bit コンソール</type_1988_16_bit_console>
+	<type_1988_8_bit_console>1988  · 8-bit コンソール</type_1988_8_bit_console>
+	<type_1988_arcade_system_board>1988  · アーケード基板</type_1988_arcade_system_board>
+	<type_1989_16_bit_console>1989  · 16-bit コンソール</type_1989_16_bit_console>
+	<type_1989_16_bit_handheld_console>1989 · 16-bit 携帯型コンソール</type_1989_16_bit_handheld_console>
+	<type_1989_8_bit_computer>1989  · 8-bit コンピューター</type_1989_8_bit_computer>
+	<type_1989_8_bit_handheld_console>1989  · 8-bit 携帯型コンソール</type_1989_8_bit_handheld_console>
+	<type_1990_16_bit_console>1990  · 16-bit コンソール</type_1990_16_bit_console>
+	<type_1990_24_bit_console>1990  · 24-bit コンソール</type_1990_24_bit_console>
+	<type_1990_8_bit_console>1990  · 8-bit コンソール</type_1990_8_bit_console>
+	<type_1990_8_bit_handheld_console>1990  · 8-bit 携帯型コンソール</type_1990_8_bit_handheld_console>
+	<type_1990_handheld_console>1990  · 携帯型コンソール</type_1990_handheld_console>
+	<type_1991_16_bit_computer>1991  ·  16ビットコンピューター</type_1991_16_bit_computer>
+	<type_1991_16_bit_console>1991  · 16-bit コンソール</type_1991_16_bit_console>
+	<type_1992_handheld_console>1992  · 携帯型コンソール</type_1992_handheld_console>
+	<type_1993_32_bit_console>1993  · 32-bit コンソール</type_1993_32_bit_console>
+	<type_1993_4th_gen_console>1993  · 第4世代コンソール</type_1993_4th_gen_console>
+	<type_1993_arcade_system_board>1993  · アーケード基板</type_1993_arcade_system_board>
+	<type_1993_handheld_console>1993  · handheld Console</type_1993_handheld_console>
+	<type_1994_32_bit_console>1994  · 32-bit コンソール</type_1994_32_bit_console>
+	<type_1994_console_adapter>1994  · Console adapter</type_1994_console_adapter>
+	<type_1995_32_bit_table_top_console>1995  · 32-bit Table-top Console</type_1995_32_bit_table_top_console>
+	<type_1995_handheld_console>1995  ·  携帯型コンソール</type_1995_handheld_console>
+	<type_1995_peripheral>1995  · Peripheral</type_1995_peripheral>
+	<type_1996_64_bit_console>1996  · 64-bit コンソール</type_1996_64_bit_console>
+	<type_1996_arcade_system_board>1996  · アーケード基板</type_1996_arcade_system_board>
+	<type_1997_arcade_board>1997  · Arcade Board</type_1997_arcade_board>
+	<type_1997_handheld_console>1997  · 携帯型コンソール</type_1997_handheld_console>
+	<type_1998_128_bit_console>1998  · 128-bit コンソール</type_1998_128_bit_console>
+	<type_1998_16_bit_handheld_console>1998  · 16-bit 携帯型コンソール</type_1998_16_bit_handheld_console>
+	<type_1998_8_bit_handheld_console>1998  · 8-bit 携帯型コンソール</type_1998_8_bit_handheld_console>
+	<type_1998_arcade_board>1998  · Arcade Board</type_1998_arcade_board>
+	<type_1998_peripheral>1998  ·  周辺機器</type_1998_peripheral>
+	<type_1999_16_bit_handheld_console>1999 · 16-bit 携帯型コンソール</type_1999_16_bit_handheld_console>
+	<type_1999_peripheral>1999  ·  周辺機器</type_1999_peripheral>
+	<type_2001_32_bit_console>2001  · 32-bit コンソール</type_2001_32_bit_console>
+	<type_2001_32_bit_handheld_console>2001  · 32-bit 携帯型コンソール</type_2001_32_bit_handheld_console>
+	<type_2001_handheld_console>2001  · 携帯型コンソール</type_2001_handheld_console>
+	<type_2003_32_bit_board>2003  · 32-bit Board</type_2003_32_bit_board>
+	<type_2004_32_bit_handheld_console>2004  · 32-bit 携帯型コンソール</type_2004_32_bit_handheld_console>
+	<type_2004_6th_gen_console>2004  · 6th Gen Console</type_2004_6th_gen_console>
+	<type_2006_32_bit_console>2006  · 32-bit コンソール</type_2006_32_bit_console>
+	<type_2007_arcade_board>2007  · Arcade Board</type_2007_arcade_board>
+	<type_2008_emulator>2008  · Emulator</type_2008_emulator>
+	<type_2015_handheld_console>2015  · 携帯型コンソール</type_2015_handheld_console>
+	<type_2020_s_virtual_console>2020's  · Virtual Console</type_2020_s_virtual_console>
+	<type_2021_8_bit_console>2021  · 8-bit コンソール</type_2021_8_bit_console>
+	<type_2023_8_bit_console>2023  · 8-bit コンソール</type_2023_8_bit_console>
+	<type_32_bit_virtual_console>32-bit Virtual Console</type_32_bit_virtual_console>
+	<type_8_bit_virtual_machine>8-bit Virtual Machine</type_8_bit_virtual_machine>
+	<type_collection>ゲームコレクション</type_collection>
+	<type_cross_plaform_game_engine>Cross-Plaform Game Engine</type_cross_plaform_game_engine>
+	<type_cross_platform_computer>クロスプラットフォームコンピュータ</type_cross_platform_computer>
+	<type_game_engine>ゲームエンジン</type_game_engine>
+	<type_gaming_engine>ゲームエンジン</type_gaming_engine>
+	<type_handheld_electronic_games>携帯型電子ゲーム</type_handheld_electronic_games>
+	<type_homebrew_games_console>自作ゲームコンソール</type_homebrew_games_console>
+	<type_java_emulator>Java エミュレータ</type_java_emulator>
+	<type_multi_platform_emulator>マルチプラットフォームエミュレータ</type_multi_platform_emulator>
+	<type_multi_platform_port>マルチプラットフォーム移植</type_multi_platform_port>
+	<type_software>ソフトウェア</type_software>
+	<type_standardized_computer_architecture>標準化されたコンピュータアーキテクチャ</type_standardized_computer_architecture>
+	<ultimate_coll>アシュビー・コンピューターズ・アンド・グラフィックスは、元アーケード開発者のティムとクリスのスタンパー兄弟が1982年に設立したイギリスのゲーム開発・販売会社です。ZX Spectrum、Amstrad CPC、BBC Micro、MSX、Commodore 64向けに数々の成功作を発表しました。</ultimate_coll>
+	<uzebox_desc>Uzeboxは、レトロミニマリストな8ビットのオープンソースゲーム機です。AtmelのAVR 8ビットマイクロコントローラーをベースとしています。</uzebox_desc>
+	<vc4000_desc>Interton Video Computer 4000（Interton VC 4000）は、ドイツの補聴器メーカー、インタートンが一部のヨーロッパ諸国で発売したカートリッジ式ゲーム機です。</vc4000_desc>
+	<vectrex_desc>ベクトレックスは、スミス・エンジニアリングが開発した、ベクター表示をベースとしたユニークな家庭用ゲーム機です。1982年11月に北米で発売されました。</vectrex_desc>
+	<vic20_desc>VIC-20は、100万台を売り上げた最初のコンピューターでした。</vic20_desc>
+	<videopac_desc>マグナボックス・オデッセイ2（フィリップス・オデッセイ2としても知られる）は、1978年に発売された第2世代家庭用ゲーム機です。ヨーロッパではフィリップス・ビデオパックG7000として販売されました。</videopac_desc>
+	<vircon32_desc>Vircon32は、その名の通り32ビットの仮想コンソールです。ソフトウェアまたはハードウェアで実装できる標準として設計されています。</vircon32_desc>
+	<virtualboy_desc>バーチャルボーイは、任天堂が開発した32ビットの卓上型携帯ゲーム機です。立体視「3D」グラフィックを表示できる最初のゲーム機として宣伝されましたが、販売は失敗しました。</virtualboy_desc>
+	<vmu_desc>ビジュアルメモリユニット（VMU）は、内蔵画面を備えたセガ・ドリームキャスト用のメモリーカード周辺機器で、1998年に発売されました。ミニゲーム用の小型携帯機としても機能しました。</vmu_desc>
+	<vsmile_desc>V.Smile（V.SMILE TV Learning System）は、VTechが製造・発売した第6世代の教育用家庭用ゲーム機です。</vsmile_desc>
+	<wasm4_desc>WASM-4は、Pico-8やTIC-80に似た、アドゥロスが開発したファンタジーコンソールです。2021年にリリースされました。</wasm4_desc>
+	<wii_desc>Wiiは、2006年に任天堂が発売した家庭用ゲーム機です。第7世代機として、マイクロソフトのXbox 360やソニーのプレイステーション3と競合しました。</wii_desc>
+	<wonderswan_desc>ワンダースワンは、バンダイが日本で発売した携帯型ゲーム機です。16ビットCPUを搭載し、低価格と長いバッテリー寿命が特徴でした。</wonderswan_desc>
+	<wonderswancolor_desc>ワンダースワンカラーは、バンダイが日本で発売した携帯型ゲーム機です。16ビットCPUを搭載し、低価格と長いバッテリー寿命が特徴でした。</wonderswancolor_desc>
+	<x16_desc>Commander X16（通称X16）は、現代の（レトロな）ハードウェアプラットフォームです。コモドールファミリーとKERNAL互換性のある、現代の部品で構築されたホビーコンピューターを目指しています。</x16_desc>
+	<x1_desc>X1（シャープX1またはCZ-800C）は、1982年から1988年にかけてシャープが発売した家庭用コンピューターシリーズです。</x1_desc>
+	<x68000_desc>X68000は、シャープが開発した32ビットの日本製コンピューターシリーズです。本物のアーケード品質のグラフィックを提供した最初の家庭用システムでした。</x68000_desc>
+	<zelda_desc>ゼルダの伝説は、宮本茂と手塚卓志が生み出したハイファンタジー・アクションアドベンチャーゲームのフランチャイズです。任天堂が開発・販売しています。</zelda_desc>
+	<zmachine_desc>Z-machineは、1979年にジョエル・ベレズとマーク・ブランクが開発し、インフォコムがテキストアドベンチャーゲームに使用した仮想マシンです。</zmachine_desc>
+	<zx81_desc>ZX81は、シンクレア・リサーチが開発し、スコットランドのダンディーでタイメックスが製造した家庭用コンピューターです。1981年3月にシンクレアZX80の後継としてイギリスで発売されました。</zx81_desc>
+	<zxspectrum_desc>ZX Spectrumは、1982年にシンクレア・リサーチがイギリスで発売した8ビット家庭用コンピューターです。開発中はZX81 ColourやZX82と呼ばれていました。</zxspectrum_desc>
+</variables>
+</theme>

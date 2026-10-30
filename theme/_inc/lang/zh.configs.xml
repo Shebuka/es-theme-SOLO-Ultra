@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+	<bg_dark>深色</bg_dark>
+	<bg_light>浅色</bg_light>
+	<color_amber>琥珀</color_amber>
+	<color_carbon>碳黑</color_carbon>
+	<color_emerald>翡翠绿</color_emerald>
+	<color_sapphire>蓝宝石</color_sapphire>
+	<color_solo_red>SOLO 深红</color_solo_red>
+	<delay_0>无延迟</delay_0>
+	<delay_1>1 秒</delay_1>
+	<delay_2>2 秒</delay_2>
+	<delay_3>3 秒</delay_3>
+	<delay_5>5 秒</delay_5>
+	<delay_off>禁用视频</delay_off>
+	<font_normal>标准</font_normal>
+	<font_small>小</font_small>
+	<label_default>默认</label_default>
+	<label_no>否</label_no>
+	<label_none>无</label_none>
+	<label_yes>是</label_yes>
+	<langue>zh</langue>
+	<logo_color>彩色徽标</logo_color>
+	<logo_solo>SOLO 徽标</logo_solo>
+	<logo_white>白色徽标</logo_white>
+	<subset_text>文字大小</subset_text>
+	<subset_logos>徽标样式</subset_logos>
+	<subset_backgrounds>背景</subset_backgrounds>
+	<subset_video>视频延迟</subset_video>
+</variables>
+</theme>

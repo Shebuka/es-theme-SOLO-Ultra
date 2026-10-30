@@ -1,0 +1,13 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		<text name="shortdescription" extra="true">
+			<text>${type_1979_handheld_console}</text>
+		</text>
+		<text name="description" extra="true">
+			<text>${microvision_desc}</text>
+		</text>
+
+	</view>
+</theme>

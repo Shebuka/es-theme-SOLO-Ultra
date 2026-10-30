@@ -1,0 +1,14 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="shortdescription" extra="true">
+			<text>${type_1993_handheld_console}</text>
+		</text>
+		<text name="description" extra="true">
+			<text>${megaduck_desc}</text>
+		</text>
+
+	</view>
+</theme>

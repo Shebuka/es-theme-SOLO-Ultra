@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+  <variables>
+    <logoset>solo</logoset>
+  </variables>
+
+	<view name="system">
+		<image name="logo">
+			<path>./../../_art/logos/${logoset}/${system.theme}.png</path>
+		</image>
+	</view>
+</theme>

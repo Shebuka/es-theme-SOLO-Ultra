@@ -1,0 +1,13 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		<text name="shortdescription" extra="true">
+			<text>${type_2021_8_bit_console}</text>
+		</text>
+		<text name="description" extra="true">
+			<text>${gametank_desc}</text>
+		</text>
+
+	</view>
+</theme>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+	<bg_dark>Тёмный</bg_dark>
+	<bg_light>Светлый</bg_light>
+	<color_amber>Янтарь</color_amber>
+	<color_carbon>Уголь</color_carbon>
+	<color_emerald>Изумруд</color_emerald>
+	<color_sapphire>Сапфир</color_sapphire>
+	<color_solo_red>SOLO Тёмно-красный</color_solo_red>
+	<delay_0>Без задержки</delay_0>
+	<delay_1>1 секунда</delay_1>
+	<delay_2>2 секунды</delay_2>
+	<delay_3>3 секунды</delay_3>
+	<delay_5>5 секунд</delay_5>
+	<delay_off>Отключить видео</delay_off>
+	<font_normal>Обычный</font_normal>
+	<font_small>Мелкий</font_small>
+	<label_default>По умолчанию</label_default>
+	<label_no>Нет</label_no>
+	<label_none>Нет</label_none>
+	<label_yes>Да</label_yes>
+	<langue>ru</langue>
+	<logo_color>Цветные логотипы</logo_color>
+	<logo_solo>Логотипы SOLO</logo_solo>
+	<logo_white>Белые логотипы</logo_white>
+	<subset_text>Размер текста</subset_text>
+	<subset_logos>Стиль логотипа</subset_logos>
+	<subset_backgrounds>Фон</subset_backgrounds>
+	<subset_video>Задержка видео</subset_video>
+</variables>
+</theme>

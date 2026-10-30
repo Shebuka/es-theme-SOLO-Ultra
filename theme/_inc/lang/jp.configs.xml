@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+	<bg_dark>ダーク</bg_dark>
+	<bg_light>ライト</bg_light>
+	<color_amber>アンバー</color_amber>
+	<color_carbon>カーボン</color_carbon>
+	<color_emerald>エメラルド</color_emerald>
+	<color_sapphire>サファイア</color_sapphire>
+	<color_solo_red>SOLO ダークレッド</color_solo_red>
+	<delay_0>遅延なし</delay_0>
+	<delay_1>1秒</delay_1>
+	<delay_2>2秒</delay_2>
+	<delay_3>3秒</delay_3>
+	<delay_5>5秒</delay_5>
+	<delay_off>動画を無効にする</delay_off>
+	<font_normal>標準</font_normal>
+	<font_small>小</font_small>
+	<label_default>デフォルト</label_default>
+	<label_no>いいえ</label_no>
+	<label_none>なし</label_none>
+	<label_yes>はい</label_yes>
+	<langue>jp</langue>
+	<logo_color>カラーロゴ</logo_color>
+	<logo_solo>SOLO ロゴ</logo_solo>
+	<logo_white>ホワイトロゴ</logo_white>
+	<subset_text>テキストサイズ</subset_text>
+	<subset_logos>ロゴスタイル</subset_logos>
+	<subset_backgrounds>背景</subset_backgrounds>
+	<subset_video>動画の遅延</subset_video>
+</variables>
+</theme>

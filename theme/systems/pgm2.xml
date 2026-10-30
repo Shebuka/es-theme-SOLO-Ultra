@@ -1,0 +1,14 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="shortdescription" extra="true">
+			<text>${type_2007_arcade_board}</text>
+		</text>
+		<text name="description" extra="true">
+			<text>${pgm2_desc}</text>
+		</text>
+
+	</view>
+</theme>

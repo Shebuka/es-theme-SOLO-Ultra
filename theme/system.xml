@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>7</formatVersion>
+
+  <!-- per-system content: shortdescription / description / console placeholder -->
+  <include>./systems/${system.theme}.xml</include>
+
+  <view name="system">
+    <sound name="bgsound">
+      <!-- try ogg -->
+      <path>./_art/sounds/${system.theme}.ogg</path>
+      <!-- try mp3 -->
+      <path>./_art/sounds/${system.theme}.mp3</path>
+    </sound>
+
+    <!-- full-screen background art (path set by bgset option) -->
+    <image name="background" extra="true">
+      <origin>0.5 0.5</origin>
+      <pos>0.5 0.5</pos>
+      <minSize>1 1</minSize>
+      <horizontalAlignment>center</horizontalAlignment>
+    </image>
+
+    <!-- vertical carousel: current + previous + next -->
+    <carousel name="systemcarousel">
+      <type>vertical</type>
+      <color>ffffff00</color>
+      <logoScale>1.8</logoScale>
+      <logoAlignment>right</logoAlignment>
+      <maxLogoCount>3</maxLogoCount>
+      <defaultTransition>instant</defaultTransition>
+      <!-- fallback (16:9) -->
+      <pos>1.00 0.00</pos>
+      <origin>1.00 0.00</origin>
+      <size>0.30 1.0</size>
+      <logoSize>0.20 0.145</logoSize>
+    </carousel>
+    <carousel name="systemcarousel" if="${screen.ratio} == '4/3'">
+      <pos>1.00 0.00</pos>
+      <origin>1.00 0.00</origin>
+      <size>0.40 1.0</size>
+      <logoSize>0.225 0.15</logoSize>
+    </carousel>
+    <carousel name="systemcarousel" if="${screen.ratio} == '1/1'">
+      <pos>1.00 0.00</pos>
+      <origin>1.00 0.00</origin>
+      <size>0.50 1.0</size>
+      <logoSize>0.25 0.155</logoSize>
+    </carousel>
+
+    <!-- system logo (path set by logoset option) -->
+    <image name="logo">
+      <!-- fallback (16:9) -->
+      <pos>0.50 0.10</pos>
+      <origin>0.50 0.00</origin>
+      <maxSize>0.40 0.15</maxSize>
+    </image>
+    <image name="logo" if="${screen.ratio} == '4/3'">
+      <maxSize>0.45 0.175</maxSize>
+    </image>
+    <image name="logo" if="${screen.ratio} == '1/1'">
+      <maxSize>0.50 0.20</maxSize>
+    </image>
+
+    <!-- system info (game count) -->
+    <text name="systemInfo">
+      <fontPath>./_inc/fonts/${font_system_info}</fontPath>
+      <fontSize>${fz_sys_info}</fontSize>
+      <color>${cinfotext}</color>
+      <glowColor>000000</glowColor>
+      <glowSize>1.0</glowSize>
+      <alignment>left</alignment>
+      <pos>0.02 0.40</pos>
+      <origin>0.00 1.0</origin>
+      <size>0 0</size>
+    </text>
+    <text name="systemInfo" if="${screen.ratio} == '4/3'">
+      <pos>0.02 0.41</pos>
+    </text>
+    <text name="systemInfo" if="${screen.ratio} == '1/1'">
+      <pos>0.02 0.42</pos>
+    </text>
+
+    <!-- header: system type (e.g. "1996  ·  64-bit Console") -->
+    <text name="shortdescription" extra="true">
+      <fontPath>./_inc/fonts/${font_system_title}</fontPath>
+      <fontSize>${fz_sys_shortdesc}</fontSize>
+      <color>${cshortdescriptiontext}</color>
+      <glowColor>000000</glowColor>
+      <glowSize>1.0</glowSize>
+      <alignment>left</alignment>
+      <!-- fallback (16:9) -->
+      <pos>0.02 0.45</pos>
+      <origin>0.00 0.50</origin>
+      <size>0 0</size>
+    </text>
+
+    <!-- long description -->
+    <text name="description" extra="true">
+      <fontPath>./_inc/fonts/${font_system_desc}</fontPath>
+      <fontSize>${fz_sys_desc}</fontSize>
+      <color>${cdescriptiontext}</color>
+      <glowColor>000000</glowColor>
+      <glowSize>1.0</glowSize>
+      <alignment>left</alignment>
+      <lineSpacing>1.4</lineSpacing>
+      <!-- fallback (16:9) -->
+      <pos>0.02 0.50</pos>
+      <origin>0 0</origin>
+      <size>0.3 0.0</size>
+    </text>
+    <text name="description" extra="true" if="${screen.ratio} == '4/3'">
+      <pos>0.02 0.49</pos>
+      <size>0.4 0.0</size>
+    </text>
+    <text name="description" extra="true" if="${screen.ratio} == '1/1'">
+      <pos>0.02 0.48</pos>
+      <size>0.5 0.0</size>
+    </text>
+
+    <!-- controller image -->
+    <image name="controller" extra="true">
+      <path>./_art/controllers/${system.theme}.png</path>
+      <horizontalAlignment>center</horizontalAlignment>
+      <verticalAlignment>center</verticalAlignment>
+      <!-- fallback (16:9) -->
+      <pos>0.20 0.85</pos>
+      <origin>0.5 0.5</origin>
+      <maxSize>0.40 0.15</maxSize>
+    </image>
+    <image name="controller" extra="true" if="${screen.ratio} == '4/3'">
+      <pos>0.225 0.85</pos>
+      <maxSize>0.45 0.175</maxSize>
+    </image>
+    <image name="controller" extra="true" if="${screen.ratio} == '1/1'">
+      <pos>0.25 0.85</pos>
+      <maxSize>0.50 0.20</maxSize>
+    </image>
+
+    <!-- help bar -->
+    <helpsystem name="help" if="${screen.width} &lt; 720">
+      <fontSize>${fz_small_help}</fontSize>
+    </helpsystem>
+
+  </view>
+</theme>

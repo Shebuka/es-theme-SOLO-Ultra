@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+	<font_menu_light>OpenSans-Light.ttf</font_menu_light>
+	<font_menu_semibold>OpenSans-SemiBold.ttf</font_menu_semibold>
+	<font_system_title>OpenSans-Bold.ttf</font_system_title>
+	<font_system_info>OpenSans-Bold.ttf</font_system_info>
+	<font_system_desc>OpenSans-SemiBold.ttf</font_system_desc>
+	<font_gamelist_items>OpenSans-SemiBold.ttf</font_gamelist_items>
+	<font_gamelist_desc>OpenSans-SemiBold.ttf</font_gamelist_desc>
+	<font_gamelist_meta>Homizio.ttf</font_gamelist_meta>
+	<font_gamelist_title>BebasNeue-Regular.ttf</font_gamelist_title>
+	<font_gamelist_help>OpenSans-SemiBold.ttf</font_gamelist_help>
+</variables>
+<include>./zh.configs.xml</include>
+<include>./zh.systems.xml</include>
+</theme>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+	<variables>
+		<delay>86400</delay>
+		<pandelay>100000</pandelay>
+	</variables>
+
+	<view name="detailed, video">
+		<video name="md_video">
+			<visible>false</visible>
+		</video>
+	</view>
+
+	<view name="grid">
+		<imagegrid name="gamegrid">
+			<showVideoAtDelay>${pandelay}</showVideoAtDelay>
+		</imagegrid>
+	</view>
+</theme>

@@ -1,0 +1,14 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="shortdescription" extra="true">
+			<text>${type_multi_platform_emulator}</text>
+		</text>
+		<text name="description" extra="true">
+			<text>${fbn_desc}</text>
+		</text>
+
+	</view>
+</theme>

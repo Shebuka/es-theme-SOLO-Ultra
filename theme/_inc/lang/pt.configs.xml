@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+	<bg_dark>Escuro</bg_dark>
+	<bg_light>Claro</bg_light>
+	<color_amber>Âmbar</color_amber>
+	<color_carbon>Carbono</color_carbon>
+	<color_emerald>Esmeralda</color_emerald>
+	<color_sapphire>Safira</color_sapphire>
+	<color_solo_red>SOLO Vermelho Escuro</color_solo_red>
+	<delay_0>Sem atraso</delay_0>
+	<delay_1>1 segundo</delay_1>
+	<delay_2>2 segundos</delay_2>
+	<delay_3>3 segundos</delay_3>
+	<delay_5>5 segundos</delay_5>
+	<delay_off>Desativar vídeos</delay_off>
+	<font_normal>Normal</font_normal>
+	<font_small>Pequeno</font_small>
+	<label_default>Padrão</label_default>
+	<label_no>Não</label_no>
+	<label_none>Nenhum</label_none>
+	<label_yes>Sim</label_yes>
+	<langue>pt</langue>
+	<logo_color>Logos Coloridos</logo_color>
+	<logo_solo>Logos SOLO</logo_solo>
+	<logo_white>Logos Brancos</logo_white>
+	<subset_text>Tamanho do Texto</subset_text>
+	<subset_logos>Estilo do Logo</subset_logos>
+	<subset_backgrounds>Fundo</subset_backgrounds>
+	<subset_video>Atraso do Vídeo</subset_video>
+</variables>
+</theme>

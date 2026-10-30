@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+	<acclaim_coll>Acclaim Entertainment, Inc. to amerykański wydawca gier z Glen Cove w Nowym Jorku. Założony przez byłych pracowników Activision, otrzymał nazwę Acclaim, by w alfabecie wyprzedzać Activision i Accolade.</acclaim_coll>
+	<activision_coll>Activision zostało założone w październiku 1979 w Sunnyvale w Kalifornii przez byłych deweloperów Atari. Było pierwszym niezależnym deweloperem gier konsolowych trzeciej strony.</activision_coll>
+	<advision_desc>Adventure Vision to konsola kartridżowa od Entex Industries. Monitor, sterowanie i sprzęt mieszczą się w jednym przenośnym urządzeniu. Wydano tylko cztery gry.</advision_desc>
+	<amiga_desc>Amiga to rodzina komputerów osobistych sprzedawanych przez Commodore w latach 80. i 90. Pierwszy model z 1985 roku stał się popularny dzięki grafice, dźwiękowi i wielozadaniowości.</amiga_desc>
+	<amigacd32_desc>Amiga CD32 to 32-bitowa domowa konsola Commodore, wydana w Europie, Australii, Kanadzie i Brazylii. Zapowiedziana 16 lipca 1993 w Science Museum w Londynie.</amigacd32_desc>
+	<amigacdtv_desc>Commodore CDTV to multimedialny komputer domowy z 1991, oparty na Amidze 500 z napędem CD-ROM, zaprojektowany do salonu.</amigacdtv_desc>
+	<amstradcpc_desc>CPC 464 to pierwszy komputer domowy Amstrada z 1984 roku. Był jednym z najlepiej sprzedających się mikrokomputerów — ponad 2 miliony sztuk w Europie.</amstradcpc_desc>
+	<aof_coll>Art of Fighting to trylogia bijatyk wydana na Neo Geo na początku lat 90. To druga seria bijatyk SNK, po Fatal Fury, osadzona w tym samym uniwersum.</aof_coll>
+	<apfm1000_desc>APF Microcomputer System to domowa konsola kartridżowa drugiej generacji, wydana w październiku 1978 przez APF Electronics Inc. z sześcioma kartridżami.</apfm1000_desc>
+	<apple2_desc>Apple II, wydany w 1977 roku, to komputer domowy zaprojektowany przez Steve'a Wozniaka. Miał 8-bitowy procesor z kolorową grafiką w dwóch rozdzielczościach.</apple2_desc>
+	<arcade_desc>Gra arcade to automat na monety instalowany zwykle w restauracjach, barach i salonach gier. Złota era gier arcade trwała od końca lat 70. do połowy lat 80.</arcade_desc>
+	<arcadia_desc>Arcadia 2001 to konsola drugiej generacji od Emerson Radio, wydana kilka miesięcy przed ColecoVision. Wycofano ją po 18 miesiącach, z 35 grami.</arcadia_desc>
+	<archimedes_desc>Acorn Archimedes to rodzina komputerów osobistych Acorn Computers z Cambridge w Anglii. Wykorzystują procesory ARM firmy Acorn i początkowo działały pod systemem Arthur.</archimedes_desc>
+	<arduboy_desc>Arduboy to przenośna konsola Kevina Batesa, wydana w 2015 roku. Mniej więcej wielkości karty kredytowej, ma ponad 300 gier.</arduboy_desc>
+	<astrocade_desc>Bally Astrocade to domowa konsola drugiej generacji i prosty system komputerowy zaprojektowany przez zespół Midway, ówczesnego działu gier Bally.</astrocade_desc>
+	<astrocde_desc>Bally Astrocade to domowa konsola drugiej generacji i prosty system komputerowy zaprojektowany przez zespół Midway, ówczesnego działu gier Bally.</astrocde_desc>
+	<atari2600_desc>Atari Video Computer System (VCS) to domowa konsola drugiej generacji (1976–1992) firmy Atari, Inc. Wydana 11 września 1977 w Ameryce Północnej za 199 dolarów.</atari2600_desc>
+	<atari5200_desc>Atari 5200 SuperSystem to konsola drugiej generacji firmy Atari. Miała innowacyjny kontroler z 360-stopniowym joystickiem i klawiaturą numeryczną.</atari5200_desc>
+	<atari7800_desc>Atari 7800 Pro System to konsola trzeciej generacji firmy Atari Corporation. Uznawana za jedną z pierwszych konsol wstecznie kompatybilnych — uruchamiała gry Atari 2600.</atari7800_desc>
+	<atari800_desc>Rodzina 8-bitowych Atari to seria komputerów domowych wprowadzona przez Atari, Inc. w 1979 jako Atari 400 i Atari 800, produkowana do 1992 roku.</atari800_desc>
+	<atari_coll>Pierwotne Atari, Inc., założone w 1972 w Sunnyvale przez Nolana Bushnella i Teda Dabneya, było pionierem gier arcade, konsol i komputerów domowych. Produkty takie jak Pong i Atari 2600 zdefiniowały branżę rozrywki elektronicznej.</atari_coll>
+	<atarijaguarcd_desc>Atari Jaguar CD to napęd CD-ROM dla konsoli Atari Jaguar. Wydano na niego tylko 11 gier.</atarijaguarcd_desc>
+	<atarilynx_desc>Atari Lynx to 16-bitowa przenośna konsola Atari Corporation, wydana we wrześniu 1989 w Ameryce Północnej. Była pierwszą przenośną konsolą z kolorowym ekranem LCD.</atarilynx_desc>
+	<atarist_desc>Atari ST to linia komputerów domowych Atari Corporation i następca 8-bitowej rodziny Atari. Wydany w 1986 1040ST był pierwszym PC z megabajtem RAM w podstawowej konfiguracji.</atarist_desc>
+	<atarixegs_desc>Atari XE Game System (XEGS) to domowa konsola Atari Corporation z 1987, oparta na 8-bitowej rodzinie komputerów Atari.</atarixegs_desc>
+	<atlus_coll>Atlus to japoński deweloper, wydawca i dystrybutor gier z siedzibą w Tokio. Jako spółka zależna Segi znany jest z serii Megami Tensei, Persona, Etrian Odyssey i Trauma Center.</atlus_coll>
+	<atomiswave_desc>Atomiswave to płyta i obudowa arcade firmy Sammy Corporation, oparta na płycie Sega NAOMI. Wykorzystuje wymienne kartridże z grami.</atomiswave_desc>
+	<auto-at2players_coll>„Gdyby Pac-Man wpłynął na nas jako dzieci, biegaliśmy w ciemnych pokojach, jedząc pigułki i słuchając powtarzalnej muzyki elektronicznej.” — Marcus Brigstocke</auto-at2players_coll>
+	<auto-at4players_coll>„Jest różnica między graniem a graniem. Pierwsze to akt radości, drugie — akt.” — Vera Nazarian</auto-at4players_coll>
+	<auto-favorites_coll>„Ludzie mówili, że gry są złe, bo znieczulają na śmierć. Prawdziwy problem w tym, że gracz ma próbować wszystkiego.” — Holly Black</auto-favorites_coll>
+	<auto-lastplayed_coll>„Najgorsze, co dziecko może powiedzieć o pracy domowej, to że jest za trudna. Najgorsze, co można powiedzieć o grze, to że jest za łatwa.” — Henry Jenkins</auto-lastplayed_coll>
+	<auto-neverplayed_coll>„Opóźniona gra w końcu będzie dobra, zła gra jest zła na zawsze.” — Shigeru Miyamoto</auto-neverplayed_coll>
+	<auto-retroachievements_coll>Retroachievements.org to serwis oferujący trofea i osiągnięcia, podobnie jak nowoczesne konsole, dla gier retro. Obsługuje m.in. Sega Megadrive, Super Nintendo, Nintendo 64, PlayStation i Neo-Geo.</auto-retroachievements_coll>
+	<batman_coll>Batman pojawił się w ponad 50 grach na komputery, telefony i konsole od lat 80.</batman_coll>
+	<battletoads_coll>Battletoads to franczyza Rare, zapoczątkowana bijatyką Battletoads w 1991 roku. Trzy antropomorficzne ropuchy Rash, Zitz i Pimple miały konkurować z Wojowniczymi Żółwiami Ninja.</battletoads_coll>
+	<bbc_desc>BBC Microcomputer System, w skrócie BBC Micro, to rodzina mikrokomputerów opracowanych przez Acorn Computers na początku lat 80. w ramach projektu edukacyjnego BBC.</bbc_desc>
+	<bbcmicro_desc>BBC Microcomputer System, w skrócie BBC Micro, to rodzina mikrokomputerów opracowanych przez Acorn Computers na początku lat 80. w ramach projektu edukacyjnego BBC.</bbcmicro_desc>
+	<bk_desc>Elektronika BK to seria 16-bitowych komputerów domowych zgodnych z PDP-11, opracowanych pod marką Elektronika przez NPO Scientific Center w ZSRR.</bk_desc>
+	<c128_desc>Commodore 128, znany też jako C128, to ostatni 8-bitowy komputer domowy wydany przez Commodore Business Machines (CBM). Zaprezentowany w styczniu 1985.</c128_desc>
+	<c16_desc>C16 to komputer domowy firmy Commodore International, pomyślany jako tani następca VIC-20.</c16_desc>
+	<c64_desc>Commodore 64 to 8-bitowy komputer domowy wprowadzony w styczniu 1982 przez Commodore International. Znajduje się w Księdze Rekordów Guinnessa jako najlepiej sprzedający się model komputera w historii.</c64_desc>
+	<capcom_coll>Capcom to japoński deweloper i wydawca gier. Stworzył wiele wielomilionowych serii, w tym Street Fighter, Mega Man, Darkstalkers, Resident Evil i Ghosts 'n Goblins.</capcom_coll>
+	<castlevania_coll>Castlevania to seria gier akcji w klimacie gotyckiego horroru o łowcach wampirów, stworzona i rozwijana przez Konami. Ukazała się na wielu platformach.</castlevania_coll>
+	<cave_coll>CAVE Interactive Co., Ltd. to japońska firma gier, założona w 1994 przez byłych pracowników Toaplan po jej bankructwie. Od 1995 do 2013 była jednym z najpłodniejszych deweloperów shoot 'em up w Japonii.</cave_coll>
+	<cavestory_coll>Cave Story to metroidvania-platformówka z 2004 roku na Microsoft Windows, tworzona przez pięć lat przez Japończyka Daisuke „Pixel” Amayę.</cavestory_coll>
+	<cdi_desc>Format CD-i zapowiedziano pod koniec lat 80., a pierwsze urządzenia pojawiły się w 1991. Philips CD-i okazał się komercyjną porażką i został wycofany w 1998.</cdi_desc>
+	<cdimono1_desc>Format CD-i zapowiedziano pod koniec lat 80., a pierwsze urządzenia pojawiły się w 1991. Philips CD-i okazał się komercyjną porażką.</cdimono1_desc>
+	<channelf_desc>Fairchild Channel F, skrót od „Channel Fun”, to konsola domowa, pierwsza oparta na mikroprocesorze z kartridżami ROM zamiast wbudowanych gier.</channelf_desc>
+	<chip8_desc>CHIP-8 to interpretowany język programowania, opracowany przez Josepha Weisbeckera dla jego mikroprocesora 1802. Używany początkowo na COSMAC VIP i Telmac 1800.</chip8_desc>
+	<coco3_desc>„coco3” to trzecia generacja TRS-80 Color Computer firmy Tandy Corporation.</coco3_desc>
+	<coco_desc>TRS-80 Color Computer, później sprzedawany jako Tandy Color Computer, to seria komputerów domowych firmy Tandy Corporation.</coco_desc>
+	<codemasters_coll>The Codemasters Software Company to brytyjski deweloper i wydawca gier z Southam w Anglii. Założona w październiku 1986 przez braci Richarda i Davida Darlingów, należy do najstarszych brytyjskich studiów.</codemasters_coll>
+	<colecovision_desc>ColecoVision to domowa konsola drugiej generacji firmy Coleco Industries, wydana w sierpniu 1982.</colecovision_desc>
+	<cps1_desc>Capcom Play System 1 to płyta arcade firmy Capcom, uruchamiająca gry z wymiennych kartridży ROM. Wydano na nią ponad dwadzieścia tytułów.</cps1_desc>
+	<cps2_desc>CPS-2 to płyta arcade, którą Capcom po raz pierwszy wykorzystał w 1993 w Super Street Fighter II. Zastąpiła CP System, a w 1996 zastąpił ją CP System III.</cps2_desc>
+	<cps3_desc>CPS-3 to płyta arcade, którą Capcom po raz pierwszy wykorzystał w 1996 w grze Red Earth. Była ostatnią autorską płytą Capcom.</cps3_desc>
+	<crashbandicoot_coll>Crash Bandicoot to franczyza platformówek. Pierwotnie tworzona przez Naughty Dog jako ekskluzywna gra na PlayStation, dziś należy do Activision Blizzard.</crashbandicoot_coll>
+	<creativision_desc>VTech CreatiVision to hybryda komputera i konsoli domowej, wprowadzona przez VTech w 1981 i wydana w 1982.</creativision_desc>
+	<crvision_desc>VTech CreatiVision to hybryda komputera i konsoli domowej, wprowadzona przez VTech w 1981 i wydana w 1982 podczas drugiej generacji konsol.</crvision_desc>
+	<daphne_desc>Daphne to emulator gier arcade dla Windows, Linux i Mac OS X autorstwa Matta Ownby'ego. Uruchamia gry dla systemów LaserDisc, w tym większość gier Sega LaserDisc.</daphne_desc>
+	<dataeast_coll>Data East Corporation (データイースト株式会社), w skrócie DECO, to japońska firma gier i elektroniki, działająca w latach 1976–2003, która wydała 150 gier.</dataeast_coll>
+	<dbz_coll>Seria gier Dragon Ball oparta jest na mandze i anime Akiry Toriyamy. Śledzi przygody Goku poszukującego siedmiu Smoczych Kul.</dbz_coll>
+	<ddr_coll>Dance Dance Revolution (w Europie wcześniej Dancing Stage) to pionierska seria gier muzycznych Konami, wprowadzona w Japonii w 1998.</ddr_coll>
+	<dice_desc>DICE to emulator dyskretnych układów scalonych. Emuluje systemy komputerowe bez procesora, złożone wyłącznie z dyskretnych elementów logicznych.</dice_desc>
+	<donkeykong_coll>Donkey Kong to seria gier o przygodach goryla o imieniu Donkey Kong, wymyślona przez Shigeru Miyamoto w 1981 roku.</donkeykong_coll>
+	<doom_coll>Doom to franczyza gier, wydana po raz pierwszy w 1993. Seria opowiada o bezimiennym kosmicznym komandosie korporacji UAC walczącym z demonami.</doom_coll>
+	<doubledragon_coll>Double Dragon to bijatyka z 1987 roku od Technōs Japan, dystrybuowana przez Taito. To duchowy następca wcześniejszej gry Nekketsu Kōha Kunio-kun.</doubledragon_coll>
+	<dragon32_desc>Dragon 32 i Dragon 64 to 8-bitowe komputery domowe z lat 80., bardzo podobne do TRS-80 Color Computer, produkowane na rynek europejski przez Dragon Data.</dragon32_desc>
+	<dragon64_desc>Dragon 32 i Dragon 64 to 8-bitowe komputery domowe z lat 80., bardzo podobne do TRS-80 Color Computer, produkowane na rynek europejski przez Dragon Data.</dragon64_desc>
+	<dreamcast_desc>Dreamcast to 128-bitowa konsola, wydana przez Segę pod koniec 1998 w Japonii i od września 1999 w innych regionach. Była pierwszą konsolą szóstej generacji.</dreamcast_desc>
+	<dukenukem_coll>Duke Nukem to seria gier nazwana od jej bohatera. Dwie pierwsze gry to platformówki 2D, późniejsze to strzelanki pierwszo- i trzecioosobowe.</dukenukem_coll>
+	<ea_coll>Electronic Arts Inc. (EA) to amerykańska firma gier z siedzibą w Redwood City w Kalifornii. To druga co do wielkości firma gamingowa w Ameryce i Europie po Activision Blizzard.</ea_coll>
+	<easports_coll>EA Sports to oddział Electronic Arts, który tworzy i wydaje gry sportowe. Z chwytu marketingowego stał się osobną marką z seriami FIFA i Madden NFL.</easports_coll>
+	<easryrpg_desc>Easy RPG to darmowy, otwartoźródłowy interpreter i edytor gier RPG, umożliwiający granie w gry zgodne z RPG Maker 2000 i 2003.</easryrpg_desc>
+	<ecwolf_desc>ECWolf to zaawansowany port dla Wolfenstein 3D, Spear of Destiny i Super 3D Noah's Ark, oparty na kodzie Wolf4SDL.</ecwolf_desc>
+	<eidos_coll>Eidos Interactive to brytyjski wydawca oprogramowania z lat 1995–2005, znany z serii Tomb Raider i Championship Manager. Obecnie należy do japońskiej grupy Square Enix.</eidos_coll>
+	<eighting_coll>Eighting Co., Ltd., stylizowane na 8ing, to japoński deweloper i wydawca gier, wcześniej znany jako Raizing. Znany z shoot 'em up i licencjonowanych bijatyk.</eighting_coll>
+	<electron_desc>Acorn Electron wprowadzono jako tańszą alternatywę dla BBC Micro, również opracowaną przez Acorn Computers.</electron_desc>
+	<famicom_desc>Nintendo Famicom to 8-bitowa konsola wydana przez Nintendo w Japonii w 1983 jako Family Computer, w skrócie Famicom lub FC.</famicom_desc>
+	<fatalfury_coll>Fatal Fury to seria bijatyk SNK na system Neo Geo. Fatal Fury i siostrzana seria Art of Fighting dzieją się w tym samym uniwersum.</fatalfury_coll>
+	<fbn_desc>Final Burn Neo to emulator gier arcade i wybranych konsol, oparty na emulatorach FinalBurn i starszych wersjach MAME.</fbn_desc>
+	<fds_desc>Family Computer Disk System to urządzenie peryferyjne dla konsoli Family Computer Nintendo, wydane w Japonii 21 lutego 1986. Używa dyskietek „Disk Cards”.</fds_desc>
+	<finalfantasy_coll>Final Fantasy to japońska seria fantasy. Pierwsza gra ukazała się w 1987, a po niej 15 kolejnych głównych odsłon.</finalfantasy_coll>
+	<finalfight_coll>Final Fight to seria bijatyk Capcom, zapoczątkowana grą arcade Final Fight w 1989, osadzona w fikcyjnym Metro City.</finalfight_coll>
+	<fm7_desc>FM-7 to komputer domowy Fujitsu, sprzedawany w Japonii i Hiszpanii. To okrojona wersja wcześniejszego FM-8.</fm7_desc>
+	<fmtowns_desc>FM Towns Marty to 16-bitowa konsola piątej generacji, oparta na systemie komputerowym FM Towns, wydanym przez Fujitsu w 1989.</fmtowns_desc>
+	<freej2me_desc>FreeJ2ME to prosty emulator J2ME (Java Platform Micro Edition) skupiony na starych grach mobilnych. Działa na Windows, Linuksie i Raspberry Pi 3.</freej2me_desc>
+	<gameandwatch_desc>Game and Watch to seria przenośnych gier elektronicznych Nintendo z lat 1980–1991. Każde urządzenie zawierało jedną grę i zegar na ekranie LCD.</gameandwatch_desc>
+	<gamecom_desc>Game.com to przenośna konsola piątej generacji firmy Tiger Electronics, znana z łączności internetowej — stąd „.com” w nazwie.</gamecom_desc>
+	<gamegear_desc>Sega Game Gear to pierwsza przenośna konsola Segi, trzecia dostępna komercyjnie kolorowa konsola przenośna po Atari Lynx i TurboExpress.</gamegear_desc>
+	<gametank_desc>GameTank to 8-bitowa domowa konsola open source, zaprojektowana dla nowych gier i rozwoju homebrew.</gametank_desc>
+	<gb_desc>Game Boy to 8-bitowa przenośna konsola wydana w 1989 roku, stworzona przez Gunpeia Yokoi i dział badań Nintendo.</gb_desc>
+	<gba_desc>Game Boy Advance to 32-bitowa przenośna konsola Nintendo, następca Game Boy Color.</gba_desc>
+	<gbc_desc>Game Boy Color (w skrócie GBC) to przenośna konsola Nintendo wydana w 1998. Następca Game Boya z kolorowym ekranem, ale bez podświetlenia.</gbc_desc>
+	<gc_desc>GameCube to konsola Nintendo szóstej generacji, następca Nintendo 64. Konkurowała z PlayStation 2 i Xboxem.</gc_desc>
+	<genesis_desc>Genesis (poza USA Mega Drive) to trzecia konsola Segi i następca Master System. Główny procesor to 16/32-bitowy Motorola 68000 o taktowaniu 7,6 MHz.</genesis_desc>
+	<genre-vertical_coll>„Nie przestajemy grać, bo się starzejemy; starzejemy się, bo przestajemy grać!” — Benjamin Franklin</genre-vertical_coll>
+	<gmaster_desc>Game Master to przenośna konsola firmy Hartung, zaprojektowana jako konkurencja dla Game Boya. W Niemczech sprzedawała ją sama Hartung, w Wielkiej Brytanii jako Systema 2000.</gmaster_desc>
+	<gmloader_desc>GameMaker (pierwotnie Animo, później Game Maker) to seria wieloplatformowych silników gier, stworzonych przez Marka Overmarsa w 1999 i rozwijanych przez YoYo Games od 2007.</gmloader_desc>
+	<gt_coll>GT Interactive Software Corporation (GTI) została założona w lutym 1993 jako oddział GoodTimes Home Video. Po licznych fuzjach należy dziś do Atari, Inc.</gt_coll>
+	<gta_desc>Grand Theft Auto to seria gier akcji, wydana po raz pierwszy na PlayStation w 1997. Większość gier dzieje się w fikcyjnych miastach.</gta_desc>
+	<gx4000_desc>GX4000 to konsola firmy Amstrad, krótkotrwała próba wejścia na rynek konsol. Wydana w Europie w 1990, oparta na technologii CPC.</gx4000_desc>
+	<ikemen_desc>Ikemen (skrót od Itsumademo Kanseishinai Eienni Mikansei ENgine) to darmowy, otwartoźródłowy silnik bijatyk, zgodny z zawartością M.U.G.E.N.</ikemen_desc>
+	<infogrames_coll>Infogrames to deweloper i wydawca oprogramowania z lat 1983–2009, znany z serii Alone In The Dark. Dziś firma jest częścią Atari, Inc.</infogrames_coll>
+	<intellivision_desc>Intellivision („Intelligent Television”) to konsola domowa wydana przez Mattel Electronics w 1979. Prace nad nią rozpoczęto w 1977, w tym samym roku co nad konkurencyjnym Atari 2600.</intellivision_desc>
+	<irem_coll>Irem Software Engineering to japoński deweloper i wydawca gier konsolowych, dawniej także deweloper i producent gier arcade, z siedzibą w Chiyoda w Tokio.</irem_coll>
+	<jaguar_desc>Atari Jaguar to konsola domowa Atari Corporation, wydana w Ameryce Północnej w listopadzie 1993. Konsola piątej generacji, konkurowała z Segą Genesis, Super NES i 3DO.</jaguar_desc>
+	<kaneko_coll>Kaneko Co. Ltd. (カネコ株式会社) to japoński wydawca gier, założony w Suginami w Tokio przez Hiroshiego Kaneko. Wydawał gry takie jak Air Buster, Nexzr, Shogun Warriors i serię Gals Panic.</kaneko_coll>
+	<karaoke_coll>Karaoke to rodzaj interaktywnej rozrywki, zwykle w klubach i barach, gdzie śpiewa się do nagranej muzyki. Tekst wyświetlany jest na ekranie.</karaoke_coll>
+	<kof_coll>The King of Fighters to seria bijatyk SNK, zapoczątkowana grą The King of Fighters '94 w 1994, tworzona na sprzęt arcade Neo Geo MVS.</kof_coll>
+	<konami_coll>Konami to wydawca gier, którego główne tytuły to seria akcji Castlevania, survival horror Silent Hill, strzelanka Contra i skradanka Metal Gear.</konami_coll>
+	<lego_coll>Od 1995 roku wydano 85 komercyjnych gier opartych na klockach Lego od The Lego Group, w tym przygodowych, planszowych i wyścigowych.</lego_coll>
+	<lowresnx_desc>LowresNX to retro-środowisko tworzenia gier, pozwalające tworzyć i grać w gry 8-bitowe. Oferuje edytor graficzny piksel po pikselu i język podobny do BASIC.</lowresnx_desc>
+	<lucasarts_coll>LucasArts Entertainment Company, działająca jako Lucasfilm Games, to amerykański licencjodawca. Do 2013 roku także deweloper i wydawca, znany z gier przygodowych oraz gier ze świata Star Wars i Indiana Jones.</lucasarts_coll>
+	<m2000_desc>Philips P2000T to pierwsze prawdziwe wejście Philipsa na rynek komputerów domowych w 1980, po systemie gier Videopac G7000.</m2000_desc>
+	<macintosh_desc>Macintosh 128K to oryginalny komputer osobisty Macintosh firmy Apple, pierwszy udany masowy komputer all-in-one z interfejsem graficznym, ekranem i myszą.</macintosh_desc>
+	<mame_desc>MAME (pierwotnie akronim od Multiple Arcade Machine Emulator) to darmowy, otwartoźródłowy emulator odtwarzający sprzęt systemów arcade.</mame_desc>
+	<mario_coll>Mario to fikcyjna postać z franczyzy gier Mario firmy Nintendo, stworzona przez Shigeru Miyamoto. Jako maskotka firmy pojawił się w ponad 200 grach.</mario_coll>
+	<mastersystem_desc>Master System to konsola trzeciej generacji, wydana przez Segę w 1985. Była bezpośrednią konkurencją dla Nintendo Entertainment System.</mastersystem_desc>
+	<mc10_desc>TRS-80 MC-10 to mniej znany członek linii komputerów domowych TRS-80, tania alternatywa dla TRS-80 Color Computer.</mc10_desc>
+	<megadrive_desc>Megadrive to trzecia konsola Segi i następca Master System. Główny procesor to 16/32-bitowy Motorola 68000 o taktowaniu 7,6 MHz.</megadrive_desc>
+	<megadrivemsu_desc>MSU-MD to dodatkowy układ do kartridża Mega Everdrive Pro, dodający do gier Megadrive pełne wideo i dźwięk jakości CD.</megadrivemsu_desc>
+	<megaduck_desc>Mega Duck WG-108 (znany też jako Cougar Boy) to przenośna konsola opracowana i wyprodukowana przez Welback Holdings z Hongkongu w 1993.</megaduck_desc>
+	<megaman_coll>Mega Man, w Japonii znany jako Rockman, to franczyza science fiction firmy Capcom o serii robotów. Mega Man ukazał się w 1987 na NES.</megaman_coll>
+	<metalgear_coll>Metal Gear to seria skradanek Hideo Kojimy, wydawana przez Konami. Pierwsza gra ukazała się w 1987 na komputery MSX.</metalgear_coll>
+	<metalslug_coll>Metal Slug to seria strzelanek, pierwotnie stworzona przez Nazca Corporation przed połączeniem z SNK w 1996.</metalslug_coll>
+	<metroid_coll>Metroid to franczyza gier akcji science fiction Nintendo, opowiadająca o łowczyni nagród Samus Aran chroniącej galaktykę przed Kosmicznymi Piratami.</metroid_coll>
+	<microvision_desc>Microvision to pierwsza przenośna konsola z wymiennymi kartridżami, wydana przez Milton Bradley w 1979.</microvision_desc>
+	<midway_coll>Midway to amerykański deweloper i wydawca gier. Jego serie to m.in. Mortal Kombat, Rampage, Spy Hunter, NBA Jam, Cruis'n i NFL Blitz. Firma upadła w 2009 roku.</midway_coll>
+	<mortalkombat_coll>Mortal Kombat to seria gier wydana po raz pierwszy w 1992, z wieloma sequelami i spin-offami.</mortalkombat_coll>
+	<msx2_desc>MSX to znormalizowana architektura komputerów domowych, ogłoszona przez Microsoft i ASCII 16 czerwca 1983.</msx2_desc>
+	<msx_desc>MSX to znormalizowana architektura komputerów domowych, ogłoszona przez Microsoft i ASCII 16 czerwca 1983. Przed sukcesem Famicom była platformą japońskich studiów, takich jak Konami i Hudson Soft.</msx_desc>
+	<multivision_desc>Othello Multivision to licencjonowany klon SG-1000, zaprojektowany przez Segę i sprzedawany przez Tsukuda Original.</multivision_desc>
+	<n64_desc>Pod kryptonimem Ultra64, Nintendo 64 ukazało się w 1996 i było ostatnią dużą konsolą domową używającą kartridży. Sprzedano 32,93 miliona sztuk na świecie.</n64_desc>
+	<n64dd_desc>Nintendo 64DD to napęd dysków magnetycznych dla Nintendo 64, wydany w Japonii w 1999. Rozszerzał pamięć i dodawał funkcje online, ale okazał się komercyjną porażką.</n64dd_desc>
+	<namco_coll>Namco to japoński deweloper i wydawca gier arcade i konsolowych z siedzibą w Ōta w Tokio. W 2005 roku, po 50 latach, połączyła się z Bandai.</namco_coll>
+	<naomi_desc>Sega NAOMI (New Arcade Operation Machine Idea) to płyta arcade wydana w 1998 jako następca Sega Model 3. Używa tej samej architektury co Dreamcast.</naomi_desc>
+	<nds_desc>Nintendo DS to 32-bitowa przenośna konsola z dwoma ekranami firmy Nintendo, sprzedawana w Ameryce Północnej od 21 listopada 2004.</nds_desc>
+	<neogeo_desc>Neo Geo AES pierwotnie powstało jako konsola wypożyczana japońskim salonom gier (Neo Geo Rental System). Ze względu na duży popyt trafiło na rynek jako konsola luksusowa.</neogeo_desc>
+	<neogeocd_desc>Neo Geo CD to druga domowa konsola SNK, wydana jako tańsza alternatywa dla AES. Gry działały na znacznie tańszych w produkcji CD-ROM-ach.</neogeocd_desc>
+	<nes_desc>Nintendo Entertainment System to 8-bitowa konsola wydana przez Nintendo w Ameryce Północnej w 1985. Jako najlepiej sprzedająca się konsola swoich czasów pomogła odbudować amerykańską branżę gier po krachu z 1983.</nes_desc>
+	<ngp_desc>Neo Geo Pocket to monochromatyczna przenośna konsola SNK, pierwszy przenośny system firmy, który zadebiutował w Japonii pod koniec 1998.</ngp_desc>
+	<ngpc_desc>Neo Geo Pocket Color to 16-bitowa kolorowa przenośna konsola SNK, następca monochromatycznego Neo Geo Pocket.</ngpc_desc>
+	<nintendo_coll>Nintendo stworzyło jedne z najpopularniejszych konsol w historii, takie jak Game Boy, Super Nintendo, Nintendo DS, Wii i Nintendo Switch.</nintendo_coll>
+	<ocean_coll>Ocean Software Ltd to brytyjska firma deweloperska, jeden z największych europejskich wydawców gier lat 80. i 90. Jako pierwsza zdobyła licencje filmowe, m.in. Rambo, Short Circuit i Cobra.</ocean_coll>
+	<openbor_desc>OpenBOR to darmowy silnik gier oparty na sprite'ach do gier side-scrolling, zoptymalizowany pod bijatyki, takie jak Double Dragon, Streets of Rage i Final Fight.</openbor_desc>
+	<oricatmos_desc>Oric to marka komputerów domowych sprzedawanych w latach 80. przez Tangerine Computer Systems, opartych na mikroprocesorze MOS Technology 6502A.</oricatmos_desc>
+	<outrun_coll>OutRun to wyścigowa gra arcade wydana przez Segę we wrześniu 1986, znana z pionierskiego sprzętu, nieliniowej rozgrywki i wybieranej ścieżki dźwiękowej.</outrun_coll>
+	<pc88_desc>Seria japońskich 8-bitowych komputerów osobistych NEC z lat 1979–1989.</pc88_desc>
+	<pc98_desc>Seria japońskich 16- i 32-bitowych komputerów osobistych NEC z lat 1982–2000.</pc98_desc>
+	<pc_desc>DOSBox to darmowy, otwartoźródłowy emulator uruchamiający oprogramowanie dla systemów MS-DOS, głównie gry. Wydany po raz pierwszy w 2002.</pc_desc>
+	<pce-cd_desc>TurboGrafx-16, w Japonii znana jako PC Engine, to konsola Hudson Soft i NEC, wydana w Japonii 30 października 1987.</pce-cd_desc>
+	<pcengine_desc>PC Engine ukazała się w Japonii 30 października 1987. Zdobyła silne wsparcie zewnętrznych studiów i stała się głównym rywalem Super Famicom.</pcengine_desc>
+	<pcfx_desc>PC-FX to 32-bitowa domowa konsola z 1994 roku, pomyślana jako następca PC Engine i ostatnie wejście NEC na rynek konsol.</pcfx_desc>
+	<pgm2_desc>IGS PolyGame Master 2 to system arcade wydany przez IGS w 2007, następca IGS PolyGame Master.</pgm2_desc>
+	<pgm_desc>PolyGame Master (PGM) to płyta arcade wydana w 1997 przez tajwańską firmę IGS, stworzona, by konkurować z Neo Geo MVS SNK.</pgm_desc>
+	<pico8_desc>Pico-8 (stylizowany na PICO-8) to maszyna wirtualna i silnik gier firmy Lexaloffle Games, imitujący fantazyjną konsolę przez odwzorowanie ograniczeń sprzętowych konsol z lat 80.</pico8_desc>
+	<pico_desc>Sega Pico, sprzedawana jako „edutainment”, skupiała się na grach edukacyjnych dla dzieci od 3 do 7 lat.</pico_desc>
+	<pokemini_desc>Pokémon Mini to przenośna konsola Nintendo z motywem Pokémonów, najmniejszy system z wymiennymi kartridżami, jaki kiedykolwiek wyprodukowało Nintendo.</pokemini_desc>
+	<pokemon_coll>Pokémon to seria gier wydawana przez Nintendo i The Pokémon Company. Pierwsze gry, Pocket Monsters Red i Green, ukazały się w 1996 w Japonii na Game Boya.</pokemon_coll>
+	<ports_desc>Wieloplatformowe porty oprogramowania i silników gier z PC na DOS.</ports_desc>
+	<prboom_coll>Doom to franczyza gier, wydana po raz pierwszy w 1993, o bezimiennym kosmicznym komandosie UAC walczącym z demonami.</prboom_coll>
+	<psikyo_coll>Psikyo to japoński deweloper i wydawca gier, znany z shoot 'em up i gier mahjong. Głównie tworzyła gry arcade, część z nich przenosząc na konsole domowe.</psikyo_coll>
+	<psp_desc>PlayStation Portable (PSP) to przenośna konsola Sony wydana w 2005. Była pierwszą realną konkurencją dla dominacji Nintendo na rynku konsol przenośnych.</psp_desc>
+	<pspminis_desc>PSP Minis to gry cyfrowe o rozmiarze do 100 MB, wydane wraz z PSPgo. Łącznie ukazało się 290 gier Minis.</pspminis_desc>
+	<psx_desc>PlayStation (nieoficjalnie w skrócie PSX) to domowa konsola Sony Computer Entertainment. Była pierwszą konsolą w historii, która sprzedała się w ponad 100 milionach egzemplarzy.</psx_desc>
+	<quake_coll>Quake to seria strzelanek pierwszoosobowych, tworzona przez id Software, a od 2010 wydawana przez Bethesda Softworks.</quake_coll>
+	<residentevil_coll>Resident Evil to seria gier Capcom, zapoczątkowana grą Resident Evil z 1996 na PlayStation, która zdefiniowała gatunek survival horror.</residentevil_coll>
+	<residualvm_desc>ResidualVM to wieloplatformowy program z odtworzonymi silnikami gier 3D i wspólnym interfejsem graficznym. Obsługuje Grim Fandango, Myst III: Exile i The Longest Journey.</residualvm_desc>
+	<rockstar_coll>Rockstar Games, Inc. to amerykański wydawca gier z Nowego Jorku. Założona w grudniu 1998 jako spółka zależna Take-Two Interactive, wykorzystująca aktywa przejęte od BMG Interactive, w tym DMA Design, twórców Grand Theft Auto.</rockstar_coll>
+	<samcoupe_desc>SAM Coupé to 8-bitowy brytyjski komputer domowy firmy Miles Gordon Technology (MGT) ze Swansea, oparty na ZX Spectrum 48K.</samcoupe_desc>
+	<samuraishodown_coll>Samurai Shodown, w Japonii znana jako Samurai Spirits, to seria bijatyk SNK, osadzona w XVIII-wiecznej Japonii.</samuraishodown_coll>
+	<satellaview_desc>Satellaview to modem satelitarny dla Super Famicom Nintendo, wydany tylko w Japonii w 1995. Umożliwiał pobieranie gier, magazynów i transmisji przez usługę satelitarną St.GIGA.</satellaview_desc>
+	<saturn_desc>Saturn odniósł sukces w Japonii, ale słabo sprzedawał się w USA po premierze w maju 1995. Jego reputacja jest mieszana ze względu na skomplikowany sprzęt.</saturn_desc>
+	<sc-3000_desc>SC-3000 to pierwszy i jedyny komputer zaprojektowany i wyprodukowany przez Segę, wydany w lipcu 1983 w Japonii.</sc-3000_desc>
+	<scummvm_desc>ScummVM (Script Creation Utility for Maniac Mansion Virtual Machine) to zestaw odtworzonych silników gier, pierwotnie stworzony do gier przygodowych LucasArts na systemie SCUMM.</scummvm_desc>
+	<scv_desc>Super Cassette Vision to domowa konsola firmy Epoch Co., wydana w Japonii, a później w Europie, zwłaszcza we Francji. Konkurowała z Famicom i linią SG-1000.</scv_desc>
+	<sega32x_desc>Sega 32X to dodatek do konsoli Sega Genesis. Pod kryptonimem „Project Mars” miał rozszerzyć moc Genesis do premiery Saturna.</sega32x_desc>
+	<sega_coll>Sega to japoński międzynarodowy deweloper i wydawca gier z siedzibą w Shinagawie w Tokio. Stworzyła wielomilionowe serie Sonic the Hedgehog, Total War i Yakuza.</sega_coll>
+	<segacd_desc>Sega CD to przystawka CD-ROM do konsoli Sega Genesis, wyprodukowana przez Segę jako część czwartej generacji konsol.</segacd_desc>
+	<setup_desc>„W skończoną grę gra się, by wygrać, w nieskończoną — by grać dalej.” — James P. Carse</setup_desc>
+	<sfc_desc>Super Famicom to 16-bitowa domowa konsola Nintendo, wydana w 1990 w Japonii. W innych krajach system nazywano Super Nintendo.</sfc_desc>
+	<sg-1000_desc>Sega SG-1000 (znana też jako Mark I) to pierwsza próba firmy na rynku konsol domowych, wydana w lipcu 1983.</sg-1000_desc>
+	<sgb_desc>Super Game Boy to przystawka pozwalająca grać w kartridże Game Boy na Super Nintendo. Wydana w czerwcu 1994.</sgb_desc>
+	<sharpx1_desc>X1, nazywany też Sharp X1 lub CZ-800C, to seria komputerów domowych Sharp Corporation z lat 1982–1988, oparta na procesorze Zilog Z80.</sharpx1_desc>
+	<silenthill_coll>Silent Hill to franczyza horrorów, składająca się z serii survival horrorów stworzonych przez Keiichiro Toyamę i wydawanych przez Konami.</silenthill_coll>
+	<simpsons_coll>Simpsonowie to satyryczny obraz amerykańskiego życia, uosabiany przez rodzinę Simpsonów: Homera, Marge, Barta, Lisę i Maggie.</simpsons_coll>
+	<snes_desc>Druga domowa konsola Nintendo oferowała zaawansowaną grafikę i dźwięk w porównaniu z innymi systemami epoki, sprzedając ponad 49 milionów sztuk na świecie.</snes_desc>
+	<snesmsu1_desc>MSU-1 to dodatkowy układ do kartridża, dodający do gier SNES pełne wideo i dźwięk jakości CD, z nawet 4 GB dodatkowej pamięci.</snesmsu1_desc>
+	<snk_coll>SNK Corporation (株式会社SNK) to japońska firma sprzętu i oprogramowania do gier, znana z rodziny konsol Neo Geo z 1990 roku.</snk_coll>
+	<socrates_desc>VTech Socrates to edukacyjna domowa konsola VTech, z robotem Sokratesem, nazwanym na cześć greckiego filozofa.</socrates_desc>
+	<solarus_desc>Solarus to lekki, darmowy i otwartoźródłowy silnik gier Action-RPG. Napisany w C++, uruchamia gry stworzone w Lua.</solarus_desc>
+	<sonic_coll>Sonic to franczyza stworzona i należąca do Segi, opowiadająca o Soniku, antropomorficznym niebieskim jeżu walczącym ze złym Doktorem Eggmanem.</sonic_coll>
+	<streetfighter_coll>Street Fighter to franczyza tworzona i wydawana przez Capcom. Pierwsza gra ukazała się w 1987, a po niej pięć kolejnych głównych odsłon.</streetfighter_coll>
+	<supergrafx_desc>SuperGrafx to następca PC Engine. Znana w fazie produkcji jako PC Engine 2, była prawdziwą 16-bitową konsolą z lepszą grafiką i dźwiękiem.</supergrafx_desc>
+	<supervision_desc>Watara Supervision, w Wielkiej Brytanii znana jako QuickShot Supervision, to monochromatyczna przenośna konsola z 1992, tani konkurent Game Boya.</supervision_desc>
+	<sys_1970s_coll>Lata 70. to początek złotej ery gier arcade. Popularne stały się automaty na monety z klasykami takimi jak Pac-Man, Galaxians i Space Invaders, a także pierwsze konsole domowe, jak Atari 2600.</sys_1970s_coll>
+	<sys_1980s_coll>Lata 80. to świt tanich domowych systemów do gier, z komputerami Sinclaira i Commodore oraz pierwszymi dużymi konsolami Segi i Nintendo.</sys_1980s_coll>
+	<sys_1990s_coll>Lata 90. to powrót automatów z bijatykami takimi jak Street Fighter, Tekken i Mortal Kombat. Na rynku domowym pojawiły się konsole 5. generacji: PlayStation, Saturn i Nintendo 64.</sys_1990s_coll>
+	<sys_3do_desc>3DO to domowa konsola do gier, wymyślona przez przedsiębiorcę i założyciela Electronic Arts Tripa Hawkinsa. Firma sama jej nie produkowała — pierwsze modele wytwarzała Panasonic, a kolejne GoldStar i Sanyo.</sys_3do_desc>
+	<taito_coll>Taito to japońska firma zajmująca się grami, zabawkami i automatami arcade z siedzibą w Shinjuku w Tokio. Założona w 1953 przez Michaela Kogana jako Taito Trading Company.</taito_coll>
+	<tekken_coll>Tekken to japońska franczyza medialna, składająca się z serii bijatyk Bandai Namco Entertainment, śledzących wydarzenia turnieju King of Iron Fist.</tekken_coll>
+	<tg16_desc>TurboGrafx-16, w Japonii znana jako PC Engine, to konsola Hudson Soft i NEC, wydana w Japonii 30 października 1987.</tg16_desc>
+	<tg16cd_desc>TurboGrafx-CD to przystawka do TurboGrafx-16, dodająca pełne wideo, dźwięk CD i więcej pamięci.</tg16cd_desc>
+	<thomson_desc>Thomson MO5 to komputer domowy wprowadzony we Francji w czerwcu 1984 jako konkurencja dla ZX Spectrum i Commodore 64.</thomson_desc>
+	<ti99_desc>TI-99/4 i TI-99/4A to komputery domowe Texas Instruments, oparte na mikroprocesorze TMS9900. TI-99/4 był pierwszym 16-bitowym komputerem domowym.</ti99_desc>
+	<tic-80_desc>TIC-80 to fantazyjny komputer do tworzenia, grania i udostępniania małych gier, ograniczonych do 240x136 pikseli, 16 kolorów i 4 kanałów dźwięku.</tic-80_desc>
+	<tigerlcd_desc>Tiger Electronics produkowało długą serię dedykowanych przenośnych gier LCD w latach 80. i 90., każdą z jedną wbudowaną grą.</tigerlcd_desc>
+	<tmnt_coll>Wojownicze Żółwie Ninja to cztery superbohaterki-żółwie, nazwane na cześć artystów włoskiego renesansu. Z kanałów Nowego Jorku walczą z wrogami.</tmnt_coll>
+	<toaplan_coll>Toaplan to japoński deweloper gier, twórca wielu strzelanek i innych gier arcade. Ich pierwsza gra, Tiger-Heli, odniosła sukces i uczyniła Toaplan czołowym producentem strzelanek lat 80. i 90.</toaplan_coll>
+	<tombraider_coll>Tomb Raider to franczyza medialna, która zadebiutowała w 1996. Lara Croft stała się ikoną branży gier.</tombraider_coll>
+	<tutor_desc>Tomy Tutor, w Japonii sprzedawany jako Pyūta, to komputer domowy japońskiego producenta zabawek Tomy, architektonicznie podobny do TI-99/4A.</tutor_desc>
+	<tux_coll>SuperTux, SuperTux Kart i SuperTux Party to gry open source inspirowane grami Super Mario.</tux_coll>
+	<type_1970_s_arcade_machines>1970's  · Arcade Machines</type_1970_s_arcade_machines>
+	<type_1970_s_coin_operated_cabinet>1970's  · Coin Operated Cabinet</type_1970_s_coin_operated_cabinet>
+	<type_1970_s_programming_language>1970's  · Programming Language</type_1970_s_programming_language>
+	<type_1976_8_bit_console>1976  · 8-bit Konsola</type_1976_8_bit_console>
+	<type_1977_8_bit_computer>1977  · 8-bit computer</type_1977_8_bit_computer>
+	<type_1977_8_bit_console>1977  · 8-bit Konsola</type_1977_8_bit_console>
+	<type_1978_8_bit_console>1978  · 8-bit Konsola</type_1978_8_bit_console>
+	<type_1979_16_bit_computer>1979  · 16-bit Komputer</type_1979_16_bit_computer>
+	<type_1979_8_bit_computer>1979  · 8-bit Komputer</type_1979_8_bit_computer>
+	<type_1979_handheld_console>1979  ·  Konsola przenośna</type_1979_handheld_console>
+	<type_1979_virtual_machine>1979  · Virtual Machine</type_1979_virtual_machine>
+	<type_1980_8_bit_computer>1980  · 8-bit Komputer</type_1980_8_bit_computer>
+	<type_1980_8_bit_console>1980  · 8-bit Konsola</type_1980_8_bit_console>
+	<type_1980_s_computer>1980's  · Komputer</type_1980_s_computer>
+	<type_1981_8_bit_computer>1981  · 8-bit Komputer</type_1981_8_bit_computer>
+	<type_1981_8_bit_console>1981  ·  Konsola 8-bitowa</type_1981_8_bit_console>
+	<type_1982_16_bit_computer>1982  · 16-bit Komputer</type_1982_16_bit_computer>
+	<type_1982_2nd_gen_console>1982  · 2nd Gen Console</type_1982_2nd_gen_console>
+	<type_1982_32_bit_computer>1982  · 32-bit Komputer</type_1982_32_bit_computer>
+	<type_1982_8_bit_computer>1982  · 8-bit Komputer</type_1982_8_bit_computer>
+	<type_1982_8_bit_console>1982  · 8-bit Konsola</type_1982_8_bit_console>
+	<type_1983_8_bit_computer>1983  · 8-bit Komputer</type_1983_8_bit_computer>
+	<type_1983_8_bit_console>1983  · 8-bit Konsola</type_1983_8_bit_console>
+	<type_1984_16_bit_computer>1984  · 16-bit Komputer</type_1984_16_bit_computer>
+	<type_1984_8_bit_computer>1984  · 8-bit Komputer</type_1984_8_bit_computer>
+	<type_1984_8_bit_console>1984  · 8-bit Konsola</type_1984_8_bit_console>
+	<type_1985_16_bit_computer>1985  · 16-bit Komputer</type_1985_16_bit_computer>
+	<type_1985_8_bit_computer>1985  · 8-bit Komputer</type_1985_8_bit_computer>
+	<type_1985_8_bit_console>1985  · 8-bit Konsola</type_1985_8_bit_console>
+	<type_1986_8_bit_computer>1986  · 8-bit Komputer</type_1986_8_bit_computer>
+	<type_1986_8_bit_console>1986  · 8-bit Konsola</type_1986_8_bit_console>
+	<type_1987_16_bit_console>1987  · 16-bit Konsola</type_1987_16_bit_console>
+	<type_1987_24_bit_computer>1987  · 24-bit Komputer</type_1987_24_bit_computer>
+	<type_1987_32_bit_computer>1987  · 32-bit Komputer</type_1987_32_bit_computer>
+	<type_1987_8_bit_console>1987  ·  Konsola 8-bitowa</type_1987_8_bit_console>
+	<type_1988_16_bit_console>1988  · 16-bit Konsola</type_1988_16_bit_console>
+	<type_1988_8_bit_console>1988  · 8-bit Konsola</type_1988_8_bit_console>
+	<type_1988_arcade_system_board>1988  · Płyta systemowa arcade</type_1988_arcade_system_board>
+	<type_1989_16_bit_console>1989  · 16-bit Konsola</type_1989_16_bit_console>
+	<type_1989_16_bit_handheld_console>1989 · 16-bit Konsola przenośna</type_1989_16_bit_handheld_console>
+	<type_1989_8_bit_computer>1989  · 8-bit Komputer</type_1989_8_bit_computer>
+	<type_1989_8_bit_handheld_console>1989  · 8-bit Konsola przenośna</type_1989_8_bit_handheld_console>
+	<type_1990_16_bit_console>1990  · 16-bit Konsola</type_1990_16_bit_console>
+	<type_1990_24_bit_console>1990  · 24-bit Konsola</type_1990_24_bit_console>
+	<type_1990_8_bit_console>1990  · 8-bit Konsola</type_1990_8_bit_console>
+	<type_1990_8_bit_handheld_console>1990  · 8-bit Konsola przenośna</type_1990_8_bit_handheld_console>
+	<type_1990_handheld_console>1990  · Konsola przenośna</type_1990_handheld_console>
+	<type_1991_16_bit_computer>1991  ·  Komputer 16-bitowy</type_1991_16_bit_computer>
+	<type_1991_16_bit_console>1991  · 16-bit Konsola</type_1991_16_bit_console>
+	<type_1992_handheld_console>1992  · Konsola przenośna</type_1992_handheld_console>
+	<type_1993_32_bit_console>1993  · 32-bit Konsola</type_1993_32_bit_console>
+	<type_1993_4th_gen_console>1993  · Konsola 4. generacji</type_1993_4th_gen_console>
+	<type_1993_arcade_system_board>1993  · Płyta systemowa arcade</type_1993_arcade_system_board>
+	<type_1993_handheld_console>1993  · handheld Console</type_1993_handheld_console>
+	<type_1994_32_bit_console>1994  · 32-bit Konsola</type_1994_32_bit_console>
+	<type_1994_console_adapter>1994  · Console adapter</type_1994_console_adapter>
+	<type_1995_32_bit_table_top_console>1995  · 32-bit Table-top Console</type_1995_32_bit_table_top_console>
+	<type_1995_handheld_console>1995  ·  Konsola przenośna</type_1995_handheld_console>
+	<type_1995_peripheral>1995  · Peripheral</type_1995_peripheral>
+	<type_1996_64_bit_console>1996  · 64-bit Konsola</type_1996_64_bit_console>
+	<type_1996_arcade_system_board>1996  · Płyta systemowa arcade</type_1996_arcade_system_board>
+	<type_1997_arcade_board>1997  · Arcade Board</type_1997_arcade_board>
+	<type_1997_handheld_console>1997  · Konsola przenośna</type_1997_handheld_console>
+	<type_1998_128_bit_console>1998  · 128-bit Konsola</type_1998_128_bit_console>
+	<type_1998_16_bit_handheld_console>1998  · 16-bit Konsola przenośna</type_1998_16_bit_handheld_console>
+	<type_1998_8_bit_handheld_console>1998  · 8-bit Konsola przenośna</type_1998_8_bit_handheld_console>
+	<type_1998_arcade_board>1998  · Arcade Board</type_1998_arcade_board>
+	<type_1998_peripheral>1998  ·  Urządzenie peryferyjne</type_1998_peripheral>
+	<type_1999_16_bit_handheld_console>1999 · 16-bit Konsola przenośna</type_1999_16_bit_handheld_console>
+	<type_1999_peripheral>1999  ·  Urządzenie peryferyjne</type_1999_peripheral>
+	<type_2001_32_bit_console>2001  · 32-bit Konsola</type_2001_32_bit_console>
+	<type_2001_32_bit_handheld_console>2001  · 32-bit Konsola przenośna</type_2001_32_bit_handheld_console>
+	<type_2001_handheld_console>2001  · Konsola przenośna</type_2001_handheld_console>
+	<type_2003_32_bit_board>2003  · 32-bit Board</type_2003_32_bit_board>
+	<type_2004_32_bit_handheld_console>2004  · 32-bit Konsola przenośna</type_2004_32_bit_handheld_console>
+	<type_2004_6th_gen_console>2004  · 6th Gen Console</type_2004_6th_gen_console>
+	<type_2006_32_bit_console>2006  · 32-bit Konsola</type_2006_32_bit_console>
+	<type_2007_arcade_board>2007  · Arcade Board</type_2007_arcade_board>
+	<type_2008_emulator>2008  · Emulator</type_2008_emulator>
+	<type_2015_handheld_console>2015  · Konsola przenośna</type_2015_handheld_console>
+	<type_2020_s_virtual_console>2020's  · Virtual Console</type_2020_s_virtual_console>
+	<type_2021_8_bit_console>2021  · 8-bit Konsola</type_2021_8_bit_console>
+	<type_2023_8_bit_console>2023  · 8-bit Konsola</type_2023_8_bit_console>
+	<type_32_bit_virtual_console>32-bit Virtual Console</type_32_bit_virtual_console>
+	<type_8_bit_virtual_machine>8-bit Virtual Machine</type_8_bit_virtual_machine>
+	<type_collection>Kolekcja gier</type_collection>
+	<type_cross_plaform_game_engine>Cross-Plaform Game Engine</type_cross_plaform_game_engine>
+	<type_cross_platform_computer>Komputer wieloplatformowy</type_cross_platform_computer>
+	<type_game_engine>Silnik gry</type_game_engine>
+	<type_gaming_engine>Silnik gier</type_gaming_engine>
+	<type_handheld_electronic_games>Przenośne gry elektroniczne</type_handheld_electronic_games>
+	<type_homebrew_games_console>Konsola gier homebrew</type_homebrew_games_console>
+	<type_java_emulator>Emulator Java</type_java_emulator>
+	<type_multi_platform_emulator>Emulator wieloplatformowy</type_multi_platform_emulator>
+	<type_multi_platform_port>Port wieloplatformowy</type_multi_platform_port>
+	<type_software>Oprogramowanie</type_software>
+	<type_standardized_computer_architecture>Znormalizowana architektura komputerowa</type_standardized_computer_architecture>
+	<ultimate_coll>Ashby Computers and Graphics Limited to brytyjski deweloper i wydawca gier, założony w 1982 przez byłych deweloperów arcade Tima i Chrisa Stamperów. Wydawał udane gry na ZX Spectrum, Amstrad CPC, BBC Micro, MSX i Commodore 64.</ultimate_coll>
+	<uzebox_desc>Uzebox to retro-minimalistyczna 8-bitowa konsola open source, oparta na 8-bitowym mikrokontrolerze AVR firmy Atmel.</uzebox_desc>
+	<vc4000_desc>Interton Video Computer 4000 (Interton VC 4000) to konsola kartridżowa wydana w niektórych krajach europejskich przez niemieckiego producenta aparatów słuchowych Interton.</vc4000_desc>
+	<vectrex_desc>Vectrex to wyjątkowa wektorowa konsola domowa firmy Smith Engineering, wydana po raz pierwszy w listopadzie 1982 w Ameryce Północnej.</vectrex_desc>
+	<vic20_desc>VIC-20 był pierwszym komputerem, który sprzedał się w milionie egzemplarzy.</vic20_desc>
+	<videopac_desc>Magnavox Odyssey 2, znana też jako Philips Odyssey 2, to domowa konsola drugiej generacji z 1978, sprzedawana w Europie jako Philips Videopac G7000.</videopac_desc>
+	<vircon32_desc>Vircon32, jak sama nazwa wskazuje, to 32-bitowa wirtualna konsola: standard możliwy do zaimplementowania w oprogramowaniu lub sprzęcie.</vircon32_desc>
+	<virtualboy_desc>Virtual Boy to 32-bitowa przenośna konsola stołowa Nintendo, reklamowana jako pierwsza ze stereoskopową grafiką „3D”. Sprzedaż okazała się porażką.</virtualboy_desc>
+	<vmu_desc>Visual Memory Unit (VMU) to karta pamięci dla Segi Dreamcast z wbudowanym ekranem, wydana w 1998. Służyła też jako mini konsola do mini-gier.</vmu_desc>
+	<vsmile_desc>V.Smile (stylizowany na V.SMILE TV Learning System) to edukacyjna domowa konsola szóstej generacji firmy VTech.</vsmile_desc>
+	<wasm4_desc>WASM-4 to fantazyjna konsola autorstwa Adurosa, podobna do Pico-8 i TIC-80, wydana w 2021.</wasm4_desc>
+	<wii_desc>Wii to domowa konsola Nintendo wydana w 2006. Jako konsola siódmej generacji konkurowała z Xbox 360 i PlayStation 3.</wii_desc>
+	<wonderswan_desc>WonderSwan to przenośna konsola wydana w Japonii przez Bandai, z 16-bitowym procesorem, niską ceną i długim czasem pracy na baterii.</wonderswan_desc>
+	<wonderswancolor_desc>WonderSwan Color to przenośna konsola wydana w Japonii przez Bandai, z 16-bitowym procesorem, niską ceną i długim czasem pracy na baterii.</wonderswancolor_desc>
+	<x16_desc>Commander X16 (potocznie X16) to nowoczesna (retro) platforma sprzętowa, pomyślana jako komputer hobbystyczny z kompatybilnością KERNAL z rodziną Commodore.</x16_desc>
+	<x1_desc>X1, nazywany też Sharp X1 lub CZ-800C, to seria komputerów domowych Sharp Corporation z lat 1982–1988.</x1_desc>
+	<x68000_desc>X68000 to seria 32-bitowych japońskich komputerów firmy Sharp, pierwszy system domowy z grafiką jakości arcade.</x68000_desc>
+	<zelda_desc>The Legend of Zelda to franczyza gier akcji fantasy, stworzona przez Shigeru Miyamoto i Takashiego Tezukę, wydawana przez Nintendo.</zelda_desc>
+	<zmachine_desc>Z-machine to maszyna wirtualna opracowana przez Joela Bereza i Marca Blanka w 1979, używana przez Infocom do gier tekstowych.</zmachine_desc>
+	<zx81_desc>ZX81 to komputer domowy firmy Sinclair Research, produkowany przez Timex w Dundee w Szkocji. Ukazał się w Wielkiej Brytanii w marcu 1981 jako następca Sinclair ZX80.</zx81_desc>
+	<zxspectrum_desc>ZX Spectrum to 8-bitowy komputer domowy wydany w Wielkiej Brytanii w 1982 przez Sinclair Research, w fazie rozwoju znany jako ZX81 Colour i ZX82.</zxspectrum_desc>
+</variables>
+</theme>

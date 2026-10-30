@@ -1,0 +1,14 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="shortdescription" extra="true">
+			<text>${type_1970_s_programming_language}</text>
+		</text>
+		<text name="description" extra="true">
+			<text>${chip8_desc}</text>
+		</text>
+
+	</view>
+</theme>

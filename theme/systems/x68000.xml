@@ -1,0 +1,14 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="shortdescription" extra="true">
+			<text>${type_1987_24_bit_computer}</text>
+		</text>
+		<text name="description" extra="true">
+			<text>${x68000_desc}</text>
+		</text>
+
+	</view>
+</theme>

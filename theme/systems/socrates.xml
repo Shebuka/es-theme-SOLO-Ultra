@@ -1,0 +1,14 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="shortdescription" extra="true">
+			<text>${type_1988_8_bit_console}</text>
+		</text>
+		<text name="description" extra="true">
+			<text>${socrates_desc}</text>
+		</text>
+
+	</view>
+</theme>

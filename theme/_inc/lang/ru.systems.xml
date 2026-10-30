@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+	<acclaim_coll>Acclaim Entertainment, Inc. — американский издатель видеоигр из Глен-Коув, Нью-Йорк. Основана бывшими сотрудниками Activision и названа Acclaim, чтобы стоять выше Activision и Accolade в алфавитных списках.</acclaim_coll>
+	<activision_coll>Activision была основана в октябре 1979 года в Саннивейле, Калифорния, бывшими разработчиками Atari, недовольными отношением к себе. Activision стала первым независимым сторонним разработчиком консольных игр.</activision_coll>
+	<advision_desc>Adventure Vision — картриджная игровая консоль от Entex Industries. Монитор, управление и аппаратура объединены в одном портативном устройстве. Вышло всего четыре игры.</advision_desc>
+	<amiga_desc>Amiga — семейство персональных компьютеров, продававшихся Commodore в 1980-х и 1990-х. Первая модель вышла в 1985 году как мощный домашний компьютер.</amiga_desc>
+	<amigacd32_desc>Amiga CD32 — 32-битная домашняя игровая консоль от Commodore, выпущенная в Европе, Австралии, Канаде и Бразилии. Анонсирована 16 июля 1993 года в Музее науки в Лондоне.</amigacd32_desc>
+	<amigacdtv_desc>Commodore CDTV — мультимедийный домашний компьютер 1991 года на базе Amiga 500 с CD-ROM, предназначенный для гостиной.</amigacdtv_desc>
+	<amstradcpc_desc>CPC 464 — первый домашний компьютер Amstrad, выпущенный в 1984 году. Один из самых продаваемых микрокомпьютеров: более 2 миллионов единиц в Европе.</amstradcpc_desc>
+	<aof_coll>Art of Fighting — трилогия файтингов для Neo Geo начала 1990-х. Вторая файтинг-франшиза SNK после Fatal Fury, действие происходит в той же вселенной.</aof_coll>
+	<apfm1000_desc>APF Microcomputer System — картриджная домашняя консоль второго поколения, выпущенная в октябре 1978 года компанией APF Electronics Inc. с шестью картриджами.</apfm1000_desc>
+	<apple2_desc>Apple II, выпущенный в 1977 году, — домашний компьютер, разработанный Стивом Возняком. Имел 8-битный процессор с цветной графикой в двух разрешениях.</apple2_desc>
+	<arcade_desc>Аркадная игра — монетный развлекательный автомат, обычно устанавливаемый в ресторанах, барах и игровых залах. Золотой век аркад длился с конца 1970-х до середины 1980-х.</arcade_desc>
+	<arcadia_desc>Arcadia 2001 — домашняя консоль второго поколения от Emerson Radio, вышедшая за несколько месяцев до ColecoVision. Снята с производства через 18 месяцев, всего вышло 35 игр.</arcadia_desc>
+	<archimedes_desc>Acorn Archimedes — семейство персональных компьютеров Acorn Computers из Кембриджа, Англия. Используют собственные ARM-процессоры Acorn и изначально работали под ОС Arthur.</archimedes_desc>
+	<arduboy_desc>Arduboy — портативная консоль Кевина Бейтса, выпущенная в 2015 году. Размером примерно с кредитную карту, содержит более 300 игр.</arduboy_desc>
+	<astrocade_desc>Bally Astrocade — домашняя консоль второго поколения и простая компьютерная система, разработанная командой Midway, тогда видеоигрового подразделения Bally.</astrocade_desc>
+	<astrocde_desc>Bally Astrocade — домашняя консоль второго поколения и простая компьютерная система, разработанная командой Midway, тогда видеоигрового подразделения Bally.</astrocde_desc>
+	<atari2600_desc>Atari Video Computer System (VCS) — домашняя консоль второго поколения (1976–1992), разработанная и распространяемая Atari, Inc. Вышла 11 сентября 1977 года в Северной Америке по цене 199 долларов.</atari2600_desc>
+	<atari5200_desc>Atari 5200 SuperSystem — консоль второго поколения от Atari. Поставлялась с инновационным контроллером с 360-градусным джойстиком и цифровой клавиатурой.</atari5200_desc>
+	<atari7800_desc>Atari 7800 Pro System — консоль третьего поколения от Atari Corporation. Одна из первых обратно совместимых консолей: могла запускать игры Atari 2600 без дополнительных модулей.</atari7800_desc>
+	<atari800_desc>8-битное семейство Atari — серия 8-битных домашних компьютеров, представленных Atari, Inc. в 1979 году как Atari 400 и Atari 800 и выпускавшихся до 1992 года.</atari800_desc>
+	<atari_coll>Первоначальная Atari, Inc., основанная в 1972 году в Саннивейле Ноланом Бушнеллом и Тедом Дабни, была пионером аркад, домашних консолей и компьютеров. Такие продукты, как Pong и Atari 2600, определили индустрию электронных развлечений.</atari_coll>
+	<atarijaguarcd_desc>Atari Jaguar CD — CD-ROM-периферия для консоли Atari Jaguar. За время существования вышло всего 11 игр.</atarijaguarcd_desc>
+	<atarilynx_desc>Atari Lynx — 16-битная портативная консоль от Atari Corporation. Вышла в сентябре 1989 года в Северной Америке. Lynx был первой портативной консолью с цветным ЖК-экраном.</atarilynx_desc>
+	<atarist_desc>Atari ST — линейка домашних компьютеров Atari Corporation и преемник 8-битного семейства Atari. 1040ST, выпущенный в 1986 году, был первым ПК с мегабайтом ОЗУ в базовой комплектации.</atarist_desc>
+	<atarixegs_desc>Atari XE Game System (XEGS) — домашняя игровая консоль Atari Corporation 1987 года, основанная на 8-битном семействе компьютеров Atari.</atarixegs_desc>
+	<atlus_coll>Atlus — японский разработчик, издатель и дистрибьютор видеоигр из Токио. Дочерняя компания Sega, известная сериями Megami Tensei, Persona, Etrian Odyssey и Trauma Center.</atlus_coll>
+	<atomiswave_desc>Atomiswave — аркадная системная плата и корпус от Sammy Corporation, основанные на плате Sega NAOMI. Использует сменные игровые картриджи.</atomiswave_desc>
+	<auto-at2players_coll>«Если бы Pac-Man повлиял на нас в детстве, мы бы бегали по тёмным комнатам, жевали таблетки и слушали повторяющуюся электронную музыку». — Маркус Бригсток</auto-at2players_coll>
+	<auto-at4players_coll>«Есть разница между игрой и игрой. Первое — акт радости, второе — акт». — Вера Назарян</auto-at4players_coll>
+	<auto-favorites_coll>«Люди говорили, что видеоигры плохи, потому что притупляют страх смерти. Настоящая проблема в том, что игрок должен попробовать всё». — Холли Блэк</auto-favorites_coll>
+	<auto-lastplayed_coll>«Худшее, что ребёнок может сказать о домашнем задании, — что оно слишком сложное. Худшее, что можно сказать об игре, — что она слишком лёгкая». — Генри Дженкинс</auto-lastplayed_coll>
+	<auto-neverplayed_coll>«Отложенная игра со временем станет хорошей, плохая игра плоха навсегда». — Сигэру Миямото</auto-neverplayed_coll>
+	<auto-retroachievements_coll>Retroachievements.org — сервис, предоставляющий трофеи и достижения, как на современных консолях, для ретро-игр. Поддерживаются Sega Megadrive, Super Nintendo, Nintendo 64, PlayStation и Neo-Geo.</auto-retroachievements_coll>
+	<batman_coll>Бэтмен появлялся более чем в 50 видеоиграх для компьютеров, телефонов и консолей с 1980-х годов.</batman_coll>
+	<battletoads_coll>Battletoads — медиафраншиза Rare, начавшаяся с beat 'em up Battletoads в 1991 году. Три антропоморфные жабы Раш, Зитц и Пимпл создавались как соперники серии Teenage Mutant Ninja Turtles.</battletoads_coll>
+	<bbc_desc>BBC Microcomputer System, или BBC Micro, — семейство микрокомпьютеров, разработанных Acorn Computers в начале 1980-х в рамках проекта компьютерной грамотности BBC.</bbc_desc>
+	<bbcmicro_desc>BBC Microcomputer System, или BBC Micro, — семейство микрокомпьютеров, разработанных Acorn Computers в начале 1980-х в рамках проекта компьютерной грамотности BBC.</bbcmicro_desc>
+	<bk_desc>Электроника БК — серия 16-битных домашних компьютеров, совместимых с PDP-11, разработанных под маркой «Электроника» НПО «Научный центр» в СССР.</bk_desc>
+	<c128_desc>Commodore 128, также известный как C128, — последний коммерчески выпущенный 8-битный домашний компьютер Commodore Business Machines (CBM). Представлен в январе 1985 года.</c128_desc>
+	<c16_desc>C16 — домашний компьютер Commodore International, задуманный как бюджетная замена VIC-20.</c16_desc>
+	<c64_desc>Commodore 64 — 8-битный домашний компьютер, представленный в январе 1982 года Commodore International. Занесён в Книгу рекордов Гиннесса как самая продаваемая модель компьютера всех времён.</c64_desc>
+	<capcom_coll>Capcom — японский разработчик и издатель видеоигр. Создала множество многомиллионных франшиз, включая Street Fighter, Mega Man, Darkstalkers, Resident Evil и Ghosts 'n Goblins.</capcom_coll>
+	<castlevania_coll>Castlevania — серия action-adventure в готическом хоррор-стиле об охотниках на вампиров, созданная и разработанная Konami. Вышла на множестве платформ.</castlevania_coll>
+	<cave_coll>CAVE Interactive Co., Ltd. — японская компания видеоигр, основанная в 1994 году бывшими сотрудниками Toaplan после её банкротства. С 1995 по 2013 год CAVE была одним из самых плодовитых разработчиков shoot 'em up в Японии.</cave_coll>
+	<cavestory_coll>Cave Story — метроидвания-платформер 2004 года для Microsoft Windows. Разрабатывалась пять лет японским разработчиком Дайсукэ «Pixel» Амаей.</cavestory_coll>
+	<cdi_desc>Формат CD-i был анонсирован в конце 1980-х, первые устройства вышли в 1991 году. Philips CD-i стал коммерческим провалом и был снят с производства в 1998 году.</cdi_desc>
+	<cdimono1_desc>Формат CD-i был анонсирован в конце 1980-х, первые устройства вышли в 1991 году. Philips CD-i стал коммерческим провалом.</cdimono1_desc>
+	<channelf_desc>Fairchild Channel F, сокращение от «Channel Fun», — домашняя игровая консоль, первая на микропроцессоре с ROM-картриджами вместо встроенных игр.</channelf_desc>
+	<chip8_desc>CHIP-8 — интерпретируемый язык программирования, разработанный Джозефом Вайсбеккером для его микропроцессора 1802. Изначально использовался на COSMAC VIP и Telmac 1800.</chip8_desc>
+	<coco3_desc>«coco3» — третье поколение TRS-80 Color Computer от Tandy Corporation.</coco3_desc>
+	<coco_desc>TRS-80 Color Computer, позже продававшийся как Tandy Color Computer, — серия домашних компьютеров Tandy Corporation.</coco_desc>
+	<codemasters_coll>The Codemasters Software Company — британский разработчик и издатель видеоигр из Саутхэма, Англия. Основана братьями Ричардом и Дэвидом Дарлингами в октябре 1986 года.</codemasters_coll>
+	<colecovision_desc>ColecoVision — домашняя игровая консоль второго поколения от Coleco Industries, выпущенная в августе 1982 года.</colecovision_desc>
+	<cps1_desc>Capcom Play System 1 — аркадная системная плата Capcom, запускавшая игры со сменных ROM-картриджей. Для CPS-1 вышло более двух десятков аркадных игр.</cps1_desc>
+	<cps2_desc>CPS-2 — аркадная системная плата, впервые использованная Capcom в 1993 году для Super Street Fighter II. Сменила CP System и была заменена CP System III в 1996 году.</cps2_desc>
+	<cps3_desc>CPS-3 — аркадная системная плата, впервые использованная Capcom в 1996 году в игре Red Earth. Последняя собственная системная плата Capcom.</cps3_desc>
+	<crashbandicoot_coll>Crash Bandicoot — франшиза платформенных видеоигр. Изначально разработана Naughty Dog как эксклюзив для PlayStation, позже серия выходила на нескольких платформах.</crashbandicoot_coll>
+	<creativision_desc>VTech CreatiVision — гибрид компьютера и домашней игровой консоли, представленный VTech в 1981 году и выпущенный в 1982 году.</creativision_desc>
+	<crvision_desc>VTech CreatiVision — гибрид компьютера и домашней игровой консоли, представленный VTech в 1981 году и выпущенный в 1982 году во втором поколении консолей.</crvision_desc>
+	<daphne_desc>Daphne — эмулятор аркадных игр для Windows, Linux и Mac OS X от Мэтта Оунби. Запускает игры для систем на LaserDisc, включая большинство игр Sega LaserDisc.</daphne_desc>
+	<dataeast_coll>Data East Corporation (データイースト株式会社), также сокращённо DECO, — японская компания видеоигр и электроники. Работала с 1976 по 2003 год и выпустила 150 игр.</dataeast_coll>
+	<dbz_coll>Серия видеоигр Dragon Ball основана на одноимённой манге и аниме Акиры Ториямы. Серия следует за приключениями Гоку в поисках семи Драконьих жемчужин.</dbz_coll>
+	<ddr_coll>Dance Dance Revolution (в ранних европейских версиях Dancing Stage) — новаторская серия музыкальных игр Konami. Представлена в Японии в 1998 году.</ddr_coll>
+	<dice_desc>DICE — эмулятор дискретных интегральных схем. Эмулирует компьютерные системы без процессора, состоящие только из дискретных логических компонентов.</dice_desc>
+	<donkeykong_coll>Donkey Kong — серия видеоигр о приключениях гориллы по имени Donkey Kong, придуманная Сигэру Миямото в 1981 году.</donkeykong_coll>
+	<doom_coll>Doom — франшиза видеоигр, впервые выпущенная в 1993 году. Серия рассказывает о безымянном космическом десантнике корпорации UAC, сражающемся с демонами.</doom_coll>
+	<doubledragon_coll>Double Dragon — beat 'em up 1987 года от Technōs Japan, распространяемый Taito. Духовный преемник более ранней игры Nekketsu Kōha Kunio-kun.</doubledragon_coll>
+	<dragon32_desc>Dragon 32 и Dragon 64 — 8-битные домашние компьютеры 1980-х. Очень похожи на TRS-80 Color Computer и производились для европейского рынка компанией Dragon Data.</dragon32_desc>
+	<dragon64_desc>Dragon 32 и Dragon 64 — 8-битные домашние компьютеры 1980-х. Очень похожи на TRS-80 Color Computer и производились для европейского рынка компанией Dragon Data.</dragon64_desc>
+	<dreamcast_desc>Dreamcast — 128-битная игровая консоль Sega, выпущенная в конце 1998 года в Японии и с сентября 1999 года в других регионах. Первая консоль шестого поколения.</dreamcast_desc>
+	<dukenukem_coll>Duke Nukem — серия видеоигр, названная в честь главного героя. Первые две игры были 2D-платформерами, поздние — шутерами от первого и третьего лица.</dukenukem_coll>
+	<ea_coll>Electronic Arts Inc. (EA) — американская компания видеоигр со штаб-квартирой в Редвуд-Сити, Калифорния. Вторая по величине игровая компания в Америке и Европе после Activision Blizzard.</ea_coll>
+	<easports_coll>EA Sports — подразделение Electronic Arts, разрабатывающее и издающее спортивные игры. Из маркетингового приёма выросло в отдельный лейбл с сериями FIFA и Madden NFL.</easports_coll>
+	<easryrpg_desc>Easy RPG — свободный интерпретатор и редактор ролевых игр с открытым исходным кодом, позволяющий играть в игры, совместимые с RPG Maker 2000 и 2003.</easryrpg_desc>
+	<ecwolf_desc>ECWolf — продвинутый порт для Wolfenstein 3D, Spear of Destiny и Super 3D Noah's Ark, основанный на кодовой базе Wolf4SDL.</ecwolf_desc>
+	<eidos_coll>Eidos Interactive — британский издатель программного обеспечения с 1995 по 2005 год, наиболее известный сериями Tomb Raider и Championship Manager. Сейчас принадлежит японской группе Square Enix.</eidos_coll>
+	<eighting_coll>Eighting Co., Ltd., стилизованно 8ing, — японский разработчик и издатель видеоигр, ранее известный как Raizing. Известна shoot 'em up и лицензированными файтингами.</eighting_coll>
+	<electron_desc>Acorn Electron был представлен как более дешёвая альтернатива BBC Micro, также разработанный Acorn Computers.</electron_desc>
+	<famicom_desc>Nintendo Famicom — 8-битная игровая консоль, выпущенная Nintendo в Японии в 1983 году. Вышла как Family Computer, обычно сокращаемо Famicom или FC.</famicom_desc>
+	<fatalfury_coll>Fatal Fury — серия файтингов SNK для Neo Geo. Fatal Fury и сестринская серия Art of Fighting происходят в одной вымышленной вселенной.</fatalfury_coll>
+	<fbn_desc>Final Burn Neo — эмулятор аркадных игр и некоторых консолей. Основан на эмуляторах FinalBurn и старых версиях MAME.</fbn_desc>
+	<fds_desc>Family Computer Disk System — периферия для Family Computer от Nintendo, выпущенная в Японии 21 февраля 1986 года. Использует фирменные дискеты «Disk Cards».</fds_desc>
+	<finalfantasy_coll>Final Fantasy — японская фэнтезийная серия. Франшиза состоит из серии фэнтезийных и научно-фэнтезийных ролевых игр. Первая игра вышла в 1987 году.</finalfantasy_coll>
+	<finalfight_coll>Final Fight — серия beat 'em up от Capcom, начавшаяся с аркадной игры Final Fight в 1989 году. Действие происходит в вымышленном Метро-Сити.</finalfight_coll>
+	<fm7_desc>FM-7 — домашний компьютер Fujitsu. Продавался в Японии и Испании, является упрощённой версией более раннего FM-8.</fm7_desc>
+	<fmtowns_desc>FM Towns Marty — 16-битная игровая консоль пятого поколения, основанная на компьютерной системе FM Towns, выпущенной Fujitsu в 1989 году.</fmtowns_desc>
+	<freej2me_desc>FreeJ2ME — простой эмулятор J2ME (Java Platform Micro Edition) с упором на старые мобильные игры. Работает на Windows, Linux и Raspberry Pi 3.</freej2me_desc>
+	<gameandwatch_desc>Game and Watch — серия портативных электронных игр Nintendo с 1980 по 1991 год. Каждое устройство содержало одну игру и часы на ЖК-экране.</gameandwatch_desc>
+	<gamecom_desc>Game.com — портативная консоль пятого поколения от Tiger Electronics. Известна поддержкой интернета, отсюда «.com» в названии.</gamecom_desc>
+	<gamegear_desc>Sega Game Gear — первая портативная консоль Sega. Третья коммерчески доступная цветная портативная консоль после Atari Lynx и TurboExpress.</gamegear_desc>
+	<gametank_desc>GameTank — 8-битная домашняя консоль с открытым исходным кодом, предназначенная для новых игр и homebrew-разработки.</gametank_desc>
+	<gb_desc>Game Boy — 8-битная портативная консоль, выпущенная в 1989 году. Первая портативная консоль в линейке Game Boy, созданная Гунпэем Ёкои.</gb_desc>
+	<gba_desc>Game Boy Advance — 32-битная портативная консоль Nintendo, преемник Game Boy Color.</gba_desc>
+	<gbc_desc>Game Boy Color (сокращённо GBC) — портативная консоль Nintendo, выпущенная в 1998 году. Преемник Game Boy с цветным экраном, но без подсветки.</gbc_desc>
+	<gc_desc>GameCube — консоль Nintendo шестого поколения, преемник Nintendo 64. Конкурировала с Sony PlayStation 2 и Microsoft Xbox.</gc_desc>
+	<genesis_desc>Genesis (вне США Mega Drive) — третья консоль Sega и преемник Master System. Основной процессор — 16/32-битный Motorola 68000 с частотой 7,6 МГц.</genesis_desc>
+	<genre-vertical_coll>«Мы перестаём играть не потому, что стареем; мы стареем, потому что перестаём играть!» — Бенджамин Франклин</genre-vertical_coll>
+	<gmaster_desc>Game Master — портативная консоль Hartung, созданная как конкурент Nintendo Game Boy. В Германии продавалась самой Hartung, в Великобритании — как Systema 2000.</gmaster_desc>
+	<gmloader_desc>GameMaker (изначально Animo, позже Game Maker) — серия кроссплатформенных игровых движков, созданных Марком Овермарсом в 1999 году и развиваемых YoYo Games с 2007 года.</gmloader_desc>
+	<gt_coll>GT Interactive Software Corporation (GTI) была основана в феврале 1993 года как подразделение GoodTimes Home Video. После нескольких слияний компания теперь часть Atari, Inc.</gt_coll>
+	<gta_desc>Grand Theft Auto — серия action-adventure, впервые выпущенная для PlayStation в 1997 году. Большинство игр происходит в вымышленных городах.</gta_desc>
+	<gx4000_desc>GX4000 — игровая консоль Amstrad. Недолгая попытка компании выйти на рынок консолей. Выпущена в Европе в 1990 году на основе технологии CPC.</gx4000_desc>
+	<ikemen_desc>Ikemen (сокращение от Itsumademo Kanseishinai Eienni Mikansei ENgine) — свободный игровой движок для файтингов с открытым исходным кодом, совместимый с контентом M.U.G.E.N.</ikemen_desc>
+	<infogrames_coll>Infogrames — разработчик и издатель программного обеспечения с 1983 по 2009 год, наиболее известный серией Alone In The Dark. Сейчас компания — часть Atari, Inc.</infogrames_coll>
+	<intellivision_desc>Intellivision («Intelligent Television») — домашняя игровая консоль, выпущенная Mattel Electronics в 1979 году. Разработка началась в 1977 году, одновременно с главным конкурентом Atari 2600.</intellivision_desc>
+	<irem_coll>Irem Software Engineering — японский разработчик и издатель консольных игр, а ранее и разработчик аркадных игр. Штаб-квартира в Тиёда, Токио.</irem_coll>
+	<jaguar_desc>Atari Jaguar — домашняя игровая консоль Atari Corporation, выпущенная в Северной Америке в ноябре 1993 года. Консоль пятого поколения, конкурировала с Sega Genesis, Super NES и 3DO.</jaguar_desc>
+	<kaneko_coll>Kaneko Co. Ltd. (カネコ株式会社) — японский издатель видеоигр, основанный Хироси Канеко в Сугинами, Токио. Выпускала игры Air Buster, Nexzr, Shogun Warriors и серию Gals Panic.</kaneko_coll>
+	<karaoke_coll>Караоке — вид интерактивного развлечения, обычно в клубах и барах, где люди поют под записанную музыку. Текст обычно отображается на экране.</karaoke_coll>
+	<kof_coll>The King of Fighters — серия файтингов SNK, начавшаяся с The King of Fighters '94 в 1994 году. Изначально разрабатывалась для аркадного оборудования Neo Geo MVS.</kof_coll>
+	<konami_coll>Konami — издатель видеоигр, среди крупных серий — action Castlevania, survival horror Silent Hill, action-шутер Contra и stealth action Metal Gear.</konami_coll>
+	<lego_coll>С 1995 года вышло 85 коммерческих видеоигр по мотивам конструктора Lego от The Lego Group. Жанры включают приключения, настольные и гоночные игры.</lego_coll>
+	<lowresnx_desc>LowresNX — ретро-среда разработки игр, позволяющая создавать и играть в 8-битные игры. Предлагает пиксельный графический редактор и BASIC-подобный язык.</lowresnx_desc>
+	<lucasarts_coll>LucasArts Entertainment Company, работающая как Lucasfilm Games, — американский лицензиар. До 2013 года также разработчик и издатель, известный графическими квестами и играми по Star Wars и Indiana Jones.</lucasarts_coll>
+	<m2000_desc>Philips P2000T — первый настоящий выход Philips на рынок домашних компьютеров в 1980 году, после игровой системы Videopac G7000.</m2000_desc>
+	<macintosh_desc>Macintosh 128K — оригинальный персональный компьютер Macintosh от Apple. Первый успешный массовый моноблок с графическим интерфейсом, экраном и мышью.</macintosh_desc>
+	<mame_desc>MAME (изначально акроним Multiple Arcade Machine Emulator) — свободный эмулятор с открытым исходным кодом, воссоздающий аппаратуру аркадных систем.</mame_desc>
+	<mario_coll>Марио — вымышленный персонаж франшизы Mario, принадлежащей Nintendo и созданной Сигэру Миямото. Как талисман компании Марио появился более чем в 200 играх.</mario_coll>
+	<mastersystem_desc>Master System — игровая консоль третьего поколения, выпущенная Sega в 1985 году. Прямой конкурент Nintendo Entertainment System.</mastersystem_desc>
+	<mc10_desc>TRS-80 MC-10 — менее известный представитель линейки домашних компьютеров TRS-80. Дешёвая альтернатива TRS-80 Color Computer.</mc10_desc>
+	<megadrive_desc>Megadrive — третья консоль Sega и преемник Master System. Основной процессор — 16/32-битный Motorola 68000 с частотой 7,6 МГц.</megadrive_desc>
+	<megadrivemsu_desc>MSU-MD — чип-дополнение к картриджу Mega Everdrive Pro, добавляющий в игры Megadrive полнометражное видео и звук качества CD.</megadrivemsu_desc>
+	<megaduck_desc>Mega Duck WG-108 (также известный как Cougar Boy) — портативная консоль, разработанная и выпущенная гонконгской Welback Holdings в 1993 году.</megaduck_desc>
+	<megaman_coll>Mega Man, в Японии известный как Rockman, — научно-фантастическая франшиза Capcom о серии роботов. Mega Man вышел в 1987 году для NES.</megaman_coll>
+	<metalgear_coll>Metal Gear — серия стелс-экшенов Хидэо Кодзимы, разработанная и изданная Konami. Первая игра вышла в 1987 году для MSX.</metalgear_coll>
+	<metalslug_coll>Metal Slug — серия run and gun, изначально созданная Nazca Corporation до слияния с SNK в 1996 году.</metalslug_coll>
+	<metroid_coll>Metroid — научно-фантастическая action-франшиза Nintendo. Следует за охотницей за головами Самус Аран, защищающей галактику от космических пиратов.</metroid_coll>
+	<microvision_desc>Microvision — первая портативная консоль со сменными картриджами, выпущенная Milton Bradley в 1979 году.</microvision_desc>
+	<midway_coll>Midway — американский разработчик и издатель видеоигр. Франшизы включали Mortal Kombat, Rampage, Spy Hunter, NBA Jam, Cruis'n и NFL Blitz. Компания закрылась в 2009 году.</midway_coll>
+	<mortalkombat_coll>Mortal Kombat — серия игр, впервые выпущенная в 1992 году. Оригинал породил множество сиквелов и спин-оффов.</mortalkombat_coll>
+	<msx2_desc>MSX — стандартизированная архитектура домашних компьютеров, анонсированная Microsoft и ASCII 16 июня 1983 года.</msx2_desc>
+	<msx_desc>MSX — стандартизированная архитектура домашних компьютеров, анонсированная Microsoft и ASCII 16 июня 1983 года. До успеха Famicom MSX был платформой крупных японских студий, таких как Konami и Hudson Soft.</msx_desc>
+	<multivision_desc>Othello Multivision — лицензионный клон SG-1000, разработанный Sega и продававшийся Tsukuda Original.</multivision_desc>
+	<n64_desc>Под кодовым именем Ultra64, Nintendo 64 вышла в 1996 году и стала последней крупной домашней консолью с картриджами. По всему миру продано 32,93 миллиона единиц.</n64_desc>
+	<n64dd_desc>Nintendo 64DD — периферия с магнитным дисководом для Nintendo 64, выпущенная в Японии в 1999 году. Расширяла хранилище и добавляла онлайн-функции, но стала коммерческим провалом.</n64dd_desc>
+	<namco_coll>Namco — японский разработчик и издатель аркадных и домашних игр со штаб-квартирой в Оте, Токио. В 2005 году после 50 лет объединилась с Bandai.</namco_coll>
+	<naomi_desc>Sega NAOMI (New Arcade Operation Machine Idea) — аркадная системная плата, выпущенная в 1998 году как преемник Sega Model 3. Использует ту же архитектуру, что и Dreamcast.</naomi_desc>
+	<nds_desc>Nintendo DS — 32-битная портативная консоль с двумя экранами от Nintendo. Поступила в продажу в Северной Америке 21 ноября 2004 года.</nds_desc>
+	<neogeo_desc>Neo Geo AES изначально запускалась как прокатная консоль для японских магазинов видеоигр (Neo Geo Rental System). Из-за высокого спроса позже вышла на рынок как люксовая консоль.</neogeo_desc>
+	<neogeocd_desc>Neo Geo CD — вторая домашняя консоль SNK, выпущенная как более дешёвая альтернатива AES. Игры работали на гораздо более дешёвых CD-ROM.</neogeocd_desc>
+	<nes_desc>Nintendo Entertainment System — 8-битная игровая консоль, выпущенная Nintendo в Северной Америке в 1985 году. Самая продаваемая консоль своего времени.</nes_desc>
+	<ngp_desc>Neo Geo Pocket — монохромная портативная консоль SNK. Первая портативная система компании, дебютировала в Японии в конце 1998 года.</ngp_desc>
+	<ngpc_desc>Neo Geo Pocket Color — 16-битная цветная портативная консоль SNK. Преемник монохромного Neo Geo Pocket.</ngpc_desc>
+	<nintendo_coll>Nintendo создала одни из самых успешных консолей в индустрии: Game Boy, Super Nintendo Entertainment System, Nintendo DS, Wii и Nintendo Switch.</nintendo_coll>
+	<ocean_coll>Ocean Software Ltd — британская компания-разработчик, один из крупнейших европейских издателей 1980-х и 1990-х. Первой получила лицензии на фильмы, включая Rambo, Short Circuit и Cobra.</ocean_coll>
+	<openbor_desc>OpenBOR — бесплатный спрайтовый движок для сайд-скроллеров. Оптимизирован для beat 'em up, таких как Double Dragon, Streets of Rage и Final Fight.</openbor_desc>
+	<oricatmos_desc>Oric — марка домашних компьютеров, продававшихся в 1980-х компанией Tangerine Computer Systems. Все компьютеры Oric базировались на процессоре MOS Technology 6502A.</oricatmos_desc>
+	<outrun_coll>OutRun — аркадная гоночная игра, выпущенная Sega в сентябре 1986 года. Известна новаторским оборудованием, нелинейным геймплеем и выбираемым саундтреком.</outrun_coll>
+	<pc88_desc>Серия японских 8-битных персональных компьютеров NEC с 1979 по 1989 год.</pc88_desc>
+	<pc98_desc>Серия японских 16- и 32-битных персональных компьютеров NEC с 1982 по 2000 год.</pc98_desc>
+	<pc_desc>DOSBox — свободный эмулятор с открытым исходным кодом, запускающий программы для MS-DOS, в первую очередь видеоигры. Впервые выпущен в 2002 году.</pc_desc>
+	<pce-cd_desc>TurboGrafx-16, в Японии известная как PC Engine, — игровая консоль Hudson Soft и NEC, выпущенная в Японии 30 октября 1987 года.</pce-cd_desc>
+	<pcengine_desc>PC Engine вышла в Японии 30 октября 1987 года. Получила сильную поддержку сторонних разработчиков и стала главным соперником Super Famicom.</pcengine_desc>
+	<pcfx_desc>PC-FX — 32-битная домашняя игровая консоль 1994 года. Задумывалась как преемник PC Engine и стала последним выходом NEC на рынок консолей.</pcfx_desc>
+	<pgm2_desc>IGS PolyGame Master 2 — аркадная система, выпущенная IGS в 2007 году, преемник IGS PolyGame Master.</pgm2_desc>
+	<pgm_desc>PolyGame Master (PGM) — аркадная системная плата, выпущенная в 1997 году тайваньской компанией IGS. Разработана для конкуренции с Neo Geo MVS от SNK.</pgm_desc>
+	<pico8_desc>Pico-8 (стилизованно PICO-8) — виртуальная машина и игровой движок от Lexaloffle Games. Имитирует фантазийную консоль, воспроизводя аппаратные ограничения консолей 1980-х.</pico8_desc>
+	<pico_desc>Sega Pico, продававшийся как «edutainment», был сосредоточен на обучающих играх для детей от 3 до 7 лет.</pico_desc>
+	<pokemini_desc>Pokémon Mini — портативная консоль Nintendo по франшизе Pokémon. Самая маленькая игровая система со сменными картриджами от Nintendo.</pokemini_desc>
+	<pokemon_coll>Pokémon — серия видеоигр, издаваемая Nintendo и The Pokémon Company. Первые игры, Pocket Monsters Red и Green, вышли в 1996 году в Японии для Game Boy.</pokemon_coll>
+	<ports_desc>Мультиплатформенные порты программного обеспечения и игровых движков с ПК на DOS.</ports_desc>
+	<prboom_coll>Doom — франшиза видеоигр, впервые выпущенная в 1993 году. Серия рассказывает о безымянном космическом десантнике UAC, сражающемся с демонами.</prboom_coll>
+	<psikyo_coll>Psikyo — японский разработчик и издатель видеоигр, известный shoot 'em up и маджонг-играми. В основном разрабатывала аркадные игры и портировала их на домашние консоли.</psikyo_coll>
+	<psp_desc>PlayStation Portable (PSP) — портативная консоль Sony, выпущенная в 2005 году. Первый серьёзный конкурент доминированию Nintendo на рынке портативных консолей.</psp_desc>
+	<pspminis_desc>PSP Minis — цифровые игры размером до 100 МБ, вышедшие вместе с PSPgo. Всего вышло 290 игр Minis.</pspminis_desc>
+	<psx_desc>PlayStation (неофициально сокращённо PSX) — домашняя игровая консоль Sony Computer Entertainment. Оригинальная консоль первой в истории продала более 100 миллионов единиц.</psx_desc>
+	<quake_coll>Quake — серия шутеров от первого лица, разработанная id Software и с 2010 года издаваемая Bethesda Softworks.</quake_coll>
+	<residentevil_coll>Resident Evil — серия игр Capcom. Франшиза началась с Resident Evil, вышедшей в 1996 году для PlayStation, и определила жанр survival horror.</residentevil_coll>
+	<residualvm_desc>ResidualVM — кроссплатформенная программа с воссозданием 3D-движков и общим графическим интерфейсом. Поддерживает Grim Fandango, Myst III: Exile и The Longest Journey.</residualvm_desc>
+	<rockstar_coll>Rockstar Games, Inc. — американский издатель видеоигр из Нью-Йорка. Основана в декабре 1998 года как дочерняя компания Take-Two Interactive, с активами, приобретёнными у BMG Interactive, включая DMA Design — создателей Grand Theft Auto.</rockstar_coll>
+	<samcoupe_desc>SAM Coupé — 8-битный британский домашний компьютер Miles Gordon Technology (MGT) из Суонси. Основан на ZX Spectrum 48K и совместим с ним.</samcoupe_desc>
+	<samuraishodown_coll>Samurai Shodown, в Японии известная как Samurai Spirits, — серия файтингов SNK. Действие происходит в Японии XVIII века.</samuraishodown_coll>
+	<satellaview_desc>Satellaview — спутниковый модем-периферия для Super Famicom от Nintendo, выпущенный только в Японии в 1995 году. Позволял загружать игры, журналы и передачи через спутниковый сервис St.GIGA.</satellaview_desc>
+	<saturn_desc>Saturn был успешен в Японии, но плохо продавался в США после запуска в мае 1995 года. Репутация смешанная из-за сложной аппаратной конструкции.</saturn_desc>
+	<sc-3000_desc>SC-3000 — первый и единственный компьютер, разработанный и произведённый Sega. Впервые выпущен в июле 1983 года в Японии.</sc-3000_desc>
+	<scummvm_desc>ScummVM (Script Creation Utility for Maniac Mansion Virtual Machine) — набор воссозданных игровых движков. Изначально создан для квестов LucasArts на системе SCUMM.</scummvm_desc>
+	<scv_desc>Super Cassette Vision — домашняя игровая консоль Epoch Co., выпущенная в Японии и позже в Европе, особенно во Франции. Конкурировала с Famicom и линейкой SG-1000.</scv_desc>
+	<sega32x_desc>Sega 32X — дополнение к консоли Sega Genesis. Под кодовым именем «Project Mars» оно расширяло мощность Genesis до выхода Sega Saturn.</sega32x_desc>
+	<sega_coll>Sega — японский многонациональный разработчик и издатель видеоигр со штаб-квартирой в Синагаве, Токио. Создала серии Sonic the Hedgehog, Total War и Yakuza.</sega_coll>
+	<segacd_desc>Sega CD — CD-ROM-аксессуар для Sega Genesis, произведённый Sega как часть четвёртого поколения консолей.</segacd_desc>
+	<setup_desc>«Конечная игра ведётся ради победы, бесконечная — ради продолжения игры». — Джеймс П. Карс</setup_desc>
+	<sfc_desc>Super Famicom — 16-битная домашняя игровая консоль Nintendo, выпущенная в 1990 году в Японии. В других странах система называлась Super Nintendo.</sfc_desc>
+	<sg-1000_desc>Sega SG-1000 (также Mark I) — первая попытка компании на рынке домашних консолей, выпущенная в июле 1983 года.</sg-1000_desc>
+	<sgb_desc>Super Game Boy — периферия, позволяющая играть в картриджи Game Boy на Super Nintendo. Выпущена в июне 1994 года.</sgb_desc>
+	<sharpx1_desc>X1, иногда называемый Sharp X1 или CZ-800C, — серия домашних компьютеров Sharp Corporation с 1982 по 1988 год. Основан на процессоре Zilog Z80.</sharpx1_desc>
+	<silenthill_coll>Silent Hill — хоррор-франшиза, состоящая из серии survival horror игр, созданных Кэйитиро Тоямой и изданных Konami.</silenthill_coll>
+	<simpsons_coll>Симпсоны — сатирическое изображение американской жизни, воплощённое семьёй Симпсонов: Гомер, Мардж, Барт, Лиза и Мэгги.</simpsons_coll>
+	<snes_desc>Вторая домашняя консоль Nintendo предложила передовую графику и звук по сравнению с другими системами того времени, продав более 49 миллионов единиц по всему миру.</snes_desc>
+	<snesmsu1_desc>MSU-1 — чип-дополнение к картриджу, добавляющий в игры SNES полнометражное видео и звук качества CD с до 4 ГБ дополнительного хранилища.</snesmsu1_desc>
+	<snk_coll>SNK Corporation (株式会社SNK) — японская компания аппаратного и программного обеспечения для видеоигр. Известна созданием семейства консолей Neo Geo в 1990 году.</snk_coll>
+	<socrates_desc>VTech Socrates — обучающая домашняя игровая консоль VTech. Консоль показывает робота Сократа, названного в честь греческого философа.</socrates_desc>
+	<solarus_desc>Solarus — лёгкий свободный игровой движок для Action-RPG с открытым исходным кодом. Написан на C++, запускает игры на Lua.</solarus_desc>
+	<sonic_coll>Sonic — франшиза, созданная и принадлежащая Sega. Следует за Соником, антропоморфным синим ежом, сражающимся со злым доктором Эггманом.</sonic_coll>
+	<streetfighter_coll>Street Fighter — франшиза, разработанная и изданная Capcom. Первая игра вышла в 1987 году, за ней последовали пять основных игр и множество спин-оффов.</streetfighter_coll>
+	<supergrafx_desc>SuperGrafx — преемник PC Engine. Изначально известная как PC Engine 2, позиционировалась как настоящая 16-битная консоль с улучшенной графикой и звуком.</supergrafx_desc>
+	<supervision_desc>Watara Supervision, в Великобритании известная как QuickShot Supervision, — монохромная портативная консоль 1992 года, дешёвый конкурент Game Boy.</supervision_desc>
+	<sys_1970s_coll>В 1970-х начался золотой век аркадных игр. Монетные автоматы стали популярны благодаря таким классическим играм, как Pac-Man, Galaxians и Space Invaders. Появились и первые домашние консоли, такие как Atari 2600.</sys_1970s_coll>
+	<sys_1980s_coll>В 1980-х наступила эра доступных домашних игровых систем с компьютерами Sinclair и Commodore и первыми крупными консолями от Sega и Nintendo.</sys_1980s_coll>
+	<sys_1990s_coll>В 1990-х аркады вернулись с файтингами, такими как Streetfighter, Tekken и Mortal Kombat. На домашнем рынке вышли консоли 5-го поколения: Sony PlayStation, Sega Saturn и Nintendo 64.</sys_1990s_coll>
+	<sys_3do_desc>3DO — домашняя игровая консоль, задуманная предпринимателем и основателем Electronic Arts Трипом Хокинсом. Сама компания её не производила: первые модели выпустила Panasonic, а позже — GoldStar и Sanyo.</sys_3do_desc>
+	<taito_coll>Taito — японская компания видеоигр, игрушек и аркадных автоматов из Синдзюку, Токио. Основана Майклом Коганом в 1953 году как Taito Trading Company. Производство видеоигр начала в 1973 году.</taito_coll>
+	<tekken_coll>Tekken — японская медиафраншиза, состоящая из серии файтингов от Bandai Namco Entertainment. Основные игры следуют событиям турнира King of Iron Fist.</tekken_coll>
+	<tg16_desc>TurboGrafx-16, в Японии известная как PC Engine, — игровая консоль Hudson Soft и NEC, выпущенная в Японии 30 октября 1987 года.</tg16_desc>
+	<tg16cd_desc>TurboGrafx-CD — дополнение к TurboGrafx-16. Расширяет библиотеку игр, добавляя полнометражное видео, CD-аудио и больше памяти.</tg16cd_desc>
+	<thomson_desc>Thomson MO5 — домашний компьютер, представленный во Франции в июне 1984 года как конкурент ZX Spectrum и Commodore 64.</thomson_desc>
+	<ti99_desc>TI-99/4 и TI-99/4A — домашние компьютеры Texas Instruments. Основанный на микропроцессоре TMS9900, TI-99/4 был первым 16-битным домашним компьютером.</ti99_desc>
+	<tic-80_desc>TIC-80 — фантазийный компьютер для создания, запуска и обмена маленькими играми. Игры ограничены 240x136 пикселями, 16 цветами и 4 звуковыми каналами.</tic-80_desc>
+	<tigerlcd_desc>Tiger Electronics выпускала длинную серию портативных ЖК-игр в 1980-х и 1990-х, каждая с одной встроенной игрой.</tigerlcd_desc>
+	<tmnt_coll>Черепашки-ниндзя — четыре супергероя-черепахи, названные в честь итальянских художников эпохи Возрождения. Из канализации Нью-Йорка они сражаются с врагами.</tmnt_coll>
+	<toaplan_coll>Toaplan — японский разработчик видеоигр, создатель множества скролл-шутеров и других аркадных игр. Их первая игра Tiger-Heli имела успех и сделала Toaplan ведущим производителем шутеров 1980-х и 1990-х.</toaplan_coll>
+	<tombraider_coll>Tomb Raider — медиафраншиза, дебютировавшая в 1996 году. Лара Крофт стала иконой игровой индустрии.</tombraider_coll>
+	<tutor_desc>Tomy Tutor, в Японии продававшийся как Pyūta, — домашний компьютер японского производителя игрушек Tomy. Архитектурно похож на TI-99/4A.</tutor_desc>
+	<tux_coll>SuperTux, SuperTux Kart и SuperTux Party — игры с открытым исходным кодом, вдохновлённые играми Super Mario.</tux_coll>
+	<type_1970_s_arcade_machines>1970's  · Arcade Machines</type_1970_s_arcade_machines>
+	<type_1970_s_coin_operated_cabinet>1970's  · Coin Operated Cabinet</type_1970_s_coin_operated_cabinet>
+	<type_1970_s_programming_language>1970's  · Programming Language</type_1970_s_programming_language>
+	<type_1976_8_bit_console>1976  · 8-bit Консоль</type_1976_8_bit_console>
+	<type_1977_8_bit_computer>1977  · 8-bit computer</type_1977_8_bit_computer>
+	<type_1977_8_bit_console>1977  · 8-bit Консоль</type_1977_8_bit_console>
+	<type_1978_8_bit_console>1978  · 8-bit Консоль</type_1978_8_bit_console>
+	<type_1979_16_bit_computer>1979  · 16-bit Компьютер</type_1979_16_bit_computer>
+	<type_1979_8_bit_computer>1979  · 8-bit Компьютер</type_1979_8_bit_computer>
+	<type_1979_handheld_console>1979  ·  Портативная консоль</type_1979_handheld_console>
+	<type_1979_virtual_machine>1979  · Virtual Machine</type_1979_virtual_machine>
+	<type_1980_8_bit_computer>1980  · 8-bit Компьютер</type_1980_8_bit_computer>
+	<type_1980_8_bit_console>1980  · 8-bit Консоль</type_1980_8_bit_console>
+	<type_1980_s_computer>1980's  · Компьютер</type_1980_s_computer>
+	<type_1981_8_bit_computer>1981  · 8-bit Компьютер</type_1981_8_bit_computer>
+	<type_1981_8_bit_console>1981  ·  8-битная консоль</type_1981_8_bit_console>
+	<type_1982_16_bit_computer>1982  · 16-bit Компьютер</type_1982_16_bit_computer>
+	<type_1982_2nd_gen_console>1982  · 2nd Gen Console</type_1982_2nd_gen_console>
+	<type_1982_32_bit_computer>1982  · 32-bit Компьютер</type_1982_32_bit_computer>
+	<type_1982_8_bit_computer>1982  · 8-bit Компьютер</type_1982_8_bit_computer>
+	<type_1982_8_bit_console>1982  · 8-bit Консоль</type_1982_8_bit_console>
+	<type_1983_8_bit_computer>1983  · 8-bit Компьютер</type_1983_8_bit_computer>
+	<type_1983_8_bit_console>1983  · 8-bit Консоль</type_1983_8_bit_console>
+	<type_1984_16_bit_computer>1984  · 16-bit Компьютер</type_1984_16_bit_computer>
+	<type_1984_8_bit_computer>1984  · 8-bit Компьютер</type_1984_8_bit_computer>
+	<type_1984_8_bit_console>1984  · 8-bit Консоль</type_1984_8_bit_console>
+	<type_1985_16_bit_computer>1985  · 16-bit Компьютер</type_1985_16_bit_computer>
+	<type_1985_8_bit_computer>1985  · 8-bit Компьютер</type_1985_8_bit_computer>
+	<type_1985_8_bit_console>1985  · 8-bit Консоль</type_1985_8_bit_console>
+	<type_1986_8_bit_computer>1986  · 8-bit Компьютер</type_1986_8_bit_computer>
+	<type_1986_8_bit_console>1986  · 8-bit Консоль</type_1986_8_bit_console>
+	<type_1987_16_bit_console>1987  · 16-bit Консоль</type_1987_16_bit_console>
+	<type_1987_24_bit_computer>1987  · 24-bit Компьютер</type_1987_24_bit_computer>
+	<type_1987_32_bit_computer>1987  · 32-bit Компьютер</type_1987_32_bit_computer>
+	<type_1987_8_bit_console>1987  ·  8-битная консоль</type_1987_8_bit_console>
+	<type_1988_16_bit_console>1988  · 16-bit Консоль</type_1988_16_bit_console>
+	<type_1988_8_bit_console>1988  · 8-bit Консоль</type_1988_8_bit_console>
+	<type_1988_arcade_system_board>1988  · Аркадная плата</type_1988_arcade_system_board>
+	<type_1989_16_bit_console>1989  · 16-bit Консоль</type_1989_16_bit_console>
+	<type_1989_16_bit_handheld_console>1989 · 16-bit Портативная консоль</type_1989_16_bit_handheld_console>
+	<type_1989_8_bit_computer>1989  · 8-bit Компьютер</type_1989_8_bit_computer>
+	<type_1989_8_bit_handheld_console>1989  · 8-bit Портативная консоль</type_1989_8_bit_handheld_console>
+	<type_1990_16_bit_console>1990  · 16-bit Консоль</type_1990_16_bit_console>
+	<type_1990_24_bit_console>1990  · 24-bit Консоль</type_1990_24_bit_console>
+	<type_1990_8_bit_console>1990  · 8-bit Консоль</type_1990_8_bit_console>
+	<type_1990_8_bit_handheld_console>1990  · 8-bit Портативная консоль</type_1990_8_bit_handheld_console>
+	<type_1990_handheld_console>1990  · Портативная консоль</type_1990_handheld_console>
+	<type_1991_16_bit_computer>1991  ·  16-битный компьютер</type_1991_16_bit_computer>
+	<type_1991_16_bit_console>1991  · 16-bit Консоль</type_1991_16_bit_console>
+	<type_1992_handheld_console>1992  · Портативная консоль</type_1992_handheld_console>
+	<type_1993_32_bit_console>1993  · 32-bit Консоль</type_1993_32_bit_console>
+	<type_1993_4th_gen_console>1993  · Консоль 4-го поколения</type_1993_4th_gen_console>
+	<type_1993_arcade_system_board>1993  · Аркадная плата</type_1993_arcade_system_board>
+	<type_1993_handheld_console>1993  · handheld Console</type_1993_handheld_console>
+	<type_1994_32_bit_console>1994  · 32-bit Консоль</type_1994_32_bit_console>
+	<type_1994_console_adapter>1994  · Console adapter</type_1994_console_adapter>
+	<type_1995_32_bit_table_top_console>1995  · 32-bit Table-top Console</type_1995_32_bit_table_top_console>
+	<type_1995_handheld_console>1995  ·  Портативная консоль</type_1995_handheld_console>
+	<type_1995_peripheral>1995  · Peripheral</type_1995_peripheral>
+	<type_1996_64_bit_console>1996  · 64-bit Консоль</type_1996_64_bit_console>
+	<type_1996_arcade_system_board>1996  · Аркадная плата</type_1996_arcade_system_board>
+	<type_1997_arcade_board>1997  · Arcade Board</type_1997_arcade_board>
+	<type_1997_handheld_console>1997  · Портативная консоль</type_1997_handheld_console>
+	<type_1998_128_bit_console>1998  · 128-bit Консоль</type_1998_128_bit_console>
+	<type_1998_16_bit_handheld_console>1998  · 16-bit Портативная консоль</type_1998_16_bit_handheld_console>
+	<type_1998_8_bit_handheld_console>1998  · 8-bit Портативная консоль</type_1998_8_bit_handheld_console>
+	<type_1998_arcade_board>1998  · Arcade Board</type_1998_arcade_board>
+	<type_1998_peripheral>1998  ·  Периферия</type_1998_peripheral>
+	<type_1999_16_bit_handheld_console>1999 · 16-bit Портативная консоль</type_1999_16_bit_handheld_console>
+	<type_1999_peripheral>1999  ·  Периферия</type_1999_peripheral>
+	<type_2001_32_bit_console>2001  · 32-bit Консоль</type_2001_32_bit_console>
+	<type_2001_32_bit_handheld_console>2001  · 32-bit Портативная консоль</type_2001_32_bit_handheld_console>
+	<type_2001_handheld_console>2001  · Портативная консоль</type_2001_handheld_console>
+	<type_2003_32_bit_board>2003  · 32-bit Board</type_2003_32_bit_board>
+	<type_2004_32_bit_handheld_console>2004  · 32-bit Портативная консоль</type_2004_32_bit_handheld_console>
+	<type_2004_6th_gen_console>2004  · 6th Gen Console</type_2004_6th_gen_console>
+	<type_2006_32_bit_console>2006  · 32-bit Консоль</type_2006_32_bit_console>
+	<type_2007_arcade_board>2007  · Arcade Board</type_2007_arcade_board>
+	<type_2008_emulator>2008  · Emulator</type_2008_emulator>
+	<type_2015_handheld_console>2015  · Портативная консоль</type_2015_handheld_console>
+	<type_2020_s_virtual_console>2020's  · Virtual Console</type_2020_s_virtual_console>
+	<type_2021_8_bit_console>2021  · 8-bit Консоль</type_2021_8_bit_console>
+	<type_2023_8_bit_console>2023  · 8-bit Консоль</type_2023_8_bit_console>
+	<type_32_bit_virtual_console>32-bit Virtual Console</type_32_bit_virtual_console>
+	<type_8_bit_virtual_machine>8-bit Virtual Machine</type_8_bit_virtual_machine>
+	<type_collection>Коллекция игр</type_collection>
+	<type_cross_plaform_game_engine>Cross-Plaform Game Engine</type_cross_plaform_game_engine>
+	<type_cross_platform_computer>Кроссплатформенный компьютер</type_cross_platform_computer>
+	<type_game_engine>Игровой движок</type_game_engine>
+	<type_gaming_engine>Игровой движок</type_gaming_engine>
+	<type_handheld_electronic_games>Портативные электронные игры</type_handheld_electronic_games>
+	<type_homebrew_games_console>Консоль homebrew-игр</type_homebrew_games_console>
+	<type_java_emulator>Java-эмулятор</type_java_emulator>
+	<type_multi_platform_emulator>Мультиплатформенный эмулятор</type_multi_platform_emulator>
+	<type_multi_platform_port>Мультиплатформенный порт</type_multi_platform_port>
+	<type_software>Программное обеспечение</type_software>
+	<type_standardized_computer_architecture>Стандартизированная компьютерная архитектура</type_standardized_computer_architecture>
+	<ultimate_coll>Ashby Computers and Graphics Limited — британский разработчик и издатель видеоигр, основанный в 1982 году бывшими аркадными разработчиками Тимом и Крисом Стамперами. Ultimate выпускала успешные игры для ZX Spectrum, Amstrad CPC, BBC Micro, MSX и Commodore 64.</ultimate_coll>
+	<uzebox_desc>Uzebox — ретро-минималистичная 8-битная игровая консоль с открытым исходным кодом. Основана на 8-битном микроконтроллере AVR от Atmel.</uzebox_desc>
+	<vc4000_desc>Interton Video Computer 4000 (Interton VC 4000) — картриджная игровая консоль, выпущенная в некоторых европейских странах немецким производителем слуховых аппаратов Interton.</vc4000_desc>
+	<vectrex_desc>Vectrex — уникальная векторная домашняя игровая консоль от Smith Engineering. Впервые выпущена в Северной Америке в ноябре 1982 года.</vectrex_desc>
+	<vic20_desc>VIC-20 был первым компьютером, продавшим миллион единиц.</vic20_desc>
+	<videopac_desc>Magnavox Odyssey 2, также известная как Philips Odyssey 2, — домашняя консоль второго поколения 1978 года. В Европе продавалась как Philips Videopac G7000.</videopac_desc>
+	<vircon32_desc>Vircon32, как следует из названия, — 32-битная виртуальная консоль: стандарт, который может быть реализован в программном или аппаратном виде.</vircon32_desc>
+	<virtualboy_desc>Virtual Boy — 32-битная настольная портативная консоль Nintendo. Рекламировалась как первая консоль со стереоскопической «3D»-графикой, но продажи провалились.</virtualboy_desc>
+	<vmu_desc>Visual Memory Unit (VMU) — периферия-карта памяти для Sega Dreamcast со встроенным экраном, выпущенная в 1998 году. Также служила мини-консолью для мини-игр.</vmu_desc>
+	<vsmile_desc>V.Smile (стилизованно V.SMILE TV Learning System) — обучающая домашняя игровая консоль шестого поколения от VTech.</vsmile_desc>
+	<wasm4_desc>WASM-4 — фантазийная консоль от Aduros, похожая на Pico-8 и TIC-80. Выпущена в 2021 году.</wasm4_desc>
+	<wii_desc>Wii — домашняя игровая консоль Nintendo, выпущенная в 2006 году. Консоль седьмого поколения, конкурировала с Xbox 360 и PlayStation 3.</wii_desc>
+	<wonderswan_desc>WonderSwan — портативная консоль, выпущенная Bandai в Японии. Благодаря 16-битному процессору отличалась низкой ценой и долгим временем работы от батарей.</wonderswan_desc>
+	<wonderswancolor_desc>WonderSwan Color — портативная консоль, выпущенная Bandai в Японии. Благодаря 16-битному процессору отличалась низкой ценой и долгим временем работы от батарей.</wonderswancolor_desc>
+	<x16_desc>Commander X16 (в просторечии X16) — современная (ретро) аппаратная платформа. Задуман как хобби-компьютер из современных компонентов с совместимостью KERNAL с компьютерами Commodore.</x16_desc>
+	<x1_desc>X1, иногда называемый Sharp X1 или CZ-800C, — серия домашних компьютеров Sharp Corporation с 1982 по 1988 год.</x1_desc>
+	<x68000_desc>X68000 — серия 32-битных японских компьютеров Sharp. Первая домашняя система с графикой настоящего аркадного качества.</x68000_desc>
+	<zelda_desc>The Legend of Zelda — франшиза фэнтезийных action-adventure, созданная Сигэру Миямото и Такаси Тэдзукой. Разрабатывается и издаётся Nintendo.</zelda_desc>
+	<zmachine_desc>Z-machine — виртуальная машина, разработанная Джоэлом Березом и Марком Бланком в 1979 году и использовавшаяся Infocom для текстовых квестов.</zmachine_desc>
+	<zx81_desc>ZX81 — домашний компьютер Sinclair Research, производившийся Timex в Данди, Шотландия. Вышел в Великобритании в марте 1981 года как преемник Sinclair ZX80.</zx81_desc>
+	<zxspectrum_desc>ZX Spectrum — 8-битный домашний компьютер, выпущенный Sinclair Research в Великобритании в 1982 году. Во время разработки назывался ZX81 Colour и ZX82.</zxspectrum_desc>
+</variables>
+</theme>

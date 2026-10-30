@@ -1,0 +1,13 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		<text name="shortdescription" extra="true">
+			<text>${type_1999_peripheral}</text>
+		</text>
+		<text name="description" extra="true">
+			<text>${n64dd_desc}</text>
+		</text>
+
+	</view>
+</theme>

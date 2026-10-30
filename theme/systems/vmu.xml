@@ -1,0 +1,15 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="shortdescription" extra="true">
+			<text>${type_1998_peripheral}</text>
+		</text>
+		<text name="description" extra="true">
+			<text>${vmu_desc}</text>
+		</text>
+
+	</view>
+
+</theme>

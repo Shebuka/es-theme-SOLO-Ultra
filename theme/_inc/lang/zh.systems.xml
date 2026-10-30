@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+	<acclaim_coll>Acclaim Entertainment, Inc. 是一家位于纽约格伦科夫的美国视频游戏发行商。由名为 Acclaim 的前 Activision 员工组成，因此它在字母列表中高于 Activision 和 Accolade（也由前 Activision 员工组成）。 </acclaim_coll>
+	<activision_coll>Activision 于 1979 年 10 月在加利福尼亚州桑尼维尔成立，由前 Atari 游戏开发人员对 Atari 对待他们的方式感到不满，为流行的 Atari 2600 家用视频游戏机开发自己的游戏。动视是第一个独立的第三方控制台视频游戏开发商。 </activision_coll>
+	<advision_desc>Adventure Vision 是 Entex Industries 推出的卡带式游戏主机。显示器、控制器和硬件都集成在一个便携设备中，仅发行了四款游戏。</advision_desc>
+	<amiga_desc>Amiga 是 Commodore 在 1980 年代和 1990 年代销售的个人电脑系列。第一个型号于 1985 年作为高端家用电脑推出，并因其图形、音频和多任务处理能力而广受欢迎</amiga_desc>
+	<amigacd32_desc>Amiga CD32 是由 Commodore 开发并在欧洲、澳大利亚、加拿大和巴西发行的 32 位家用视频游戏机。它于 1993 年 7 月 16 日在伦敦科学博物馆首次公布，并于同年 9 月发布。</amigacd32_desc>
+	<amigacdtv_desc>Commodore CDTV 是 1991 年推出的多媒体家用计算机，基于 Amiga 500 并配备 CD-ROM 驱动器，面向客厅设计。</amigacdtv_desc>
+	<amstradcpc_desc>CPC 464 是 Amstrad 于 1984 年制造的第一台个人家用电脑。它是最畅销和生产最好的微型计算机之一，在欧洲售出超过 200 万台。 </amstradcpc_desc>
+	<aof_coll>Art of Fighting 是一款格斗游戏三部曲，于 1990 年代初为 Neo Geo 平台发行。这是 SNK 继《致命狂怒》系列之后创建的第二款格斗游戏系列，设定在与《致命狂怒》系列前传相同的虚构宇宙中。</aof_coll>
+	<apfm1000_desc>APF Microcomputer System 是 APF Electronics Inc. 于 1978 年 10 月推出的第二代卡带式家用游戏主机，附带六个卡带。</apfm1000_desc>
+	<apple2_desc>1977年发布的苹果2是一款由史蒂夫 · 沃兹尼亚克设计的家用电脑。它有一个 8 位处理器,能够提供两种分辨率的彩色图形以及低保真音频。后来的版本有一个 16 位处理器。</apple2_desc>
+	<arcade_desc>街机游戏或投币游戏是一种投币式娱乐机，通常安装在餐馆、酒吧和游乐场等公共场所。街机视频游戏的黄金时代通常被定义为从 1970 年代后期开始到 1980 年代中期结束的时期。</arcade_desc>
+	<arcadia_desc>Arcadia 2001 是 Emerson Radio 推出的第二代 8 位家用游戏主机，比 ColecoVision 早几个月发布，仅 18 个月后停产，共发行了 35 款游戏。</arcadia_desc>
+	<archimedes_desc>Acorn Archimedes 是英国剑桥 Acorn Computers 设计的个人电脑系列，采用 Acorn 自有的 ARM 架构处理器，最初运行 Arthur 操作系统。</archimedes_desc>
+	<arduboy_desc>Arduboy 是 Kevin Bates 开发的掌上主机，于 2015 年发布，约信用卡大小，拥有 300 多款游戏。</arduboy_desc>
+	<astrocade_desc>Bally Astrocade 是第二代家用游戏主机兼简易计算机系统，由当时 Bally 的游戏部门 Midway 的团队设计。</astrocade_desc>
+	<astrocde_desc>Bally Astrocade 是第二代家用游戏主机兼简易计算机系统，由当时 Bally 的游戏部门 Midway 的团队设计。</astrocde_desc>
+	<atari2600_desc>Atari 视频计算机系统 (VCS)，是由 Atari, Inc. 开发和分销的第二代 (1976-1992) 家用视频游戏机。它于 1977 年 9 月 11 日在北美发布，零售价为 199 美元.</atari2600_desc>
+	<atari5200_desc>Atari 5200 SuperSystem 是由 Atari 开发和分销的第二代控制台。 5200 配备了一个创新的控制器，该控制器具有一个 360 度非居中操纵杆，带有一个数字键盘、开始、暂停和重置按钮。</atari5200_desc>
+	<atari7800_desc>Atari 7800 Pro System 是由 Atari Corporation 开发和分销的第三代控制台。 7800 被认为是首批向后兼容的游戏机之一，因为它可以在不使用额外模块的情况下玩 Atari 2600 游戏。</atari7800_desc>
+	<atari800_desc>雅达利 8 位系列是雅达利公司于 1979 年推出的雅达利 400 和雅达利 800 的一系列 8 位家用电脑，并一直生产到 1992 年。该系列中的所有机器在技术上都相似且不同主要用于包装。</atari800_desc>
+	<atari_coll>最初的 Atari, Inc. 由 Nolan Bushnell 和 Ted Dabney 于 1972 年在加利福尼亚州桑尼维尔创立，是街机游戏、家用视频游戏机和家用电脑的先驱。该公司的产品，例如 Pong 和 Atari 2600，帮助定义了 1970 年代至 1980 年代中期的电子娱乐行业。</atari_coll>
+	<atarijaguarcd_desc>Atari Jaguar CD 是 Atari Jaguar 游戏主机的 CD-ROM 外设，其生命周期内仅发行了 11 款游戏。</atarijaguarcd_desc>
+	<atarilynx_desc>Atari Lynx 是由 Atari Corporation 开发和分销的 16 位掌上游戏机。它于 1989 年 9 月在北美发行，零售价为 149.95 美元。 Lynx 是世界上第一款带有彩色 LCD 屏幕的手持电子游戏。</atarilynx_desc>
+	<atarist_desc>Atari ST 是 Atari Corporation 的家用电脑系列，是 Atari 8 位系列的继承者。 1986 年发布的 1040ST 是第一台在基本配置中配备 1 兆字节 RAM 的个人计算机，也是第一台每千字节成本低于 1 美元的个人计算机。</atarist_desc>
+	<atarixegs_desc>Atari XE Game System（XEGS）是 Atari Corporation 于 1987 年推出的家用游戏主机，基于 Atari 8 位计算机家族。</atarixegs_desc>
+	<atlus_coll>Atlus 是一家位于东京的日本视频游戏开发商、发行商和发行公司。作为世嘉的子公司，该公司以其 Megami Tensei、Persona、Etrian Odyssey 和 Trauma Center 系列等而闻名。它的公司吉祥物是 Jack Frost，这是他们 Shin Megami Tensei 系列中的雪人角色。</atlus_coll>
+	<atomiswave_desc>Atomiswave 是 Sammy Corporation 的定制街机系统板和机柜，基于 Sega 的 NAOMI 系统板。 Atomiswave 使用可互换的游戏卡带，机柜的控制面板可以通过双操纵杆、双光枪或方向盘轻松切换。</atomiswave_desc>
+	<auto-at2players_coll>“如果吃豆人影响了我们小时候，我们都会在黑暗的房间里跑来跑去，大嚼药丸，听着重复的电子音乐。” ——马库斯·布里斯托克</auto-at2players_coll>
+	<auto-at4players_coll>“玩和玩游戏是有区别的。前者是一种快乐的行为，后者是一种行为。” ——维拉·纳扎里安</auto-at4players_coll>
+	<auto-favorites_coll>“人们说电子游戏很糟糕，因为它们让你麻木至死。游戏的真正问题是玩家应该尝试一切。如果有一个山洞，你就进去。如果有一个神秘的陌生人，你和他说话。但在游戏中，你有一百万条生命，而在生命中，只有一条”——Holly Black</auto-favorites_coll>
+	<auto-lastplayed_coll>“关于家庭作业，孩子能说的最糟糕的话就是太难了。一个孩子对游戏所能说的最糟糕的事情就是它太简单了。” ——亨利·詹金斯</auto-lastplayed_coll>
+	<auto-neverplayed_coll>“延迟的游戏最终是好的，糟糕的游戏永远是坏的。” ——宫本茂</auto-neverplayed_coll>
+	<auto-retroachievements_coll>Retroachievements.org 是一项为复古游戏提供类似于现代游戏机的奖杯/成就解锁机制的服务。支持的系统包括 Sega Megadrive、Super Nintendo、Nintendo 64、Playstation 和 Neo-Geo。</auto-retroachievements_coll>
+	<batman_coll>自 1980 年代以来，蝙蝠侠已出现在 50 多种视频游戏中，涵盖计算机、手机和游戏机系统，</batman_coll>
+	<battletoads_coll>Battletoads 是 Rare 的视频游戏媒体特许经营权，始于 1991 年的原始节拍游戏 Battletoads。该系列由三个以皮肤状况命名的拟人化蟾蜍、Rash、Zitz 和 Pimple 主演，旨在与 Teenage 竞争忍者神龟系列游戏。</battletoads_coll>
+	<bbc_desc>BBC Microcomputer System（简称 BBC Micro）是 Acorn Computers 在 20 世纪 80 年代初为 BBC 计算机素养计划开发的一系列微型计算机。</bbc_desc>
+	<bbcmicro_desc>BBC Microcomputer System（简称 BBC Micro）是 Acorn Computers 在 20 世纪 80 年代初为 BBC 计算机素养计划开发的一系列微型计算机。</bbcmicro_desc>
+	<bk_desc>Electronika BK 是苏联 NPO 科学中心以 Electronika 品牌开发的一系列兼容 PDP-11 的 16 位家用计算机。</bk_desc>
+	<c128_desc>Commodore 128，也称为 C128、C-128、C=128，是 Commodore Business Machines (CBM) 商业发布的最后一款 8 位家用计算机。它于 1985 年 1 月在拉斯维加斯的 CES 上推出，比其前身畅销的 Commodore 64 晚了三年。</c128_desc>
+	<c16_desc>C16 是 Commodore International 制造的家用电脑，旨在成为替代 VIC-20 的入门级电脑</c16_desc>
+	<c64_desc>Commodore 64 是 Commodore International 于 1982 年 1 月推出的 8 位家用计算机。它在吉尼斯世界纪录中被列为有史以来销量最高的单一计算机型号，独立估计销量在 10 到 1700 万台之间。</c64_desc>
+	<capcom_coll>Capcom 是一家日本视频游戏开发商和发行商。它创造了许多销量数百万的游戏系列，包括街头霸王、洛克人、黑暗猎手、生化危机和 Ghosts 'n Goblins。</capcom_coll>
+	<castlevania_coll>Castlevania 是由 Konami 创建和开发的关于吸血鬼猎人的动作冒险哥特恐怖视频游戏系列。它已在各种平台上发布，从早期系统到现代游戏机，以及手机等手持设备。</castlevania_coll>
+	<cave_coll>CAVE Interactive Co., Ltd. 是一家日本视频游戏公司，于 1994 年由 Toaplan 破产后的前员工创立。 从 1995 年到 2013 年，CAVE 是日本市场上最多产的射击游戏开发商之一。</cave_coll>
+	<cavestory_coll>Cave Story 是 2004 年的 Metroidvania 平台冒险游戏，适用于 Microsoft Windows。它由日本开发者 Daisuke “Pixel” Amaya 在空闲时间开发了五年多。 《洞穴物语》采用 2D 平台机制，让人想起阿玛亚年轻时玩的游戏，例如银河战士和恶魔城</cavestory_coll>
+	<cdi_desc>CD-i格式于1980年代末公布,第一台与该格式兼容的机器于1991年发布。Phillips CD-i 的主要卖点是它不仅仅是一台游戏机,还可以用于满足多媒体需求。CD-i 在商业上失败了,并于 1998 年停产。</cdi_desc>
+	<cdimono1_desc>CD-i 格式于 20 世纪 80 年代末公布，首批设备于 1991 年发布，飞利浦 CD-i 商业上失败。</cdimono1_desc>
+	<channelf_desc>Fairchild Channel F（简称「Channel Fun」）是一款家用游戏主机，是第一款基于微处理器并使用 ROM 卡带（而非内置游戏）的主机。</channelf_desc>
+	<chip8_desc>CHIP-8 是 Joseph Weisbecker 为其 1802 微处理器开发的解释型编程语言，最初用于 20 世纪 70 年代中期的 COSMAC VIP 和 Telmac 1800 微型计算机。</chip8_desc>
+	<coco3_desc>「coco3」是 Tandy Corporation 的 TRS-80 Color Computer 的第三代产品。</coco3_desc>
+	<coco_desc>TRS-80 Color Computer（后称 Tandy Color Computer）是 Tandy Corporation 开发并销售的一系列家用计算机。</coco_desc>
+	<codemasters_coll>Codemasters Software Company 是一家位于英国 Southam 的英国视频游戏开发商和发行商。 Codemasters 由 Richard 和 David Darling 兄弟于 1986 年 10 月创立，是英国历史最悠久的游戏工作室之一，并于 2005 年被《Develop》杂志评为最佳独立视频游戏开发商。</codemasters_coll>
+	<colecovision_desc>ColecoVision 是 Coleco Industries 于 1982 年 8 月发布的第二代家用视频游戏机。</colecovision_desc>
+	<cps1_desc>Capcom Play System 1（CPS-1）是一款由 Capcom 开发的街机系统板，可运行存储在可移动 ROM 卡带上的游戏软件。在 Capcom 将游戏开发转移到其继任者 CP System II 之前，为 CPS-1 发布了超过两打街机游戏。</cps1_desc>
+	<cps2_desc>Capcom Play System 2（CPS-2）是 Capcom 在 1993 年首次用于 Super Street Fighter II 的街机系统板。它是他们之前的 CP System 和 Capcom Power System Changer 街机硬件的继承者，并于 1996 年由 CP System III 硬件接替</cps2_desc>
+	<cps3_desc>Capcom Play System 3（CPS-3）是一款街机系统板，Capcom 在 1996 年首次使用街机游戏 Red Earth。它是继 CP System II 之后 CP System 街机硬件的第二个继任者。这将是 Capcom 生产的最后一款专有系统板。</cps3_desc>
+	<crashbandicoot_coll>Crash Bandicoot 是平台视频游戏的特许经营权。该系列最初由顽皮狗开发，是索尼 PlayStation 游戏机的独家产品，已经见证了众多开发者创作并在多个平台上发布的众多分期。该系列目前由动视暴雪拥有和发行。</crashbandicoot_coll>
+	<creativision_desc>VTech CreatiVision 是 VTech 于 1981 年推出、1982 年发布的计算机与家用游戏主机混合体。</creativision_desc>
+	<crvision_desc>VTech CreatiVision 是 VTech 于 1981 年推出、1982 年在第二代游戏主机时期发布的计算机与家用游戏主机混合体。</crvision_desc>
+	<daphne_desc>Daphne 是一款适用于 Windows、Linux 和 Mac OS X 的街机游戏模拟器，由 Matt Ownby 开发。它为多个基于 LaserDisc 的系统运行游戏，包括大多数 Sega LaserDisc 硬件游戏。 </daphne_desc>
+	<dataeast_coll>Data East Corporation（データイースト株式会社，Dēta Īsuto kabushiki gaisha），也缩写为DECO，是一家日本视频游戏和电子工程公司。该公司从 1976 年到 2003 年运营，发布了 150 款视频游戏</dataeast_coll>
+	<dbz_coll>《龙珠》系列游戏改编自鸟山明创作的同名漫画和动漫系列。该系列讲述了悟空训练武术并探索世界以寻找被称为龙珠的七个许愿球的冒险经历。</dbz_coll>
+	<ddr_coll>Dance Dance Revolution（在早期的欧洲游戏中也称为Dancing Stage），是由Konami制作的音乐视频游戏系列的开创性系列。 1998 年在日本推出，玩家站在“舞蹈平台”上，根据音乐和视觉提示及时击打彩色箭头。</ddr_coll>
+	<dice_desc>DICE 是分立集成电路模拟器，可模拟没有 CPU、仅由分立逻辑元件组成的计算机系统。</dice_desc>
+	<donkeykong_coll>Donkey Kong 是由宫本茂于 1981 年构思的大猩猩大金刚的冒险系列视频游戏。该系列主要由两种游戏类型组成，但还包括各种类型的附加衍生游戏。</donkeykong_coll>
+	<doom_coll>Doom 是一个视频游戏系列，于 1993 年首次发布。该系列专注于在联合航空航天公司 (UAC) 的赞助下运营的无名太空船的功绩，该公司与成群的恶魔和不死生物作战。 </doom_coll>
+	<doubledragon_coll>Double Dragon 是 1987 年由 Technōs Japan 开发并由 Taito 在北美和欧洲发行的电子游戏。该游戏是 Technos 早期击败他们的精神和技术继承者，Nekketsu Kōha Kunio-kun（由 Taito 作为 Renegade 在日本以外发行）</doubledragon_coll>
+	<dragon32_desc>Dragon 32 和 Dragon 64 是 20 世纪 80 年代的 8 位家用计算机，与 TRS-80 Color Computer 非常相似，由 Dragon Data 面向欧洲市场生产。</dragon32_desc>
+	<dragon64_desc>Dragon 32 和 Dragon 64 是 20 世纪 80 年代的 8 位家用计算机，与 TRS-80 Color Computer 非常相似，由 Dragon Data 面向欧洲市场生产。</dragon64_desc>
+	<dreamcast_desc>Dreamcast 是世嘉于 1998 年末在日本和 1999 年 9 月在其他地区发布的 128 位视频游戏机。这是第六代视频游戏机的第一款产品，先于索尼的 PlayStation 2、微软的 Xbox 和任天堂 GameCube。</dreamcast_desc>
+	<dukenukem_coll>毁灭公爵是一个以主角 Duke Nukem 命名的电子游戏系列。由 Apogee Software Ltd 公司创建，主系列的前两款游戏是 2D 平台游戏，而后来的游戏则混合了第一人称和第三人称射击游戏。</dukenukem_coll>
+	<ea_coll>Electronic Arts Inc. (EA) 是一家美国视频游戏公司，总部位于加利福尼亚州雷德伍德城。截至 2020 年 5 月，按收入和市值计算，它是美洲和欧洲第二大游戏公司，仅次于动视暴雪，领先于 Take-Two Interactive、CD Projekt 和 Ubisoft。</ea_coll>
+	<easports_coll>EA Sports 是 Electronic Arts 的一个部门，负责开发和发布体育视频游戏。以前是 EA 的营销噱头，他们试图模仿现实生活中的体育网络，称自己为“EA Sports Network”，很快成长为自己的子标签，发布了 FIFA 和 Madden NFL 等游戏系列.</easports_coll>
+	<easryrpg_desc>Easy RPG 是一款免费的开源角色扮演游戏解释器和编辑器，可让您玩与 RPG Maker 2000 和 2003 兼容的游戏。</easryrpg_desc>
+	<ecwolf_desc>ECWolf 是基于 Wolf4SDL 代码库的 Wolfenstein 3D、命运之矛和超级 3D 诺亚方舟的高级源端口。</ecwolf_desc>
+	<eidos_coll>Eidos Interactive 是一家英国软件发行商，从 1995 年到 2005 年以《古墓丽影》系列游戏和冠军经理系列游戏而闻名。经过一系列收购，它现在归日本史克威尔艾尼克斯集团所有。</eidos_coll>
+	<eighting_coll>Eighting Co., Ltd.，风格化为 8ing，是一家日本视频游戏开发商和发行商。 它以前被称为Raizing。 它以其射击游戏和授权格斗游戏而闻名。</eighting_coll>
+	<electron_desc>Acorn Electron 是 BBC Micro 的低成本替代品，同样由 Acorn Computers 开发。</electron_desc>
+	<famicom_desc>Nintendo Famicom 是 8 位视频游戏机，由任天堂于 1983 年在日本发布。它作为家庭计算机发布，通常缩写为罗马字母缩写 Famicom，或缩写为 FC。</famicom_desc>
+	<fatalfury_coll>Fatal Fury是SNK为Neo Geo系统开发的格斗游戏系列。 Fatal Fury 和它的姊妹系列，格斗艺术，都设置在同一个虚构的宇宙中。战斗艺术发生在第一次致命狂怒之前的几年。</fatalfury_coll>
+	<fbn_desc>Final Burn Neo 是一款适用于街机游戏和精选游戏机的模拟器。它基于模拟器 FinalBurn 和旧版本的 MAME。</fbn_desc>
+	<fds_desc>家庭电脑磁盘系统是任天堂家庭电脑控制台的外围设备，于 1986 年 2 月 21 日在日本发布。它使用称为“磁盘卡”的专有软盘进行数据存储。 </fds_desc>
+	<finalfantasy_coll>Final Fantasy 是一部日文选集奇幻系列。该系列以一系列奇幻和科学奇幻角色扮演视频游戏为中心。该系列的第一款游戏于 1987 年发布，此后又发布了 15 个其他主编号条目。</finalfantasy_coll>
+	<finalfight_coll>快打旋风是 Capcom 于 1989 年推出的《快打旋风》街机版系列游戏。以虚构的 Metro City 为背景，</finalfight_coll>
+	<fm7_desc>FM-7 是富士通推出的家用计算机，在日本和西班牙销售，是早期 FM-8 的简化版。</fm7_desc>
+	<fmtowns_desc>FM Towns Marty 是第五代 16 位视频游戏机,基于富士通于 1989 年发布的 FM Towns 计算机系统。Marty 向后兼容较旧的 FM Towns 游戏。</fmtowns_desc>
+	<freej2me_desc>FreeJ2ME 是一款简单的J2ME（Java平台微版）模拟器，专注于旧手机游戏。它设计用于在 Windows、桌面 Linux 和使用 Libretro 和 Retroarch 的 Raspberry Pi 3 上运行。</freej2me_desc>
+	<gameandwatch_desc>Game and Watch 是任天堂于 1980 年至 1991 年间制作的一系列掌上电子游戏。由游戏设计师横井军平创作，每款游戏都只有一个固定的游戏，以及液晶屏幕上的时钟。</gameandwatch_desc>
+	<gamecom_desc>Game.com 是 Tiger Electronics 推出的第五代掌上主机，以支持互联网连接而闻名，因此得名「.com」。</gamecom_desc>
+	<gamegear_desc>世嘉 Game Gear 是世嘉的第一款掌上游戏机。这是继 Atari Lynx 和 TurboExpress 之后的第三款商用彩色手持控制台。它与主系统共享大部分硬件，并且可以通过使用适配器来玩主系统游戏。</gamegear_desc>
+	<gametank_desc>GameTank 是一款开源的 8 位家用游戏主机，面向新游戏和自制开发。</gametank_desc>
+	<gb_desc>Game Boy 是 1989 年发布的 8 位手持视频游戏机。作为 Game Boy 系列中的第一款手持游戏机，它是由设计 Game and Watch 系列的横井军平和任天堂的研发部门创建的。 </gb_desc>
+	<gba_desc>Game Boy Advance 是由任天堂开发的 32 位手持视频游戏机，是 Game Boy Color 的继任者。任天堂当时在掌机市场的竞争对手是 Neo Geo Pocket Color、WonderSwan、GP32、Tapwave Zodiac 和 N-Gage。</gba_desc>
+	<gbc_desc>Game Boy Color，（简称GBC）是任天堂生产的掌上游戏机，于1998年发布。它是Game Boy的继任者，具有彩屏，但没有背光。</gbc_desc>
+	<gc_desc>GameCube 是任天堂在第六代视频游戏机中的入门产品，是他们之前的游戏机 Nintendo 64 的继任者。GameCube 与索尼的 PlayStation 2 和微软的 Xbox 竞争。</gc_desc>
+	<genesis_desc>Genesis（美国以外的 Mega Drive）是世嘉的第三款游戏机，也是 Master System 的继任者。 Genesis 的主微处理器是主频为 7.6 MHz 的 16/32 位 Motorola 68000 CPU。控制台还提供了与主系统的向后兼容性。</genesis_desc>
+	<genre-vertical_coll>“我们不会因为变老而停止游戏，我们会因为停止游戏而变老！” ——本杰明·富兰克林</genre-vertical_coll>
+	<gmaster_desc>Game Master 是 Hartung 推出的掌上主机，旨在与任天堂 Game Boy 竞争，在德国由 Hartung 销售，在英国则以 Systema 2000 之名发布。</gmaster_desc>
+	<gmloader_desc>GameMaker（最初是 Animo 和后来的 Game Maker，直到 2011 年）是一系列跨平台游戏引擎，由 Mark Overmars 于 1999 年创建，并由 YoYo Games 自 2007 年开始开发。</gmloader_desc>
+	<gt_coll>GT Interactive Software Corporation (GTI) 成立于 1993 年 2 月，是 GoodTimes Home Video 的一个部门，该公司是 Cayre 家族拥有的录像带经销商，Ron Chaimowitz 是联合创始人兼总裁。在多次合并和收购后，该公司目前是 Atari.inc 的一部分</gt_coll>
+	<gta_desc>侠盗猎车手是 1997 年首次在游戏机上发布的动作冒险系列。该系列中的大多数游戏都设置在以城市为蓝本的虚构地区，通常是纽约市的自由城、迈阿密的罪恶城或州圣安地列斯作为加利福尼亚州和内华达州，</gta_desc>
+	<gx4000_desc>GX4000 是由 Amstrad 制造的视频游戏机。这是该公司进入游戏机市场的短暂尝试。该控制台于 1990 年在欧洲发布，是基于当时仍然流行的 CPC 技术的升级设计。</gx4000_desc>
+	<ikemen_desc>Ikemen（Itumademo Kanseishinai Eienni Mikansei ENgine 的缩写）是一款免费开源的格斗游戏引擎，兼容 M.U.G.E.N 内容。</ikemen_desc>
+	<infogrames_coll>Infogrames 是 1983 年至 2009 年期间的软件开发商和出版商，因《孤独在黑暗》系列中而闻名。该公司现在是 Atari.inc 的一部分，并被称为 Atari.inc</infogrames_coll>
+	<intellivision_desc>Intellivision“智能电视”是美泰电子于 1979 年发布的家用视频游戏机。该游戏机的开发始于 1977 年，同年推出了其主要竞争对手 Atari 2600。</intellivision_desc>
+	<irem_coll>Irem Software Engineering 是一家日本视频游戏机开发商和发行商，以前也是街机游戏开发商和制造商。该公司的总部位于东京千代田。</irem_coll>
+	<jaguar_desc>Atari Jaguar 是由 Atari Corporation 开发并于 1993 年 11 月在北美发布的家用视频游戏机。它是第五代视频游戏机的一部分，与 16 位 Sega Genesis 和 Super NES 以及 32同年推出的-bit 3DO 互动多人游戏。</jaguar_desc>
+	<kaneko_coll>Kaneko Co. Ltd. (カネコ株式会社)，是由 Hiroshi Kaneko 在日本东京杉并市创立的日本电子游戏发行商。它以自己的品牌和其他公司发行了许多游戏，例如 Air Buster、Nexzr、Shogun Warriors、DJ Boy、Guts'n 和 Gals Panic 系列。</kaneko_coll>
+	<karaoke_coll>卡拉OK是一种互动娱乐，通常在俱乐部和酒吧提供，人们使用麦克风跟着录制的音乐一起唱歌。音乐是一首著名流行歌曲的器乐版本。歌词通常与移动符号一起显示在视频屏幕上。</karaoke_coll>
+	<kof_coll>拳皇是 SNK 于 1994 年发布拳皇 '94 时推出的一系列格斗游戏。该系列最初是为 SNK 的 Neo Geo MVS 街机硬件开发的。</kof_coll>
+	<konami_coll>Konami 是一家电子游戏发行商，其主要作品包括动作恶魔城系列、生存恐怖寂静岭系列、动作射击游戏魂斗罗系列、平台冒险 Ganbare Goemon 系列、隐形动作合金装备系列。</konami_coll>
+	<lego_coll>自 1995 年以来，已经发布了 85 款基于乐高集团生产的建筑系统乐高的商业视频游戏。游戏类型包括冒险游戏、棋盘游戏和赛车游戏。 </lego_coll>
+	<lowresnx_desc>LowresNX 是一个复古风格的游戏开发环境，可创建和游玩 8 位游戏，提供基于像素的图形编辑器和类 BASIC 语言。</lowresnx_desc>
+	<lucasarts_coll>LucasArts Entertainment Company，以 Lucasfilm Games 的名义开展业务，是一家美国许可方。直到 2013 年，它还是一家视频游戏开发商和发行商。 LucasArts 以其图形冒险游戏以及基于《星球大战》和《印第安纳琼斯》系列的游戏而闻名。 </lucasarts_coll>
+	<m2000_desc>Philips P2000T 是 1980 年飞利浦继 Videopac G7000 游戏系统之后首次真正进军家用计算机市场的产品。</m2000_desc>
+	<macintosh_desc>Macintosh 128K 是苹果公司最初的 Macintosh 个人电脑，是第一台成功量产的一体式台式电脑，配有图形界面、内置屏幕和鼠标。</macintosh_desc>
+	<mame_desc>MAME（最初是 Multiple Arcade Machine Emulator 的首字母缩写）是一款免费的开源模拟器，旨在在现代个人计算机和其他平台上以软件重新创建街机游戏系统的硬件。</mame_desc>
+	<mario_coll>马里奥是马里奥电子游戏系列中的一个虚构角色，由任天堂拥有，由日本电子游戏设计师宫本茂创作。作为公司的吉祥物，以及该系列的同名主角，马里奥自创作以来已出现在 200 多款电子游戏中。</mario_coll>
+	<mastersystem_desc>Master System 是世嘉于 1985 年发布的第三代视频游戏机。Master System 是 Nintendo Entertainment System 的直接竞争对手，在技术上优于 NES，NES 远早于其发布。</mastersystem_desc>
+	<mc10_desc>TRS-80 MC-10 是 TRS-80 系列家用计算机中较少人知的成员，是 TRS-80 Color Computer 的低成本替代品。</mc10_desc>
+	<megadrive_desc>Megadrive 是世嘉的第三款游戏机，也是 Master System 的继任者。 Megadrive 的主微处理器是一个主频为 7.6 MHz 的 16/32 位 Motorola 68000 CPU。控制台还提供了与主系统的向后兼容性。</megadrive_desc>
+	<megadrivemsu_desc>MSU-MD 是用于 Mega Everdrive Pro 卡带的卡带插件芯片，可为 Megadrive 游戏提供许多增强功能，包括全动态视频和 CD 质量的声音。它与硬件和模拟器兼容。</megadrivemsu_desc>
+	<megaduck_desc>Mega Duck WG-108（也称为 Cougar Boy）是一款手持游戏机,由香港 Welback Holdings 通过其 Timlex International 部门开发和制造,于 1993 年发布。</megaduck_desc>
+	<megaman_coll>Mega Man，在日本被称为洛克人，是由 Capcom 创建的科幻视频游戏系列，由一系列机器人角色主演，每个角色都被称为“Mega Man”。洛克人于 1987 年为任天堂娱乐系统发布，是该系列中的第一个，该系列已扩展到多个系统上的 50 多个游戏。</megaman_coll>
+	<metalgear_coll>合金装备是由小岛秀夫创作、科乐美开发发行的一系列潜行动作冒险游戏。第一款游戏《合金装备》于 1987 年发布，用于 MSX 家用电脑。多个游戏机的续作已经发布，扩展了原游戏的情节。</metalgear_coll>
+	<metalslug_coll>合金弹头是一系列跑枪射击游戏，最初由纳斯卡公司创建，在完成该系列的第一款游戏后于 1996 年与 SNK 合并。衍生游戏包括纪念系列十周年的第三人称射击游戏和移动平台的塔防游戏。</metalslug_coll>
+	<metroid_coll>银河战士（密特罗德）是由任天堂打造的科幻动作游戏系列。银河战士跟随太空赏金猎人萨姆斯·阿兰（Samus Aran），他保护银河系免受太空海盗和他们试图利用寄生银河系生物的力量的攻击。</metroid_coll>
+	<microvision_desc>Microvision 是第一款使用可更换卡带的掌上游戏主机，由 Milton Bradley 于 1979 年推出。</microvision_desc>
+	<midway_coll>Midway 是一家美国视频游戏开发商和发行商。 Midway 的特许经营权包括 Mortal Kombat、Rampage、Spy Hunter、NBA Jam、Cruis'n 和 NFL Blitz。 Midway 于 2009 年折叠</midway_coll>
+	<mortalkombat_coll>真人快打是一系列游戏，于 1992 年首次发布。原版游戏衍生出许多续作和衍生游戏，包括几款动作冒险游戏、漫画系列和纸牌游戏</mortalkombat_coll>
+	<msx2_desc>MSX 是一种标准化的家用计算机体系结构，由 Microsoft 和 ASCII 于 1983 年 6 月 16 日宣布。它最初由 Microsoft 构想为面向东方部门的产品，由时任 Microsoft 副总裁 Kazuhiko Nishi 和ASCII Corporation 的董事。</msx2_desc>
+	<msx_desc>MSX 是一种标准化的家用计算机架构，由 Microsoft 和 ASCII 于 1983 年 6 月 16 日宣布。在任天堂的家用计算机取得成功之前，MSX 是 Konami 和 Hudson Soft 等日本主要游戏工作室制作视频游戏的平台。 </msx_desc>
+	<multivision_desc>Othello Multivision 是由世嘉设计、Tsukuda Original 销售的授权 SG-1000 克隆机。</multivision_desc>
+	<n64_desc>代号为 Ultra64 的 Nintendo 64 于 1996 年发布，是最后一款使用卡带作为主要存储格式的主要家用游戏机。全球售出 3293 万台，主要竞争对手是索尼 PlayStation 和世嘉土星。</n64_desc>
+	<n64dd_desc>Nintendo 64DD 是任天堂 64 的磁盘驱动器外设，于 1999 年在日本发行，扩展了存储并增加了联网功能，但商业上失败。</n64dd_desc>
+	<namco_coll>Namco 是日本的街机和家用游戏机视频游戏开发商和发行商，最初总部位于东京大田区。 50 年后的 2005 年，他们并入万代。</namco_coll>
+	<naomi_desc>Sega NAOMI（New Arcade Operation Machine Idea）是一款于 1998 年发布的街机系统板，作为 Sega Model 3 硬件的继任者。它使用与世嘉 Dreamcast 相同的架构，与世嘉 Model 2 一样，是世嘉有史以来最成功的街机系统之一。</naomi_desc>
+	<nds_desc>Nintendo DS 是一款由任天堂开发并发布的 32 位双屏掌上游戏机。该设备于 2004 年 11 月 21 日在北美开始销售。DS 是“双屏”的缩写，为手持游戏引入了独特的新功能。</nds_desc>
+	<neogeo_desc>Neo•Geo AES 最初是作为日本视频游戏商店的租赁控制台（称为 Neo Geo 租赁系统）推出的，其高昂的价格导致 SNK 无法将其发布用于家庭使用 - 后来由于高昂的价格而被撤销需求，它作为豪华游戏机进入市场。</neogeo_desc>
+	<neogeocd_desc>Neo•Geo CD 是 SNK 的第二个家用控制台，作为 AES 系统的更便宜的替代品发布。内部硬件是一样的，但游戏运行成本要便宜得多，生产 CD-ROM。这让 SNK 能够以更具竞争力的价格销售游戏。</neogeocd_desc>
+	<nes_desc>Nintendo Entertainment System 是任天堂于 1985 年在北美发布的 8 位视频游戏机（美版FC）。作为当时最畅销的游戏机，NES 在视频游戏崩溃后帮助重振了美国视频游戏行业1983 年。</nes_desc>
+	<ngp_desc>Neo Geo Pocket 是 SNK 发布的单色掌上游戏机。这是该公司的第一款手持系统，是 Neo Geo 系列的一部分。它于 1998 年底在日本首次亮相。</ngp_desc>
+	<ngpc_desc>Neo Geo Pocket Color 是 SNK 制造的 16 位彩色手持视频游戏机。它是 SNK 于 1998 年在日本首次亮相的单色 Neo Geo Pocket 手持设备的继任者，并完全向后兼容。</ngpc_desc>
+	<nintendo_coll>任天堂生产了一些视频游戏行业最成功的游戏机，例如 Game Boy、Super Nintendo Entertainment System、Nintendo DS、Wii 和 Nintendo Switch。</nintendo_coll>
+	<ocean_coll>Ocean Software Ltd 是一家英国软件开发公司，在 1980 年代和 1990 年代成为欧洲最大的视频游戏开发商和发行商之一。 Ocean 是第一家获得电影许可的游戏公司，其中包括 Rambo、Short Circuit 和 Cobra</ocean_coll>
+	<openbor_desc>OpenBOR 是一个免版税的基于精灵的横向滚动游戏引擎。 ... OpenBOR 已针对横向卷轴游戏（双龙、愤怒之街、最终决战）进行了优化，但可以轻松适应您可以想象的任何类型的游戏风格和功能集。</openbor_desc>
+	<oricatmos_desc>Oric 是 20 世纪 80 年代 Tangerine Computer Systems 销售的家用计算机品牌，所有机型均基于 MOS Technology 6502A 微处理器。</oricatmos_desc>
+	<outrun_coll>Outrun 是 Sega 于 1986 年 9 月发布的一款街机赛车视频游戏。它以其开创性的硬件和图形、非线性游戏玩法以及由 Hiroshi Kawaguchi 创作的音乐的可选配乐而闻名。目标是避开交通并到达五个目的地之一。</outrun_coll>
+	<pc88_desc>NEC 1979 年至 1989 年生产的日本 8 位个人电脑阵容。</pc88_desc>
+	<pc98_desc>NEC 1982 年至 2000 年生产的日本 16 位和 32 位个人计算机产品阵容</pc98_desc>
+	<pc_desc>Personal Computer，个人主机。</pc_desc>
+	<pce-cd_desc>TurboGrafx-16，全称 TurboGrafx-16 Entertainment SuperSystem，在日本被称为 PC 引擎，是由 Hudson Soft 和 NEC 开发的视频游戏机，于 1987 年 10 月 30 日在日本和北1989 年 8 月 29 日的美国。</pce-cd_desc>
+	<pcengine_desc>PC Engine 于 1987 年 10 月 30 日在日本发布。它在 1987 年首次亮相时获得了强大的第三方支持并超过了 Famicom，最终成为 Super Famicom 的主要竞争对手</pcengine_desc>
+	<pcfx_desc>PC-FX 是 1994 年发布的 32 位家用视频游戏机。它旨在作为 PC Engine 及其国际同类产品 TurboGrafx-16 的继任者，这是 1980 年代后期成功的两款视频游戏机。这是 NEC 进军家用游戏机市场的最后一次尝试。</pcfx_desc>
+	<pgm2_desc>IGS PolyGame Master 2 是 IGS 于 2007 年发布的街机系统,接替 IGS PolyGame Master。它包含很少的视频游戏,其中最著名的是《勇敢骑士》系列中的游戏《勇敢骑士 3》。</pgm2_desc>
+	<pgm_desc>PolyGame Master（PGM）是台湾 IGS 公司于 1997 年发布的街机系统板。PGM 的开发是为了与台湾 SNK 的 Neo Geo MVS 系统等竞争。2007 年由 PGM2 接替,2012 年由 PGM3 接替。</pgm_desc>
+	<pico8_desc>Pico-8（风格化为 PICO-8）是由 Lexaloffle Games 创建的虚拟机和游戏引擎。它旨在通过模仿 1980 年代左右视频游戏机的严格硬件限制来模仿幻想视频游戏机。 </pico8_desc>
+	<pico_desc>世嘉 Pico 主打「寓教于乐」，专注于 3 至 7 岁儿童的教育游戏。</pico_desc>
+	<pokemini_desc>Pokémon Mini 是一款由任天堂设计和制造的掌上游戏机，以 Pokémon 媒体系列为主题。它是任天堂有史以来最小的可更换卡带游戏系统。</pokemini_desc>
+	<pokemon_coll>Pokémon（口袋妖怪、宠物小精灵、宝可梦）是由任天堂和 The Pokémon Company 发行的一系列视频游戏。由田尻聪创作，1996 年在日本为 Game Boy 发行的第一款游戏《口袋妖怪红与绿》，以及被开发者称为“核心系列”的角色扮演视频游戏 (RPG) 的主要系列，每一代任天堂的掌上电脑都在继续。</pokemon_coll>
+	<ports_desc>从PC到DOS的软件和游戏引擎的多平台端口</ports_desc>
+	<prboom_coll>《毁灭战士》（Doom）是 1993 年首次发布的游戏系列，讲述一名无名太空陆战队员与恶魔作战的故事。</prboom_coll>
+	<psikyo_coll>彩京（Psikyo）是一家日本视频游戏开发商和发行商，以其射击游戏和脱衣麻将游戏而闻名。 Psikyo 主要是一家街机游戏开发商，也将他们的一些游戏移植到家用游戏机上。</psikyo_coll>
+	<psp_desc>PlayStation Portable (PSP) 是索尼开发并于 2005 年发布的掌上游戏机。它是任天堂掌上统治地位的第一个真正竞争对手，许多挑战者，如 SNK 的 Neo Geo Pocket 和诺基亚的 N-Gage，都失败了.</psp_desc>
+	<pspminis_desc>PSP Mini 是与 PSPgo 一起推出的 100MB 或更小的数字游戏。 Mini 总共发布了 290 款游戏。</pspminis_desc>
+	<psx_desc>PlayStation（非官方缩写为 PSX）是由 Sony Computer Entertainment 开发和销售的家用视频游戏机。该系列中的原始游戏机是第一款在不到十年的时间内出货量超过 1 亿台的任何类型游戏机。</psx_desc>
+	<quake_coll>雷神之锤是一系列第一人称射击游戏，由 id Software 开发，并于 2010 年由 Bethesda Softworks 发行。该系列由 1996 年的同名游戏及其设置和情节各不相同的非线性独立续集组成。</quake_coll>
+	<residentevil_coll>生化危机是 Capcom 打造的一系列游戏。该系列始于 1996 年为 PlayStation 发行的游戏《生化危机》，因定义了生存恐怖类型并将僵尸回归流行文化而受到赞誉。</residentevil_coll>
+	<residualvm_desc>ResidualVM 是一个跨平台的计算机程序，包含具有通用图形用户界面的 3D 游戏引擎游戏。它支持 Grim Fandango、Myst III：Exile 和 The Longest Journey。</residualvm_desc>
+	<rockstar_coll>Rockstar Games, Inc. 是一家位于纽约市的美国视频游戏发行商。该公司成立于 1998 年 12 月，是 Take-Two Interactive 的子公司，使用 Take-Two 之前从 BMG Interactive 收购的资产，包括侠盗猎车手的创造者 DMA Design。</rockstar_coll>
+	<samcoupe_desc>SAM Coupé 是位于斯旺西的 Miles Gordon Technology（MGT）制造的 8 位英国产家用计算机，基于 ZX Spectrum 48K 设计并具有兼容模式。</samcoupe_desc>
+	<samuraishodown_coll>Samurai Shodown，在日本被称为“侍魂”，是SNK的格斗游戏系列。游戏背景设定在 18 世纪的日本，还包括外国出生的角色和虚构的怪物。</samuraishodown_coll>
+	<satellaview_desc>Satellaview 是任天堂超级任天堂的卫星调制解调器外设，仅于 1995 年在日本发行，可通过 St.GIGA 卫星服务下载游戏、杂志和节目。</satellaview_desc>
+	<saturn_desc>土星最初在日本取得成功，但在 1995 年 5 月推出后未能在美国大量销售，比预定发布日期早了四个月。尽管它因几款广受好评的游戏而被人们铭记，但由于其复杂的硬件设计，它的声誉参差不齐。</saturn_desc>
+	<sc-3000_desc>SC-3000 是世嘉设计和制造的第一台也是唯一一台计算机。它于 1983 年 7 月在日本首次发布，相当于 SG-1000 盒式视频游戏机的家用电脑。 </sc-3000_desc>
+	<scummvm_desc>Maniac Mansion Virtual Machine (ScummVM) 的脚本创建实用程序是一组游戏引擎游戏。最初设计用于玩使用 SCUMM 系统的 LucasArts 冒险游戏，它还支持各种非 SCUMM 游戏。</scummvm_desc>
+	<scv_desc>Super Cassette Vision 是 Epoch Co. 推出的家用游戏主机，在日本及后来的欧洲（尤其是法国）发行，与 Famicom 和世嘉 SG-1000 系列竞争。</scv_desc>
+	<sega32x_desc>Sega 32X 是 Sega Genesis 视频游戏机的附加组件。代号为“火星计划”的 32X 旨在扩展创世纪的力量，直到世嘉土星发布。独立于 Genesis，32X 使用自己的 ROM 卡带并拥有自己的游戏库。</sega32x_desc>
+	<sega_coll>世嘉是​​一家日本跨国视频游戏开发商和发行商，总部位于东京品川区。世嘉制作了数款销量数百万的游戏系列，包括《刺猬索尼克》、《全面战争》和《如龙》，并且是世界上最多产的街机游戏制作商。</sega_coll>
+	<segacd_desc>Sega CD 是 Sega Genesis 视频游戏机的 CD-ROM 附件，由 Sega 生产，是第四代视频游戏机的一部分。 Sega CD 让用户可以玩基于 CD 的游戏并添加额外的硬件功能，例如更快的中央处理器和图形增强功能。</segacd_desc>
+	<setup_desc>“为了获胜而进行的有限游戏，为了继续游戏而进行的无限游戏。” ― 詹姆斯 P. 卡塞</setup_desc>
+	<sfc_desc>Super Famicom 是由任天堂开发的 16 位家用视频游戏机，于 1990 年在日本发行。该系统在其他国家更名为超级任天堂。</sfc_desc>
+	<sg-1000_desc>世嘉的 SG-1000（又名 Mark I）是该公司在 1983 年 7 月发布的家用游戏机的首次尝试。它在当时是一个相当先进的系统，并具有令人印象深刻的技术规格。世嘉发布了名为 SG-1000 Mark II 的更新版游戏机。</sg-1000_desc>
+	<sgb_desc>Super Game Boy 是一种外围设备，可让 Game Boy 卡带在 Super Nintendo Entertainment System 控制台上播放。 它于 1994 年 6 月发布，在美国的零售价为 59.99 美元，在英国的零售价为 49.99 英镑。</sgb_desc>
+	<sharpx1_desc>X1,有时也被称为夏普X1或CZ-800C,是夏普公司于1982年至1988年发布的一系列家用电脑。[1〕它是基于一台Zilog Z80 CPU。X1 的 RGB 显示监视器有一个电视调谐器,并且可以在电视上叠加计算机屏幕。</sharpx1_desc>
+	<silenthill_coll>寂静岭是一个以一系列生存恐怖视频游戏为中心的恐怖媒体特许经营权，由富山敬一郎创作，Konami 开发和发行。</silenthill_coll>
+	<simpsons_coll>辛普森一家是对美国生活的讽刺描写，以辛普森家族为代表，该家族由荷马、玛吉、巴特、丽莎和玛吉组成。最初的电视节目以虚构的斯普林菲尔德小镇为背景，模仿美国文化和社会、电视和人类状况。</simpsons_coll>
+	<snes_desc>任天堂的第二款家用游戏机与当时的其他系统相比引入了先进的图形和声音功能（就是美版的SFC），全球销量超过 4900 万台。与当时的其他系统相比，该控制台引入了先进的图形和声音功能。 </snes_desc>
+	<snesmsu1_desc>MSU-1 是一种盒式附加芯片，可通过添加多达 4GB 的存储空间来存储额外内容，从而对 SNES 游戏进行许多增强，包括但不限于全动态视频和 CD 质量的声音。</snesmsu1_desc>
+	<snk_coll>SNK Corporation (株式会社SNK, Kabushiki-gaisha Esu Enu Kē) 是一家日本视频游戏硬件和软件公司。 SNK 以其在 1990 年创建的 Neo Geo 系列街机、家用和手持游戏机而闻名。</snk_coll>
+	<socrates_desc>VTech Socrates 是 VTech 推出的教育类家用游戏主机，主角是名为苏格拉底的机器人角色。</socrates_desc>
+	<solarus_desc>Solarus 是一款轻量级、免费和开源的动作角色扮演游戏引擎。它使用 C++ 构建，运行 Lua 制作的游戏。</solarus_desc>
+	<sonic_coll>索尼克是世嘉创建和拥有的特许经营权。该系列跟随索尼克，一只拟人化的蓝色刺猬，与邪恶的疯狂科学家蛋头博士作战。</sonic_coll>
+	<streetfighter_coll>街头霸王是由 Capcom 开发和发行的系列游戏。该系列的第一款游戏于 1987 年发布，随后是其他五款主要系列游戏、各种衍生产品和跨界游戏，并在其他各种媒体中大量露面。</streetfighter_coll>
+	<supergrafx_desc>SuperGrafx 是 PC 引擎的后续系统。它最初在生产阶段被称为 PC Engine 2，据称是真正的 16 位家用控制台，其图形和音频功能比其前身有所改进。仅发布了 6 款利用硬件的游戏。</supergrafx_desc>
+	<supervision_desc>Watara Supervision，在英国也被称为 QuickShot Supervision，是 1992 年推出的单色掌上游戏机，是任天堂 Game Boy 的低价竞争对手。该游戏机因未能在游戏玩家中获得任何人气而被取消。</supervision_desc>
+	<sys_1970s_coll>1970 年代是街机游戏黄金时代的开始。投币式街机机开始流行，以经典游戏为特色，例如《吃豆人》、《银河战舰》和《太空侵略者》。它还见证了 Atari 2600 等第一款家用游戏机的问世。</sys_1970s_coll>
+	<sys_1980s_coll>1980 年代，Sinclair 和 Commodore 等家用电脑以及重量级 Sega 和 Nintendo 推出的第一款大型游戏机推出了经济实惠的家庭游戏系统。</sys_1980s_coll>
+	<sys_1990s_coll>1990 年代，街机游戏如街头霸王、铁拳和真人快打等重磅格斗游戏发布，街机游戏重新出现。国内市场出现了第 5 代游戏机，例如 Sony Playstation、Sega Saturn 和 Nintendo 64。</sys_1990s_coll>
+	<sys_3do_desc>3DO 是由企业家和Electronic Arts 创始人Trip Hawkins 构思的家用视频游戏机，3DO 并非由公司自己制造。松下生产了第一批型号，GoldStar 和三洋发布了硬件的进一步版本。 </sys_3do_desc>
+	<taito_coll>Taito 是一家日本公司，总部位于东京新宿，专门从事视频游戏、玩具、街机柜和游戏中心。该公司由 Michael Kogan 于 1953 年作为 Taito 贸易公司创立，将伏特加、自动售货机和自动点唱机进口到日本。 1973 年开始制作电子游戏。</taito_coll>
+	<tekken_coll>铁拳是日本媒体专营权，以万代南梦宫娱乐开发和发行的一系列格斗视频和街机游戏为中心。该系列的主要游戏遵循铁拳之王锦标赛的事件，玩家控制过多的角色来赢得锦标赛并获得对公司的控制权。</tekken_coll>
+	<tg16_desc>TurboGrafx-16，全称 TurboGrafx-16 Entertainment SuperSystem，在日本被称为 PC Engine，是由 Hudson Soft 和 NEC 开发的视频游戏机，于 1987 年 10 月 30 日在日本发布，并于 1989 年 10 月在北美发布1989 年 8 月 29 日。</tg16_desc>
+	<tg16cd_desc>TurboGrafx-CD 是 TurboGrafx-16 的附加组件。它的发布是为了扩展 TurboGrafx 16 的游戏库。它增加了播放全动态视频和 CD 音频的能力，并大大扩展了存储容量。</tg16cd_desc>
+	<thomson_desc>Thomson MO5 是 1984 年 6 月在法国推出的家用计算机，与 ZX Spectrum 和 Commodore 64 竞争。</thomson_desc>
+	<ti99_desc>TI-99/4 和 TI-99/4A 是德州仪器推出的家用计算机，基于 TMS9900 微处理器，TI-99/4 是第一款 16 位家用计算机。</ti99_desc>
+	<tic-80_desc>TIC-80 是一款用于制作、玩和分享小游戏的梦幻电脑。游戏限制为 240x136 像素显示、16 个调色板、256 个 8x8 彩色精灵、4 声道声音等。</tic-80_desc>
+	<tigerlcd_desc>Tiger Electronics 在 20 世纪 80 至 90 年代生产了大量专用掌上 LCD 游戏，每台都内置单一游戏。</tigerlcd_desc>
+	<tmnt_coll>忍者神龟是四只超级英雄神龟。以意大利文艺复兴时期的艺术家命名，他们接受了日本忍术武术的训练。他们在纽约市下水道的家中与各种敌人作战，同时试图远离社会。</tmnt_coll>
+	<toaplan_coll>Toaplan 是一家日本视频游戏开发商，负责开发各种卷轴射击游戏和其他街机游戏。他们的第一款射击游戏，街机上的 Tiger-Heli，取得了成功，并帮助 Toaplan 成为 1980 年代和 1990 年代射击游戏的领先制作人</toaplan_coll>
+	<tombraider_coll>古墓丽影是一个媒体系列，于 1996 年首次亮相。自原版古墓丽影发布以来，该系列发展成为同名系列，劳拉继续成为视频游戏行业的主要偶像.</tombraider_coll>
+	<tutor_desc>Tomy Tutor（在日本以 Pyūta 之名销售）是日本玩具制造商 Tomy 推出的家用计算机，架构与 TI-99/4A 相似。</tutor_desc>
+	<tux_coll>SuperTux、SuperTux Kart 和 SuperTux Party 是受超级马里奥游戏启发的开源游戏。自 90 年代中期以来开发，它们以各种开源吉祥物为特色，例如 Tux、Mozilla Thunderbird 和 Pidgin。</tux_coll>
+	<type_1970_s_arcade_machines>1970's  · Arcade Machines</type_1970_s_arcade_machines>
+	<type_1970_s_coin_operated_cabinet>1970's  · Coin Operated Cabinet</type_1970_s_coin_operated_cabinet>
+	<type_1970_s_programming_language>1970's  · Programming Language</type_1970_s_programming_language>
+	<type_1976_8_bit_console>1976  · 8-bit 主机</type_1976_8_bit_console>
+	<type_1977_8_bit_computer>1977  · 8-bit computer</type_1977_8_bit_computer>
+	<type_1977_8_bit_console>1977  · 8-bit 主机</type_1977_8_bit_console>
+	<type_1978_8_bit_console>1978  · 8-bit 主机</type_1978_8_bit_console>
+	<type_1979_16_bit_computer>1979  · 16-bit 计算机</type_1979_16_bit_computer>
+	<type_1979_8_bit_computer>1979  · 8-bit 计算机</type_1979_8_bit_computer>
+	<type_1979_handheld_console>1979  ·  掌上主机</type_1979_handheld_console>
+	<type_1979_virtual_machine>1979  · Virtual Machine</type_1979_virtual_machine>
+	<type_1980_8_bit_computer>1980  · 8-bit 计算机</type_1980_8_bit_computer>
+	<type_1980_8_bit_console>1980  · 8-bit 主机</type_1980_8_bit_console>
+	<type_1980_s_computer>1980's  · 计算机</type_1980_s_computer>
+	<type_1981_8_bit_computer>1981  · 8-bit 计算机</type_1981_8_bit_computer>
+	<type_1981_8_bit_console>1981  ·  8位主机</type_1981_8_bit_console>
+	<type_1982_16_bit_computer>1982  · 16-bit 计算机</type_1982_16_bit_computer>
+	<type_1982_2nd_gen_console>1982  · 2nd Gen Console</type_1982_2nd_gen_console>
+	<type_1982_32_bit_computer>1982  · 32-bit 计算机</type_1982_32_bit_computer>
+	<type_1982_8_bit_computer>1982  · 8-bit 计算机</type_1982_8_bit_computer>
+	<type_1982_8_bit_console>1982  · 8-bit 主机</type_1982_8_bit_console>
+	<type_1983_8_bit_computer>1983  · 8-bit 计算机</type_1983_8_bit_computer>
+	<type_1983_8_bit_console>1983  · 8-bit 主机</type_1983_8_bit_console>
+	<type_1984_16_bit_computer>1984  · 16-bit 计算机</type_1984_16_bit_computer>
+	<type_1984_8_bit_computer>1984  · 8-bit 计算机</type_1984_8_bit_computer>
+	<type_1984_8_bit_console>1984  · 8-bit 主机</type_1984_8_bit_console>
+	<type_1985_16_bit_computer>1985  · 16-bit 计算机</type_1985_16_bit_computer>
+	<type_1985_8_bit_computer>1985  · 8-bit 计算机</type_1985_8_bit_computer>
+	<type_1985_8_bit_console>1985  · 8-bit 主机</type_1985_8_bit_console>
+	<type_1986_8_bit_computer>1986  · 8-bit 计算机</type_1986_8_bit_computer>
+	<type_1986_8_bit_console>1986  · 8-bit 主机</type_1986_8_bit_console>
+	<type_1987_16_bit_console>1987  · 16-bit 主机</type_1987_16_bit_console>
+	<type_1987_24_bit_computer>1987  · 24-bit 计算机</type_1987_24_bit_computer>
+	<type_1987_32_bit_computer>1987  · 32-bit 计算机</type_1987_32_bit_computer>
+	<type_1987_8_bit_console>1987  ·  8位主机</type_1987_8_bit_console>
+	<type_1988_16_bit_console>1988  · 16-bit 主机</type_1988_16_bit_console>
+	<type_1988_8_bit_console>1988  · 8-bit 主机</type_1988_8_bit_console>
+	<type_1988_arcade_system_board>1988  · 街机基板</type_1988_arcade_system_board>
+	<type_1989_16_bit_console>1989  · 16-bit 主机</type_1989_16_bit_console>
+	<type_1989_16_bit_handheld_console>1989 · 16-bit 掌上主机</type_1989_16_bit_handheld_console>
+	<type_1989_8_bit_computer>1989  · 8-bit 计算机</type_1989_8_bit_computer>
+	<type_1989_8_bit_handheld_console>1989  · 8-bit 掌上主机</type_1989_8_bit_handheld_console>
+	<type_1990_16_bit_console>1990  · 16-bit 主机</type_1990_16_bit_console>
+	<type_1990_24_bit_console>1990  · 24-bit 主机</type_1990_24_bit_console>
+	<type_1990_8_bit_console>1990  · 8-bit 主机</type_1990_8_bit_console>
+	<type_1990_8_bit_handheld_console>1990  · 8-bit 掌上主机</type_1990_8_bit_handheld_console>
+	<type_1990_handheld_console>1990  · 掌上主机</type_1990_handheld_console>
+	<type_1991_16_bit_computer>1991  ·  16位计算机</type_1991_16_bit_computer>
+	<type_1991_16_bit_console>1991  · 16-bit 主机</type_1991_16_bit_console>
+	<type_1992_handheld_console>1992  · 掌上主机</type_1992_handheld_console>
+	<type_1993_32_bit_console>1993  · 32-bit 主机</type_1993_32_bit_console>
+	<type_1993_4th_gen_console>1993  · 第四代主机</type_1993_4th_gen_console>
+	<type_1993_arcade_system_board>1993  · 街机基板</type_1993_arcade_system_board>
+	<type_1993_handheld_console>1993  · handheld Console</type_1993_handheld_console>
+	<type_1994_32_bit_console>1994  · 32-bit 主机</type_1994_32_bit_console>
+	<type_1994_console_adapter>1994  · Console adapter</type_1994_console_adapter>
+	<type_1995_32_bit_table_top_console>1995  · 32-bit Table-top Console</type_1995_32_bit_table_top_console>
+	<type_1995_handheld_console>1995  ·  掌上主机</type_1995_handheld_console>
+	<type_1995_peripheral>1995  · Peripheral</type_1995_peripheral>
+	<type_1996_64_bit_console>1996  · 64-bit 主机</type_1996_64_bit_console>
+	<type_1996_arcade_system_board>1996  · 街机基板</type_1996_arcade_system_board>
+	<type_1997_arcade_board>1997  · Arcade Board</type_1997_arcade_board>
+	<type_1997_handheld_console>1997  · 掌上主机</type_1997_handheld_console>
+	<type_1998_128_bit_console>1998  · 128-bit 主机</type_1998_128_bit_console>
+	<type_1998_16_bit_handheld_console>1998  · 16-bit 掌上主机</type_1998_16_bit_handheld_console>
+	<type_1998_8_bit_handheld_console>1998  · 8-bit 掌上主机</type_1998_8_bit_handheld_console>
+	<type_1998_arcade_board>1998  · Arcade Board</type_1998_arcade_board>
+	<type_1998_peripheral>1998  ·  外设</type_1998_peripheral>
+	<type_1999_16_bit_handheld_console>1999 · 16-bit 掌上主机</type_1999_16_bit_handheld_console>
+	<type_1999_peripheral>1999  ·  外设</type_1999_peripheral>
+	<type_2001_32_bit_console>2001  · 32-bit 主机</type_2001_32_bit_console>
+	<type_2001_32_bit_handheld_console>2001  · 32-bit 掌上主机</type_2001_32_bit_handheld_console>
+	<type_2001_handheld_console>2001  · 掌上主机</type_2001_handheld_console>
+	<type_2003_32_bit_board>2003  · 32-bit Board</type_2003_32_bit_board>
+	<type_2004_32_bit_handheld_console>2004  · 32-bit 掌上主机</type_2004_32_bit_handheld_console>
+	<type_2004_6th_gen_console>2004  · 6th Gen Console</type_2004_6th_gen_console>
+	<type_2006_32_bit_console>2006  · 32-bit 主机</type_2006_32_bit_console>
+	<type_2007_arcade_board>2007  · Arcade Board</type_2007_arcade_board>
+	<type_2008_emulator>2008  · Emulator</type_2008_emulator>
+	<type_2015_handheld_console>2015  · 掌上主机</type_2015_handheld_console>
+	<type_2020_s_virtual_console>2020's  · Virtual Console</type_2020_s_virtual_console>
+	<type_2021_8_bit_console>2021  · 8-bit 主机</type_2021_8_bit_console>
+	<type_2023_8_bit_console>2023  · 8-bit 主机</type_2023_8_bit_console>
+	<type_32_bit_virtual_console>32-bit Virtual Console</type_32_bit_virtual_console>
+	<type_8_bit_virtual_machine>8-bit Virtual Machine</type_8_bit_virtual_machine>
+	<type_collection>游戏合集</type_collection>
+	<type_cross_plaform_game_engine>Cross-Plaform Game Engine</type_cross_plaform_game_engine>
+	<type_cross_platform_computer>跨平台计算机</type_cross_platform_computer>
+	<type_game_engine>游戏引擎</type_game_engine>
+	<type_gaming_engine>游戏引擎</type_gaming_engine>
+	<type_handheld_electronic_games>掌上电子游戏</type_handheld_electronic_games>
+	<type_homebrew_games_console>自制游戏主机</type_homebrew_games_console>
+	<type_java_emulator>Java 模拟器</type_java_emulator>
+	<type_multi_platform_emulator>多平台模拟器</type_multi_platform_emulator>
+	<type_multi_platform_port>多平台移植</type_multi_platform_port>
+	<type_software>软件</type_software>
+	<type_standardized_computer_architecture>标准化计算机架构</type_standardized_computer_architecture>
+	<ultimate_coll>Ashby Computers and Graphics Limited 是一家英国视频游戏开发商和发行商，由前街机游戏开发商 Tim 和 Chris Stamper 于 1982 年创立。 Ultimate 从 1983 年到 1988 年关闭，为 ZX Spectrum、Amstrad CPC、BBC Micro、MSX 和 Commodore 64 计算机发布了一系列成功的游戏。</ultimate_coll>
+	<uzebox_desc>Uzebox 是一款复古简约的 8 位开源游戏机。它基于 Atmel 制造的 AVR 8 位通用微控制器。</uzebox_desc>
+	<vc4000_desc>Interton Video Computer 4000（Interton VC 4000）是德国助听器制造商 Interton 在一些欧洲国家推出的卡带式游戏主机。</vc4000_desc>
+	<vectrex_desc>Vectrex 是一款独特的基于矢量显示的家用视频游戏机，由 Smith Engineering 开发。它于 1982 年 11 月在北美首次发布，然后于 1983 年在欧洲和日本发布。</vectrex_desc>
+	<vic20_desc>VIC-20 是第一台销售一百万台的计算机。</vic20_desc>
+	<videopac_desc>Magnavox Odyssey 2，也称为 Philips Odyssey 2，是 1978 年发布的第二代家用视频游戏机。它在欧洲以 Philips Videopac G7000 的名称销售，在巴西以 Philips Odyssey 的名称销售，在日本以 Philips Odyssey 的名称销售奥德赛2.</videopac_desc>
+	<vircon32_desc>顾名思义,Vircon32 是一个 32 位虚拟控制台:它是一个可以在软件或硬件中实现的标准。它的目标是尽可能简单,但仍然有足够的功能来支持完整、精致的游戏</vircon32_desc>
+	<virtualboy_desc>Virtual Boy 是任天堂开发的一款 32 位桌面便携式视频游戏机。它是第一款能够显示立体“3D”图形的控制台。销售未能达到目标，任天堂于 1996 年停止发行和游戏开发。</virtualboy_desc>
+	<vmu_desc>Visual Memory Unit（VMU）是世嘉 Dreamcast 的存储卡外设，带内置屏幕，于 1998 年发布，也可作为迷你游戏的小型掌机使用。</vmu_desc>
+	<vsmile_desc>V.Smile（V.SMILE TV Learning System）是 VTech 推出的第六代教育类家用游戏主机。</vsmile_desc>
+	<wasm4_desc>WASM-4 是 Aduros 开发的奇幻主机，类似 Pico-8 和 TIC-80，于 2021 年发布。</wasm4_desc>
+	<wii_desc>Wii 是任天堂于 2006 年发布的家用视频游戏机。作为第七代游戏机，Wii 与微软的 Xbox 360 和索尼的 PlayStation 3 竞争。任天堂表示其游戏机的目标人群比其他两款游戏机更广泛.</wii_desc>
+	<wonderswan_desc>WonderSwan 是万代在日本发售的掌上游戏机（神奇天鹅）。由 16 位中央处理器提供动力，与包括任天堂的 Game Boy 在内的竞争对手相比，它利用了低廉的价格和较长的电池寿命</wonderswan_desc>
+	<wonderswancolor_desc>WonderSwan Color 是万代在日本发行的掌上游戏机，是 WonderSwan（神奇天鹅）的升级彩色版。由 16 位中央处理器提供动力，与包括任天堂的 Game Boy 在内的竞争对手相比，它具有低价位和长电池寿命的优势</wonderswancolor_desc>
+	<x16_desc>Commander X16（俗称 X16）是一个现代（复古）硬件平台，定位为使用现代现成部件打造、与 Commodore 家族 KERNAL 兼容的爱好计算机。</x16_desc>
+	<x1_desc>X1（又称 Sharp X1 或 CZ-800C）是夏普公司于 1982 年至 1988 年推出的家用计算机系列。</x1_desc>
+	<x68000_desc>X68000 是夏普打造的一系列 32 位日本电脑。它是第一个提供真正街机质量图形的家用系统，同时也是 Capcom CPS 街机系统的开发机器。</x68000_desc>
+	<zelda_desc>塞尔达传说是由日本游戏设计师宫本茂和手冢崇史共同打造的一款高度奇幻动作冒险视频游戏系列。它主要由任天堂开发和发布。</zelda_desc>
+	<zmachine_desc>Z-machine 是 Joel Berez 和 Marc Blank 于 1979 年开发的虚拟机，被 Infocom 用于文字冒险游戏。</zmachine_desc>
+	<zx81_desc>ZX81 是一款家用电脑，由 Sinclair Research 生产，由 Timex Corporation 在苏格兰邓迪制造。它于 1981 年 3 月在英国推出，作为 Sinclair 的 ZX80 的继任者，旨在为大众提供低成本的家庭计算产品。</zx81_desc>
+	<zxspectrum_desc>ZX Spectrum 是 Sinclair Research 于 1982 年在英国发布的 8 位个人家用计算机。在开发过程中被称为 ZX81 Color 和 ZX82，它是由 Sinclair 推出的 ZX Spectrum，以突出机器的彩色显示</zxspectrum_desc>
+</variables>
+</theme>

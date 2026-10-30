@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>7</formatVersion>
+  <variables>
+
+    <!-- Emerald (green) -->
+
+    <!-- main menu -->
+    <cmenufooter>a2a2a2</cmenufooter>
+    <cmenutext>868686</cmenutext>
+    <cmenuseperator>191919</cmenuseperator>
+    <cselected>FFFFFF</cselected>
+    <cmenusubtitle>a2a2a2</cmenusubtitle>
+    <cmenutitle>d0d0d0</cmenutitle>
+    <cmenubg>1d1d1d</cmenubg>
+
+    <!-- global / help -->
+    <chelptext>FFFFFF</chelptext>
+    <ctextglow>0a3010</ctextglow>
+
+    <!-- selector highlight -->
+    <cselector>007744</cselector>
+    <cselectorend>00cc88</cselectorend>
+    <cgradienttype>horizontal</cgradienttype>
+
+    <!-- controller activity -->
+    <ccontroller>007744</ccontroller>
+    <cactivity>A0A0FFC0</cactivity>
+    <chotkey>FFA0A0C0</chotkey>
+
+    <!-- system view text -->
+    <cinfotext>FFFFFF</cinfotext>
+    <cdescriptiontext>FFFFFF</cdescriptiontext>
+    <cshortdescriptiontext>FFFFFF</cshortdescriptiontext>
+    <cclockcolor>FFFFFF</cclockcolor>
+    <ctextbg>00000011</ctextbg>
+
+    <!-- gamelists -->
+    <cgamelisttext>FFFFFF</cgamelisttext>
+    <cselectedtext>FFFFFF</cselectedtext>
+    <cglicons>FFFFFF</cglicons>
+    <cgldetail>FFFFFF</cgldetail>
+    <cgdescription>FFFFFF</cgdescription>
+    <cglglow>00000016</cglglow>
+    <crating>00aa55</crating>
+
+    <!-- grid / carousel -->
+    <cgtextbg>00000000</cgtextbg>
+    <cgtbg>00000000</cgtbg>
+    <cgtext>dfddda</cgtext>
+    <cgtextselect>FFFFFF</cgtextselect>
+    <cgtimage>535353</cgtimage>
+    <cgtimageselect>dfddda</cgtimageselect>
+    <cgtbgedge>00000000</cgtbgedge>
+    <cgtbgedgeselect>00aa55</cgtbgedgeselect>
+    <ccenterfade>00000000</ccenterfade>
+    <cbgcenter>00000000</cbgcenter>
+    <cbgcenterselect>00000000</cbgcenterselect>
+    <cbgedge>00000000</cbgedge>
+    <cbgedgeselect>00000000</cbgedgeselect>
+    <cgt>80808080</cgt>
+    <cgtselect>FFFFFF</cgtselect>
+
+  </variables>
+</theme>

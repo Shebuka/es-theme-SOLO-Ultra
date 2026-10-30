@@ -1,0 +1,14 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="shortdescription" extra="true">
+			<text>${type_collection}</text>
+		</text>
+		<text name="description" extra="true">
+			<text>${eidos_coll}</text>
+		</text>
+
+	</view>
+</theme>

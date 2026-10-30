@@ -1,0 +1,14 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="shortdescription" extra="true">
+			<text>${type_1995_peripheral}</text>
+		</text>
+		<text name="description" extra="true">
+			<text>${atarijaguarcd_desc}</text>
+		</text>
+
+	</view>
+</theme>

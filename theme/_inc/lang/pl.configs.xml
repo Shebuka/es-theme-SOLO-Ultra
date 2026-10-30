@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<variables>
+	<bg_dark>Ciemny</bg_dark>
+	<bg_light>Jasny</bg_light>
+	<color_amber>Bursztyn</color_amber>
+	<color_carbon>Węgiel</color_carbon>
+	<color_emerald>Szmaragd</color_emerald>
+	<color_sapphire>Szafir</color_sapphire>
+	<color_solo_red>SOLO Ciemnoczerwony</color_solo_red>
+	<delay_0>Bez opóźnienia</delay_0>
+	<delay_1>1 sekunda</delay_1>
+	<delay_2>2 sekundy</delay_2>
+	<delay_3>3 sekundy</delay_3>
+	<delay_5>5 sekund</delay_5>
+	<delay_off>Wyłącz wideo</delay_off>
+	<font_normal>Normalny</font_normal>
+	<font_small>Mały</font_small>
+	<label_default>Domyślny</label_default>
+	<label_no>Nie</label_no>
+	<label_none>Brak</label_none>
+	<label_yes>Tak</label_yes>
+	<langue>pl</langue>
+	<logo_color>Kolorowe loga</logo_color>
+	<logo_solo>Loga SOLO</logo_solo>
+	<logo_white>Białe loga</logo_white>
+	<subset_text>Rozmiar tekstu</subset_text>
+	<subset_logos>Styl logo</subset_logos>
+	<subset_backgrounds>Tło</subset_backgrounds>
+	<subset_video>Opóźnienie wideo</subset_video>
+</variables>
+</theme>

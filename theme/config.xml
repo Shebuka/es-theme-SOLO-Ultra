@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>7</formatVersion>
+
+  <!-- languages (en is the always-loaded fallback) -->
+  <include>./_inc/lang/en.xml</include>
+  <include lang="pt">./_inc/lang/pt.xml</include>
+  <include lang="pt_BR">./_inc/lang/pt.xml</include>
+  <include lang="es">./_inc/lang/es.xml</include>
+  <include lang="es_MX">./_inc/lang/es.xml</include>
+  <include lang="zh">./_inc/lang/zh.xml</include>
+  <include lang="zh_CN">./_inc/lang/zh.xml</include>
+  <include lang="fr">./_inc/lang/fr.xml</include>
+  <include lang="de">./_inc/lang/de.xml</include>
+  <include lang="ru">./_inc/lang/ru.xml</include>
+  <include lang="it">./_inc/lang/it.xml</include>
+  <include lang="jp">./_inc/lang/jp.xml</include>
+  <include lang="ja">./_inc/lang/jp.xml</include>
+  <include lang="pl">./_inc/lang/pl.xml</include>
+
+  <!-- colour schemes (built-in ThemeColorSet translation) -->
+  <include subset="colorset" name="SOLO Dark Red" displayName="${color_solo_red}">./options/colorset/solo-red.xml</include>
+  <include subset="colorset" name="Carbon" displayName="${color_carbon}">./options/colorset/carbon.xml</include>
+  <include subset="colorset" name="Sapphire" displayName="${color_sapphire}">./options/colorset/sapphire.xml</include>
+  <include subset="colorset" name="Emerald" displayName="${color_emerald}">./options/colorset/emerald.xml</include>
+  <include subset="colorset" name="Amber" displayName="${color_amber}">./options/colorset/amber.xml</include>
+
+  <!-- font size -->
+  <include subset="text" subSetDisplayName="${subset_text}" name="Normal" displayName="${font_normal}">./options/text/normal.xml</include>
+  <include subset="text" name="Small" displayName="${font_small}">./options/text/small.xml</include>
+
+  <!-- system logo style -->
+  <include subset="logos" subSetDisplayName="${subset_logos}" name="SOLO" displayName="${logo_solo}">./options/logos/solo.xml</include>
+  <include subset="logos" name="Color" displayName="${logo_color}">./options/logos/color.xml</include>
+  <include subset="logos" name="White" displayName="${logo_white}">./options/logos/white.xml</include>
+
+  <!-- background image mode -->
+  <include subset="backgrounds" subSetDisplayName="${subset_backgrounds}" name="Light" displayName="${bg_light}">./options/backgrounds/light.xml</include>
+  <include subset="backgrounds" name="Dark" displayName="${bg_dark}">./options/backgrounds/dark.xml</include>
+
+  <!-- help bar button icons (built-in ThemeIconSet translation) -->
+  <include subset="iconset" name="Default" displayName="Default">./options/iconset/default.xml</include>
+  <include subset="iconset" name="XBox" displayName="XBox">./options/iconset/xbox.xml</include>
+  <include subset="iconset" name="Famicom" displayName="Famicom">./options/iconset/famicom.xml</include>
+  <include subset="iconset" name="SNES" displayName="SNES">./options/iconset/snes.xml</include>
+  <include subset="iconset" name="PSX" displayName="PSX">./options/iconset/psx.xml</include>
+  <include subset="iconset" name="dream" displayName="Dreamcast">./options/iconset/dream.xml</include>
+  <include subset="iconset" name="saturn" displayName="Saturn">./options/iconset/saturn.xml</include>
+
+  <!-- gamelist video delay -->
+  <include subset="video" subSetDisplayName="${subset_video}" name="No delay" displayName="${delay_0}">./options/video/delay_0.xml</include>
+  <include subset="video" name="1 second" displayName="${delay_1}">./options/video/delay_1.xml</include>
+  <include subset="video" name="2 seconds" displayName="${delay_2}">./options/video/delay_2.xml</include>
+  <include subset="video" name="3 seconds" displayName="${delay_3}">./options/video/delay_3.xml</include>
+  <include subset="video" name="5 seconds" displayName="${delay_5}">./options/video/delay_5.xml</include>
+  <include subset="video" name="Off" displayName="${delay_off}">./options/video/off.xml</include>
+
+</theme>

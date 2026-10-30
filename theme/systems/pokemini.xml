@@ -1,0 +1,14 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="shortdescription" extra="true">
+			<text>${type_2001_handheld_console}</text>
+		</text>
+		<text name="description" extra="true">
+			<text>${pokemini_desc}</text>
+		</text>
+
+	</view>
+</theme>

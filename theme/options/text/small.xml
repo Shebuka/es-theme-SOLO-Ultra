@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>7</formatVersion>
+  <variables>
+
+    <!-- Small font sizes (as fraction of screen height) -->
+
+    <fz_menu_title>0.034</fz_menu_title>
+    <fz_menu_text>0.030</fz_menu_text>
+    <fz_menu_footer>0.021</fz_menu_footer>
+    <fz_menu_small>0.026</fz_menu_small>
+
+    <fz_help>0.019</fz_help>
+    <fz_small_help>0.017</fz_small_help>
+    <fz_clock>0.030</fz_clock>
+
+    <fz_gamelist>0.026</fz_gamelist>
+    <fz_gamelist_detailed>0.024</fz_gamelist_detailed>
+    <fz_gdetail_label>0.019</fz_gdetail_label>
+    <fz_gdetail_value>0.021</fz_gdetail_value>
+    <fz_gdescription>0.019</fz_gdescription>
+
+    <fz_sys_info>0.040</fz_sys_info>
+    <fz_sys_shortdesc>0.024</fz_sys_shortdesc>
+    <fz_sys_desc>0.021</fz_sys_desc>
+    <fz_logotext>0.040</fz_logotext>
+
+  </variables>
+</theme>

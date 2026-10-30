@@ -1,0 +1,14 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="shortdescription" extra="true">
+			<text>${type_1989_16_bit_console}</text>
+		</text>
+		<text name="description" extra="true">
+			<text>${supergrafx_desc}</text>
+		</text>
+
+	</view>
+</theme>
