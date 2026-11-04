@@ -6,24 +6,24 @@
     <!-- Normal font sizes (as fraction of screen height) -->
 
     <fz_menu_title>0.040</fz_menu_title>
-    <fz_menu_text>0.035</fz_menu_text>
-    <fz_menu_footer>0.025</fz_menu_footer>
-    <fz_menu_small>0.030</fz_menu_small>
+    <fz_menu_text>0.038</fz_menu_text>
+    <fz_menu_footer>0.028</fz_menu_footer>
+    <fz_menu_small>0.032</fz_menu_small>
 
-    <fz_help>0.022</fz_help>
-    <fz_small_help>0.019</fz_small_help>
+    <fz_help>0.028</fz_help>
+    <fz_small_help>0.024</fz_small_help>
     <fz_clock>0.035</fz_clock>
 
     <fz_gamelist>0.030</fz_gamelist>
     <fz_gamelist_detailed>0.028</fz_gamelist_detailed>
     <fz_gdetail_label>0.022</fz_gdetail_label>
-    <fz_gdetail_value>0.024</fz_gdetail_value>
+    <fz_gdetail_value>0.025</fz_gdetail_value>
     <fz_gdescription>0.022</fz_gdescription>
 
     <fz_sys_info>0.045</fz_sys_info>
     <fz_sys_shortdesc>0.028</fz_sys_shortdesc>
     <fz_sys_desc>0.024</fz_sys_desc>
-    <fz_logotext>0.045</fz_logotext>
+    <fz_logotext>0.050</fz_logotext>
 
   </variables>
 </theme>

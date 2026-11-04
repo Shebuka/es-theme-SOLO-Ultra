@@ -2,20 +2,8 @@
 <theme>
 	<formatVersion>7</formatVersion>
 	<variables>
-		<delay>1</delay>
-		<pandelay>1000</pandelay>
+		<video_enable>true</video_enable>
+		<video_delay_s>1</video_delay_s>
+		<video_delay_ms>1000</video_delay_ms>
 	</variables>
-
-	<view name="detailed, video">
-		<video name="md_video">
-			<delay>${delay}</delay>
-			<showSnapshotDelay>true</showSnapshotDelay>
-		</video>
-	</view>
-
-	<view name="grid">
-		<imagegrid name="gamegrid">
-			<showVideoAtDelay>${pandelay}</showVideoAtDelay>
-		</imagegrid>
-	</view>
 </theme>

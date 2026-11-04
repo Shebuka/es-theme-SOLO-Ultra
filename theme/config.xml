@@ -19,40 +19,52 @@
   <include lang="pl">./_inc/lang/pl.xml</include>
 
   <!-- colour schemes (built-in ThemeColorSet translation) -->
-  <include subset="colorset" name="SOLO Dark Red" displayName="${color_solo_red}">./options/colorset/solo-red.xml</include>
-  <include subset="colorset" name="Carbon" displayName="${color_carbon}">./options/colorset/carbon.xml</include>
-  <include subset="colorset" name="Sapphire" displayName="${color_sapphire}">./options/colorset/sapphire.xml</include>
-  <include subset="colorset" name="Emerald" displayName="${color_emerald}">./options/colorset/emerald.xml</include>
-  <include subset="colorset" name="Amber" displayName="${color_amber}">./options/colorset/amber.xml</include>
+  <subset name="colorset">
+    <include name="SOLO Dark Red" displayName="${color_solo_red}">./options/colorset/solo-red.xml</include>
+    <include name="Carbon" displayName="${color_carbon}">./options/colorset/carbon.xml</include>
+    <include name="Sapphire" displayName="${color_sapphire}">./options/colorset/sapphire.xml</include>
+    <include name="Emerald" displayName="${color_emerald}">./options/colorset/emerald.xml</include>
+    <include name="Amber" displayName="${color_amber}">./options/colorset/amber.xml</include>
+  </subset>
 
   <!-- font size -->
-  <include subset="text" subSetDisplayName="${subset_text}" name="Normal" displayName="${font_normal}">./options/text/normal.xml</include>
-  <include subset="text" name="Small" displayName="${font_small}">./options/text/small.xml</include>
+  <subset name="text" displayName="${subset_text}">
+    <include name="Normal" displayName="${font_normal}">./options/text/normal.xml</include>
+    <include name="Small" displayName="${font_small}">./options/text/small.xml</include>
+  </subset>
 
   <!-- system logo style -->
-  <include subset="logos" subSetDisplayName="${subset_logos}" name="SOLO" displayName="${logo_solo}">./options/logos/solo.xml</include>
-  <include subset="logos" name="Color" displayName="${logo_color}">./options/logos/color.xml</include>
-  <include subset="logos" name="White" displayName="${logo_white}">./options/logos/white.xml</include>
+  <subset name="logos" displayName="${subset_logos}">
+    <include name="SOLO" displayName="${logo_solo}">./options/logos/solo.xml</include>
+    <include name="Color" displayName="${logo_color}">./options/logos/color.xml</include>
+    <include name="White" displayName="${logo_white}">./options/logos/white.xml</include>
+  </subset>
 
   <!-- background image mode -->
-  <include subset="backgrounds" subSetDisplayName="${subset_backgrounds}" name="Light" displayName="${bg_light}">./options/backgrounds/light.xml</include>
-  <include subset="backgrounds" name="Dark" displayName="${bg_dark}">./options/backgrounds/dark.xml</include>
+  <subset name="backgrounds" displayName="${subset_backgrounds}">
+    <include name="Light" displayName="${bg_light}">./options/backgrounds/light.xml</include>
+    <include name="Dark" displayName="${bg_dark}">./options/backgrounds/dark.xml</include>
+  </subset>
 
   <!-- help bar button icons (built-in ThemeIconSet translation) -->
-  <include subset="iconset" name="Default" displayName="Default">./options/iconset/default.xml</include>
-  <include subset="iconset" name="XBox" displayName="XBox">./options/iconset/xbox.xml</include>
-  <include subset="iconset" name="Famicom" displayName="Famicom">./options/iconset/famicom.xml</include>
-  <include subset="iconset" name="SNES" displayName="SNES">./options/iconset/snes.xml</include>
-  <include subset="iconset" name="PSX" displayName="PSX">./options/iconset/psx.xml</include>
-  <include subset="iconset" name="dream" displayName="Dreamcast">./options/iconset/dream.xml</include>
-  <include subset="iconset" name="saturn" displayName="Saturn">./options/iconset/saturn.xml</include>
+  <subset name="iconset">
+    <include name="Default" displayName="Default">./options/iconset/default.xml</include>
+    <include name="XBox" displayName="XBox">./options/iconset/xbox.xml</include>
+    <include name="Famicom" displayName="Famicom">./options/iconset/famicom.xml</include>
+    <include name="SNES" displayName="SNES">./options/iconset/snes.xml</include>
+    <include name="PSX" displayName="PSX">./options/iconset/psx.xml</include>
+    <include name="dream" displayName="Dreamcast">./options/iconset/dream.xml</include>
+    <include name="saturn" displayName="Saturn">./options/iconset/saturn.xml</include>
+  </subset>
 
   <!-- gamelist video delay -->
-  <include subset="video" subSetDisplayName="${subset_video}" name="No delay" displayName="${delay_0}">./options/video/delay_0.xml</include>
-  <include subset="video" name="1 second" displayName="${delay_1}">./options/video/delay_1.xml</include>
-  <include subset="video" name="2 seconds" displayName="${delay_2}">./options/video/delay_2.xml</include>
-  <include subset="video" name="3 seconds" displayName="${delay_3}">./options/video/delay_3.xml</include>
-  <include subset="video" name="5 seconds" displayName="${delay_5}">./options/video/delay_5.xml</include>
-  <include subset="video" name="Off" displayName="${delay_off}">./options/video/off.xml</include>
+  <subset name="video" displayName="${subset_video}">
+    <include name="1 second" displayName="${delay_1}">./options/video/delay_1.xml</include>
+    <include name="2 seconds" displayName="${delay_2}">./options/video/delay_2.xml</include>
+    <include name="3 seconds" displayName="${delay_3}">./options/video/delay_3.xml</include>
+    <include name="5 seconds" displayName="${delay_5}">./options/video/delay_5.xml</include>
+    <include name="No delay" displayName="${delay_0}">./options/video/delay_0.xml</include>
+    <include name="Off" displayName="${delay_off}">./options/video/off.xml</include>
+  </subset>
 
 </theme>

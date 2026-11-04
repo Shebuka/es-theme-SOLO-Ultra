@@ -2,6 +2,7 @@
 <theme>
 <formatVersion>7</formatVersion>
 <variables>
+	<font_help>BebasNeue-Regular.ttf</font_help>
 	<font_menu_light>OpenSans-Light.ttf</font_menu_light>
 	<font_menu_semibold>OpenSans-SemiBold.ttf</font_menu_semibold>
 	<font_system_title>Cabin-Bold.ttf</font_system_title>

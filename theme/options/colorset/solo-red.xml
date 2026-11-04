@@ -3,16 +3,16 @@
   <formatVersion>7</formatVersion>
   <variables>
 
-    <!-- SOLO Dark Red (default) — Alekfull-SOLO signature scheme -->
+    <!-- SOLO Dark Red (default) — signature scheme -->
 
     <!-- main menu -->
-    <cmenufooter>a2a2a2</cmenufooter>
-    <cmenutext>868686</cmenutext>
-    <cmenuseperator>191919</cmenuseperator>
+    <cmenufooter>AAAAAA</cmenufooter>
+    <cmenutext>BBBBBB</cmenutext>
+    <cmenuseperator>770000</cmenuseperator>
     <cselected>FFFFFF</cselected>
-    <cmenusubtitle>a2a2a2</cmenusubtitle>
+    <cmenusubtitle>BBBBBB</cmenusubtitle>
     <cmenutitle>d0d0d0</cmenutitle>
-    <cmenubg>1d1d1d</cmenubg>
+    <cmenubg>330000</cmenubg>
 
     <!-- global / help -->
     <chelptext>FFFFFF</chelptext>
@@ -42,7 +42,7 @@
     <cgldetail>FFFFFF</cgldetail>
     <cgdescription>FFFFFF</cgdescription>
     <cglglow>00000016</cglglow>
-    <crating>cc0000</crating>
+    <crating>FFFFFF</crating>
 
     <!-- grid / carousel -->
     <cgtextbg>00000000</cgtextbg>

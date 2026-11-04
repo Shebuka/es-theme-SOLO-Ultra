@@ -7,11 +7,17 @@
 
   <view name="system">
     <sound name="bgsound">
-      <!-- try ogg -->
       <path>./_art/sounds/${system.theme}.ogg</path>
-      <!-- try mp3 -->
-      <path>./_art/sounds/${system.theme}.mp3</path>
     </sound>
+    <sound name="back">
+      <path>./_art/sounds/ui/back.wav</path>
+    </sound>
+    <!-- <sound name="menuOpen">
+      <path>./_art/sounds/ui/menuOpen.wav</path>
+    </sound>
+    <sound name="launch">
+      <path>./_art/sounds/ui/launch.wav</path>
+    </sound> -->
 
     <!-- full-screen background art (path set by bgset option) -->
     <image name="background" extra="true">
@@ -29,7 +35,6 @@
       <logoAlignment>right</logoAlignment>
       <maxLogoCount>3</maxLogoCount>
       <defaultTransition>instant</defaultTransition>
-      <!-- fallback (16:9) -->
       <pos>1.00 0.00</pos>
       <origin>1.00 0.00</origin>
       <size>0.30 1.0</size>
@@ -50,7 +55,6 @@
 
     <!-- system logo (path set by logoset option) -->
     <image name="logo">
-      <!-- fallback (16:9) -->
       <pos>0.50 0.10</pos>
       <origin>0.50 0.00</origin>
       <maxSize>0.40 0.15</maxSize>
@@ -61,6 +65,14 @@
     <image name="logo" if="${screen.ratio} == '1/1'">
       <maxSize>0.50 0.20</maxSize>
     </image>
+    <text name="logoText">
+      <fontPath>./_inc/fonts/${font_system_title}</fontPath>
+      <fontSize>${fz_logotext}</fontSize>
+      <color>${cinfotext}</color>
+      <glowColor>000000</glowColor>
+      <glowSize>1.0</glowSize>
+      <rotation>-14</rotation>
+    </text>
 
     <!-- system info (game count) -->
     <text name="systemInfo">
@@ -89,7 +101,6 @@
       <glowColor>000000</glowColor>
       <glowSize>1.0</glowSize>
       <alignment>left</alignment>
-      <!-- fallback (16:9) -->
       <pos>0.02 0.45</pos>
       <origin>0.00 0.50</origin>
       <size>0 0</size>
@@ -104,7 +115,6 @@
       <glowSize>1.0</glowSize>
       <alignment>left</alignment>
       <lineSpacing>1.4</lineSpacing>
-      <!-- fallback (16:9) -->
       <pos>0.02 0.50</pos>
       <origin>0 0</origin>
       <size>0.3 0.0</size>
@@ -123,7 +133,6 @@
       <path>./_art/controllers/${system.theme}.png</path>
       <horizontalAlignment>center</horizontalAlignment>
       <verticalAlignment>center</verticalAlignment>
-      <!-- fallback (16:9) -->
       <pos>0.20 0.85</pos>
       <origin>0.5 0.5</origin>
       <maxSize>0.40 0.15</maxSize>

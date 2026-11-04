@@ -45,10 +45,10 @@
 
   </view>
 
-  <view name="menu, system, basic, detailed, grid, video">
+  <view name="menu, system, basic, detailed, grid">
     <!-- help bar -->
     <helpsystem name="help">
-      <fontPath>./_inc/fonts/${font_system_desc}</fontPath>
+      <fontPath>./_inc/fonts/${font_help}</fontPath>
       <fontSize>${fz_help}</fontSize>
       <textColor>${chelptext}</textColor>
       <iconColor>${chelptext}</iconColor>
@@ -63,7 +63,7 @@
       <iconB>./_art/help_icons/${helpiconset}/b.svg</iconB>
       <iconX>./_art/help_icons/${helpiconset}/x.svg</iconX>
       <iconY>./_art/help_icons/${helpiconset}/y.svg</iconY>
-      <pos>0.50 0.99</pos>
+      <pos>0.50 0.995</pos>
       <origin>0.50 1.00</origin>
     </helpsystem>
 
@@ -117,8 +117,6 @@
 
     <menuBackground name="menubg">
       <color>${cmenubg}</color>
-      <path>./_art/back.png</path>
-      <fadePath>./_art/fade.png</fadePath>
     </menuBackground>
 
     <menuIcons name="menuicons">

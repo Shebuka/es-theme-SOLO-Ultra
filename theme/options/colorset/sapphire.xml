@@ -7,8 +7,8 @@
 
     <!-- main menu -->
     <cmenufooter>a2a2a2</cmenufooter>
-    <cmenutext>868686</cmenutext>
-    <cmenuseperator>191919</cmenuseperator>
+    <cmenutext>BBBBBB</cmenutext>
+    <cmenuseperator>0066cc</cmenuseperator>
     <cselected>FFFFFF</cselected>
     <cmenusubtitle>a2a2a2</cmenusubtitle>
     <cmenutitle>d0d0d0</cmenutitle>
@@ -42,7 +42,7 @@
     <cgldetail>FFFFFF</cgldetail>
     <cgdescription>FFFFFF</cgdescription>
     <cglglow>00000016</cglglow>
-    <crating>0066cc</crating>
+    <crating>FFFFFF</crating>
 
     <!-- grid / carousel -->
     <cgtextbg>00000000</cgtextbg>

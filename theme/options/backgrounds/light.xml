@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <theme>
 	<formatVersion>7</formatVersion>
-	<view name="system, basic, detailed, grid, video">
+  <variables>
+		<background_style>light</background_style>
+	</variables>
+	<view name="system, basic, detailed, grid">
 		<image name="background" extra="true">
-			<path>./../../_art/backgrounds/light/default.jpg</path>
-			<path>./../../_art/backgrounds/light/${system.theme}.jpg</path>
+			<path>./../../_art/backgrounds/${background_style}/default.jpg</path>
+			<path>./../../_art/backgrounds/${background_style}/${system.theme}.jpg</path>
 		</image>
 	</view>
 </theme>
