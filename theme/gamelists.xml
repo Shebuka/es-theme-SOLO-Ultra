@@ -73,7 +73,7 @@
 
     <!-- gamelist: left column -->
     <textlist name="gamelist">
-      <pos>0.0200 0.1500</pos>
+      <pos>0.02 0.1500</pos>
       <size>0.3400 0.81</size>
       <scrollSound>./_art/sounds/ui/scroll.wav</scrollSound>
       <primaryColor>${cgamelisttext}</primaryColor>
@@ -89,7 +89,7 @@
 
     <image name="md_marquee">
       <origin>0.5 0.5</origin>
-      <pos>0.6800 0.0900</pos>
+      <pos>0.68 0.0900</pos>
       <maxSize>0.60 0.14</maxSize>
     </image>
 
@@ -114,7 +114,7 @@
     </video>
     <!-- <image name="md_image">
       <origin>0.5 0.5</origin>
-      <pos>0.6800 0.3800</pos>
+      <pos>0.68 0.3800</pos>
       <maxSize>0.6000 0.4</maxSize>
     </image> -->
 
@@ -144,79 +144,79 @@
 
     <!-- first row -->
     <image name="e_dev_icon" extra="true">
-      <pos>0.385 0.6200</pos>
+      <pos>0.385 0.62</pos>
       <maxSize>0.03 0.03</maxSize>
       <path>./_art/gamelist_icons/game_info_developer.svg</path>
     </image>
     <text name="md_developer">
-      <pos>0.4200 0.6200</pos>
+      <pos>0.4200 0.62</pos>
       <size>0.26 0.0500</size>
     </text>
 
     <image name="e_genre_icon" extra="true">
-      <pos>0.685 0.6200</pos>
+      <pos>0.685 0.62</pos>
       <maxSize>0.03 0.03</maxSize>
       <path>./_art/gamelist_icons/game_info_genre.svg</path>
     </image>
     <text name="md_genre">
-      <pos>0.7200 0.6200</pos>
+      <pos>0.7200 0.62</pos>
       <size>0.26 0.0500</size>
     </text>
 
     <!-- second row -->
     <image name="e_pub_icon" extra="true">
-      <pos>0.385 0.6800</pos>
+      <pos>0.385 0.68</pos>
       <maxSize>0.03 0.03</maxSize>
       <path>./_art/gamelist_icons/game_info_publisher.svg</path>
     </image>
     <text name="md_publisher">
-      <pos>0.4200 0.6800</pos>
+      <pos>0.4200 0.68</pos>
       <size>0.26 0.0500</size>
     </text>
 
     <image name="e_date_icon" extra="true">
-      <pos>0.685 0.6800</pos>
+      <pos>0.685 0.68</pos>
       <maxSize>0.03 0.03</maxSize>
       <path>./_art/gamelist_icons/game_info_releasedate.svg</path>
     </image>
     <datetime name="md_releasedate">
-      <pos>0.7200 0.6800</pos>
+      <pos>0.7200 0.68</pos>
       <size>0.26 0.0500</size>
     </datetime>
 
     <!-- third row -->
     <image name="e_players_icon" extra="true">
-      <pos>0.385 0.7400</pos>
+      <pos>0.385 0.74</pos>
       <maxSize>0.03 0.03</maxSize>
       <path>./_art/gamelist_icons/game_info_players.svg</path>
     </image>
     <text name="md_players">
-      <pos>0.4200 0.7400</pos>
+      <pos>0.4200 0.74</pos>
       <size>0.26 0.0500</size>
     </text>
 
     <image name="e_count_icon" extra="true">
-      <pos>0.535 0.7400</pos>
+      <pos>0.535 0.74</pos>
       <maxSize>0.03 0.03</maxSize>
       <path>./_art/gamelist_icons/game_info_playcount.svg</path>
     </image>
     <text name="md_playcount">
-      <pos>0.5700 0.7400</pos>
+      <pos>0.5700 0.74</pos>
       <size>0.26 0.0500</size>
     </text>
 
     <image name="e_time_icon" extra="true">
-      <pos>0.685 0.7400</pos>
+      <pos>0.685 0.74</pos>
       <maxSize>0.03 0.03</maxSize>
       <path>./_art/gamelist_icons/game_info_gametime.svg</path>
     </image>
     <text name="md_gametime">
-      <pos>0.7200 0.7400</pos>
+      <pos>0.7200 0.74</pos>
       <size>0.26 0.0500</size>
       <visible>false</visible>
     </text>
     <datetime name="md_lastplayed">
-      <pos>0.7200 0.7400</pos>
+      <pos>0.7200 0.74</pos>
       <size>0.26 0.0500</size>
     </datetime>
 
@@ -375,7 +375,7 @@
     <imagegrid name="gamegrid">
       <pos>0.02 0.05</pos>
       <size>0.60 0.90</size>
-      <autoLayout>4 2</autoLayout>
+      <autoLayout>4 3</autoLayout>
       <showVideoAtDelay>86400000</showVideoAtDelay>
       <imageSizeMode>maxSize</imageSizeMode>
     </imagegrid>
@@ -442,7 +442,7 @@
       <path>./_art/gamelist_icons/game_info_genre.svg</path>
     </image>
     <text name="md_genre">
-      <pos>0.6800 0.500</pos>
+      <pos>0.68 0.500</pos>
       <size>0.28 0.0500</size>
     </text>
 
@@ -453,7 +453,7 @@
       <path>./_art/gamelist_icons/game_info_developer.svg</path>
     </image>
     <text name="md_developer">
-      <pos>0.6800 0.540</pos>
+      <pos>0.68 0.540</pos>
       <size>0.28 0.0500</size>
     </text>
 
@@ -464,18 +464,18 @@
       <path>./_art/gamelist_icons/game_info_publisher.svg</path>
     </image>
     <text name="md_publisher">
-      <pos>0.6800 0.5800</pos>
+      <pos>0.68 0.5800</pos>
       <size>0.28 0.0500</size>
     </text>
 
     <!-- fourth row -->
     <image name="e_date_icon" extra="true">
-      <pos>0.64 0.6200</pos>
+      <pos>0.64 0.62</pos>
       <maxSize>0.03 0.03</maxSize>
       <path>./_art/gamelist_icons/game_info_releasedate.svg</path>
     </image>
     <datetime name="md_releasedate">
-      <pos>0.6800 0.6200</pos>
+      <pos>0.68 0.62</pos>
       <size>0.28 0.0500</size>
     </datetime>
 
@@ -486,7 +486,7 @@
       <path>./_art/gamelist_icons/game_info_players.svg</path>
     </image>
     <text name="md_players">
-      <pos>0.6800 0.6600</pos>
+      <pos>0.68 0.6600</pos>
       <size>0.28 0.0500</size>
     </text>
     <image name="e_count_icon" extra="true">
@@ -506,20 +506,20 @@
       <path>./_art/gamelist_icons/game_info_gametime.svg</path>
     </image>
     <text name="md_gametime">
-      <pos>0.6800 0.7000</pos>
+      <pos>0.68 0.7000</pos>
       <size>0.28 0.0500</size>
       <visible>false</visible>
     </text>
     <datetime name="md_lastplayed">
-      <pos>0.6800 0.7000</pos>
+      <pos>0.68 0.7000</pos>
       <size>0.28 0.0500</size>
     </datetime>
 
     <!-- seventh row -->
     <text name="md_description">
       <origin>0 0</origin>
-      <pos>0.6400 0.7400</pos>
-      <size>0.34 0.210</size>
+      <pos>0.64 0.74</pos>
+      <size>0.34 0.21</size>
       <fontPath>./_inc/fonts/${font_gamelist_desc}</fontPath>
       <fontSize>${fz_gdescription}</fontSize>
       <color>${cgdescription}</color>
@@ -641,86 +641,86 @@
 
     <!-- first row -->
     <image name="e_dev_icon" extra="true">
-      <pos>0.025 0.6200</pos>
+      <pos>0.025 0.62</pos>
       <maxSize>0.03 0.03</maxSize>
       <path>./_art/gamelist_icons/game_info_developer.svg</path>
     </image>
     <text name="md_developer">
-      <pos>0.0600 0.6200</pos>
+      <pos>0.06 0.62</pos>
       <size>0.24 0.0500</size>
     </text>
 
     <image name="e_genre_icon" extra="true">
-      <pos>0.295 0.6200</pos>
+      <pos>0.295 0.62</pos>
       <maxSize>0.03 0.03</maxSize>
       <path>./_art/gamelist_icons/game_info_genre.svg</path>
     </image>
     <text name="md_genre">
-      <pos>0.3300 0.6200</pos>
+      <pos>0.33 0.62</pos>
       <size>0.24 0.0500</size>
     </text>
 
     <!-- second row -->
     <image name="e_pub_icon" extra="true">
-      <pos>0.025 0.6800</pos>
+      <pos>0.025 0.68</pos>
       <maxSize>0.03 0.03</maxSize>
       <path>./_art/gamelist_icons/game_info_publisher.svg</path>
     </image>
     <text name="md_publisher">
-      <pos>0.0600 0.6800</pos>
+      <pos>0.06 0.68</pos>
       <size>0.24 0.0500</size>
     </text>
 
     <image name="e_date_icon" extra="true">
-      <pos>0.295 0.6800</pos>
+      <pos>0.295 0.68</pos>
       <maxSize>0.03 0.03</maxSize>
       <path>./_art/gamelist_icons/game_info_releasedate.svg</path>
     </image>
     <datetime name="md_releasedate">
-      <pos>0.3300 0.6800</pos>
+      <pos>0.33 0.68</pos>
       <size>0.24 0.0500</size>
     </datetime>
 
     <!-- third row -->
     <image name="e_players_icon" extra="true">
-      <pos>0.025 0.7400</pos>
+      <pos>0.025 0.74</pos>
       <maxSize>0.03 0.03</maxSize>
       <path>./_art/gamelist_icons/game_info_players.svg</path>
     </image>
     <text name="md_players">
-      <pos>0.0600 0.7400</pos>
+      <pos>0.06 0.74</pos>
       <size>0.24 0.0500</size>
     </text>
 
     <image name="e_count_icon" extra="true">
-      <pos>0.175 0.7400</pos>
+      <pos>0.175 0.74</pos>
       <maxSize>0.03 0.03</maxSize>
       <path>./_art/gamelist_icons/game_info_playcount.svg</path>
     </image>
     <text name="md_playcount">
-      <pos>0.2100 0.7400</pos>
+      <pos>0.21 0.74</pos>
       <size>0.24 0.0500</size>
     </text>
 
     <image name="e_time_icon" extra="true">
-      <pos>0.295 0.7400</pos>
+      <pos>0.295 0.74</pos>
       <maxSize>0.03 0.03</maxSize>
       <path>./_art/gamelist_icons/game_info_gametime.svg</path>
     </image>
     <text name="md_gametime">
-      <pos>0.3300 0.7400</pos>
+      <pos>0.33 0.74</pos>
       <size>0.24 0.0500</size>
       <visible>false</visible>
     </text>
     <datetime name="md_lastplayed">
-      <pos>0.3300 0.7400</pos>
+      <pos>0.33 0.74</pos>
       <size>0.24 0.0500</size>
     </datetime>
 
     <!-- fourth row -->
     <text name="md_description">
       <origin>0 0</origin>
-      <pos>0.0200 0.7700</pos>
+      <pos>0.02 0.77</pos>
       <size>0.54 0.180</size>
       <fontPath>./_inc/fonts/${font_gamelist_desc}</fontPath>
       <fontSize>${fz_gdescription}</fontSize>
@@ -761,14 +761,32 @@
     </rating>
   </customView>
 
-  <customView name="Tiles" inherits="grid" displayName="${tilesViewName}">
+  <customView name="Tiles + Marquee" inherits="grid" displayName="${tilesVideoMarqueeViewName}">
+    <image name="logo">
+      <origin>1 0</origin>
+      <pos>0.9 0.1</pos>
+    </image>
+
+    <!-- full-screen background art (path set by bgset option) -->
+    <image name="background">
+      <origin>0.5 0.5</origin>
+      <pos>0.5 0.5</pos>
+      <minSize>1 1</minSize>
+      <horizontalAlignment>center</horizontalAlignment>
+      <path>./_art/backgrounds/${background_style}/default.jpg</path>
+      <path>./_art/backgrounds/${background_style}/${system.theme}.jpg</path>
+    </image>
+
     <imagegrid name="gamegrid">
       <autoLayout>3 2</autoLayout>
       <autoLayoutSelectedZoom>1.02</autoLayoutSelectedZoom>
       <imageSource>image</imageSource>
       <margin>0.005 0.010</margin>
-      <padding>0.03 0.05 0.03 0.04</padding>
-      <zIndex>11</zIndex>
+      <padding>0.03 0.04 0.03 0.04</padding>
+      <showVideoAtDelay>${video_delay_ms}</showVideoAtDelay>
+    </imagegrid>
+    <imagegrid name="gamegrid" if="${screen.ratio} == '1/1'">
+      <autoLayout>3 3</autoLayout>
     </imagegrid>
     <gridtile name="default">
       <size>0.225 0.254</size>
@@ -776,23 +794,17 @@
       <backgroundEdgeColor>FFFFFF20</backgroundEdgeColor>
       <padding>1 1</padding>
       <imageSizeMode>minSize</imageSizeMode>
-      <imageColor>FFFFFFAA</imageColor>
-      <backgroundCornerSize>0 0</backgroundCornerSize>
-      <backgroundCornerSize>0.06</backgroundCornerSize>
+      <imageColor>A0A0A0AA</imageColor>
+      <backgroundCornerSize>0.06 0.06</backgroundCornerSize>
     </gridtile>
     <gridtile name="selected">
       <size>0.230 0.259</size>
       <padding>5 5</padding>
       <imageColor>FFFFFFFF</imageColor>
-      <backgroundCornerSize>0 0</backgroundCornerSize>
-      <backgroundCornerSize>0.06</backgroundCornerSize>
+      <backgroundCornerSize>0.06 0.06</backgroundCornerSize>
     </gridtile>
-    <ninepatch name="gridtile.background:selected">
-      <animateColor>${cgtbgedgeselect}</animateColor>
-      <animateColorTime>350</animateColorTime>
-    </ninepatch>
     <image name="gridtile.image">
-      <roundCorners>0.06</roundCorners>
+      <roundCorners>0.06 0.06</roundCorners>
     </image>
 
     <text name="gridtile">
@@ -809,8 +821,12 @@
       <glowColor>${cglglow}</glowColor>
       <glowSize>3</glowSize>
     </text>
+    <ninepatch name="gridtile.background:selected">
+      <animateColor>${cgtbgedgeselect}</animateColor>
+      <animateColorTime>350</animateColorTime>
+    </ninepatch>
     <image name="gridtile.favorite">
-      <path>:/star_filled.svg</path>
+      <path>./_art/gamelist_icons/rating_filled.svg</path>
       <origin>0.5 0.5</origin>
       <pos>0.93 0.07</pos>
       <maxSize>0.10 0.10</maxSize>
@@ -820,17 +836,9 @@
     <image name="gridtile.favorite:selected">
       <color>FFFF00D0</color>
     </image>
-  </customView>
 
-  <customView name="Tiles + Video + Marquee" inherits="Tiles" displayName="${tilesVideoMarqueeViewName}">
-    <imagegrid name="gamegrid">
-      <showVideoAtDelay>${video_delay_ms}</showVideoAtDelay>
-    </imagegrid>
-    <gridtile name="default">
-      <imageColor>A0A0A0FF</imageColor>
-    </gridtile>
     <image name="gridtile.marquee">
-      <color>FFFFFFD0</color>
+      <color>FFFFFFDD</color>
       <origin>0.5 0.5</origin>
       <pos>0.5 0.5</pos>
       <size>0.50 0.50</size>
@@ -840,219 +848,229 @@
       <size>0.65 0.65</size>
     </image>
     <image name="gridtile.marquee:videoplaying">
-      <color>FFFFFFA0</color>
+      <color>FFFFFFBB</color>
       <pos>0.5 0.17</pos>
       <size>0.50 0.25</size>
     </image>
+
     <text name="gridtile">
       <pos>0 0</pos>
       <size>1 1</size>
+      <padding>0.1 0</padding>
       <fontSize>0.040</fontSize>
       <fontPath>./_inc/fonts/${font_gamelist_title}</fontPath>
-      <padding>0.1 0</padding>
+      <color>${cgt}</color>
+      <backgroundColor>00000000</backgroundColor>
+      <alignment>center</alignment>
+      <glowColor>${cglglow}</glowColor>
+      <glowSize>3</glowSize>
     </text>
   </customView>
 
   <customView name="Fanart" inherits="grid" tinyScreen="false" displayName="${fanartViewName}">
-    <text name="md_name">
-      <color>${cselectedtext}</color>
-      <pos>0.025 0.16</pos>
-      <size>0.92 0.10</size>
-      <alignment>left</alignment>
-      <glowColor>${cglglow}</glowColor>
-      <glowSize>4</glowSize>
-      <fontPath>./_inc/fonts/${font_gamelist_meta}</fontPath>
-      <zIndex>0</zIndex>
-    </text>
-
-    <imagegrid name="gamegrid">
-      <pos>0.72 0</pos>
-      <size>0.3 1</size>
-      <scrollDirection>vertical</scrollDirection>
-      <autoLayout>1 7</autoLayout>
-      <autoLayoutSelectedZoom>1.30</autoLayoutSelectedZoom>
-      <margin>0.005 0.010</margin>
-      <centerSelection>true</centerSelection>
-      <scrollLoop>true</scrollLoop>
-      <imageSource>marquee</imageSource>
-    </imagegrid>
-    <gridtile name="default">
-      <padding>64 16</padding>
-      <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
-      <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
-      <imageSizeMode>maxSize</imageSizeMode>
-      <imageColor>FFFFFFAA</imageColor>
-      <reflexion>0.11 0.0</reflexion>
-    </gridtile>
-    <gridtile name="selected">
-      <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
-      <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
-      <padding>64 16</padding>
-    </gridtile>
-    <text name="gridtile">
-      <color>${cgt}</color>
-      <fontSize>0.016</fontSize>
-      <size>1 0</size>
-    </text>
-    <text name="gridtile_selected">
-      <color>FFFFFF00</color>
-      <fontSize>0.035</fontSize>
-      <size>1 0</size>
-    </text>
-
-    <text name="md_description">
-      <pos>0.025 0.36</pos>
-      <size>0.32 0.22</size>
-      <fontSize>0.025</fontSize>
-      <color>${cgdescription}</color>
-      <glowColor>${cglglow}</glowColor>
-      <glowSize>1</glowSize>
-      <alignment>left</alignment>
-    </text>
-    <video name="md_video">
-      <origin>0 0</origin>
-      <pos>0.025 0.62</pos>
-      <minSize>0.30 0.30</minSize>
-      <delay>${video_delay_s}</delay>
-      <showSnapshotDelay>true</showSnapshotDelay>
-      <snapshotSource>image</snapshotSource>
-      <showSnapshotNoVideo>true</showSnapshotNoVideo>
-      <zIndex>6</zIndex>
-    </video>
-
-    <image name="logo">
-      <zIndex>0</zIndex>
-    </image>
-
-    <image name="md_marquee">
-      <pos>0.155 0.16</pos>
-      <size>0.25 0</size>
-      <zIndex>36</zIndex>
-    </image>
-
-    <rating name="md_rating">
-      <pos>0.04 0.88</pos>
-      <size>0.25 0.05</size>
-      <color>${crating}</color>
-      <unfilledColor>808080</unfilledColor>
-      <fontPath>./_inc/fonts/${font_gamelist_meta}</fontPath>
-    </rating>
-
     <image name="md_image">
       <origin>0.5 0.5</origin>
       <pos>0.5 0.5</pos>
       <minSize>1 1</minSize>
-      <zIndex>4</zIndex>
+      <zIndex>0</zIndex>
     </image>
 
-    <text name="md_publisher">
-      <color>ffffff00</color>
-      <fontPath>./_inc/fonts/${font_gamelist_meta}</fontPath>
-      <pos>0.42 0.63</pos>
-    </text>
-  </customView>
-
-  <customView name="Fanart (Full Video + Logo)" inherits="grid" tinyScreen="false" displayName="${fanartvlViewName}">
-    <text name="md_name">
-      <color>${cselectedtext}</color>
-      <pos>0.025 0.16</pos>
-      <size>0.92 0.10</size>
-      <alignment>left</alignment>
-      <glowColor>${cglglow}</glowColor>
-      <glowSize>4</glowSize>
-      <fontPath>./_inc/fonts/${font_gamelist_title}</fontPath>
-    </text>
-    <text name="md_developer">
-      <pos>0.12 0.65</pos>
-      <size>0.42 0.05</size>
-      <fontSize>0.025</fontSize>
-      <color>${cgldetail}</color>
-      <glowColor>${cglglow}</glowColor>
-      <glowSize>1</glowSize>
-      <alignment>left</alignment>
-    </text>
-
     <imagegrid name="gamegrid">
-      <pos>0.72 0</pos>
-      <size>0.3 1</size>
-      <scrollDirection>vertical</scrollDirection>
-      <autoLayout>1 7</autoLayout>
-      <autoLayoutSelectedZoom>1.30</autoLayoutSelectedZoom>
-      <margin>0.005 0.010</margin>
-      <centerSelection>true</centerSelection>
-      <scrollLoop>true</scrollLoop>
-      <imageSource>marquee</imageSource>
-    </imagegrid>
-    <gridtile name="default">
-      <padding>64 16</padding>
-      <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
-      <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
-      <imageSizeMode>maxSize</imageSizeMode>
-      <imageColor>FFFFFFAA</imageColor>
-      <reflexion>0.11 0.0</reflexion>
-    </gridtile>
-    <gridtile name="selected">
-      <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
-      <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
-      <padding>64 16</padding>
-    </gridtile>
-    <text name="gridtile">
-      <color>${cgt}</color>
-      <fontSize>0.016</fontSize>
-      <size>1 0</size>
-    </text>
-    <text name="gridtile_selected">
-      <color>FFFFFF00</color>
-      <fontSize>0.035</fontSize>
-      <size>1 0</size>
-    </text>
-
-    <text name="md_description">
-      <pos>0.025 0.36</pos>
-      <size>0.32 0.29</size>
-      <fontSize>0.025</fontSize>
-      <color>${cgdescription}</color>
-      <glowColor>${cglglow}</glowColor>
-      <glowSize>1</glowSize>
-      <alignment>left</alignment>
-    </text>
-    <video name="md_video">
-      <origin>0 0</origin>
       <pos>0 0</pos>
-      <minSize>1 1</minSize>
+      <size>0.38 1</size>
+      <scrollDirection>vertical</scrollDirection>
+      <autoLayout>1 7</autoLayout>
+      <autoLayoutSelectedZoom>1.30</autoLayoutSelectedZoom>
+      <margin>0.005 0.010</margin>
+      <centerSelection>true</centerSelection>
+      <scrollLoop>true</scrollLoop>
+      <imageSource>marquee</imageSource>
+    </imagegrid>
+    <gridtile name="default">
+      <padding>64 16</padding>
+      <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
+      <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
+      <imageSizeMode>maxSize</imageSizeMode>
+      <imageColor>FFFFFFAA</imageColor>
+      <reflexion>0.11 0.0</reflexion>
+    </gridtile>
+    <gridtile name="selected">
+      <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
+      <backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
+      <padding>64 16</padding>
+    </gridtile>
+    <text name="gridtile">
+      <color>${cgt}</color>
+      <fontSize>0.016</fontSize>
+      <size>1 0</size>
+    </text>
+    <text name="gridtile_selected">
+      <color>FFFFFF00</color>
+      <fontSize>0.035</fontSize>
+      <size>1 0</size>
+    </text>
+
+    <!-- right 1/3 details + metadata -->
+    <image name="md_marquee">
+      <origin>0.5 0.5</origin>
+      <pos>0.81 0.09</pos>
+      <maxSize>0.34 0.14</maxSize>
+      <horizontalAlignment>center</horizontalAlignment>
+    </image>
+
+    <rating name="md_rating">
+      <origin>0.5 0.5</origin>
+      <pos>0.81 0.16</pos>
+      <size>0.25 0.05</size>
+      <filledPath>./_art/gamelist_icons/rating_filled.svg</filledPath>
+      <unfilledPath>./_art/gamelist_icons/rating_unfilled.svg</unfilledPath>
+      <color>${crating}</color>
+      <unfilledColor>808080</unfilledColor>
+    </rating>
+
+    <video name="md_video">
+      <origin>0.5 0.5</origin>
+      <pos>0.81 0.32</pos>
+      <minSize>0.34 0.30</minSize>
       <delay>${video_delay_s}</delay>
       <showSnapshotDelay>true</showSnapshotDelay>
       <snapshotSource>image</snapshotSource>
       <showSnapshotNoVideo>true</showSnapshotNoVideo>
     </video>
 
-    <image name="md_marquee">
-      <pos>0.155 0.16</pos>
-      <size>0.25 0</size>
-    </image>
-
-    <rating name="md_rating">
-      <pos>0.02 0.66</pos>
-      <size>0.25 0.05</size>
-      <color>${crating}</color>
-      <unfilledColor>808080</unfilledColor>
-      <fontPath>./_inc/fonts/${font_gamelist_meta}</fontPath>
-    </rating>
-
-    <image name="logo">
-    </image>
-
-    <image name="md_image">
-      <origin>0.5 0.5</origin>
-      <pos>0.5 0.5</pos>
-      <minSize>1 1</minSize>
-    </image>
-
-    <text name="md_publisher">
-      <color>ffffff00</color>
-      <fontPath>./_inc/fonts/${font_gamelist_meta}</fontPath>
-      <pos>0.42 0.63</pos>
+    <!-- metadata block, common init -->
+    <text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount, md_lbl_gametime">
+      <visible>false</visible>
     </text>
+    <image name="e_dev_icon, e_genre_icon, e_pub_icon, e_date_icon, e_players_icon, e_count_icon, e_time_icon" extra="true">
+      <origin>0 0.5</origin>
+      <color>${cglicons}</color>
+      <zIndex>40</zIndex>
+    </image>
+    <text name="md_developer, md_publisher, md_genre, md_players, md_playcount, md_gametime">
+      <origin>0 0.5</origin>
+      <fontPath>./_inc/fonts/${font_gamelist_meta}</fontPath>
+      <fontSize>${fz_gdetail_value}</fontSize>
+      <color>${cgldetail}</color>
+      <alignment>left</alignment>
+    </text>
+    <datetime name="md_releasedate, md_lastplayed">
+      <origin>0 0.5</origin>
+      <fontPath>./_inc/fonts/${font_gamelist_meta}</fontPath>
+      <fontSize>${fz_gdetail_value}</fontSize>
+      <color>${cgldetail}</color>
+      <alignment>left</alignment>
+    </datetime>
+
+    <!-- first row -->
+    <image name="e_genre_icon" extra="true">
+      <pos>0.64 0.500</pos>
+      <maxSize>0.03 0.03</maxSize>
+      <path>./_art/gamelist_icons/game_info_genre.svg</path>
+    </image>
+    <text name="md_genre">
+      <pos>0.68 0.500</pos>
+      <size>0.28 0.0500</size>
+    </text>
+
+    <!-- second row -->
+    <image name="e_dev_icon" extra="true">
+      <pos>0.64 0.540</pos>
+      <maxSize>0.03 0.03</maxSize>
+      <path>./_art/gamelist_icons/game_info_developer.svg</path>
+    </image>
+    <text name="md_developer">
+      <pos>0.68 0.540</pos>
+      <size>0.28 0.0500</size>
+    </text>
+
+    <!-- third row -->
+    <image name="e_pub_icon" extra="true">
+      <pos>0.64 0.5800</pos>
+      <maxSize>0.03 0.03</maxSize>
+      <path>./_art/gamelist_icons/game_info_publisher.svg</path>
+    </image>
+    <text name="md_publisher">
+      <pos>0.68 0.5800</pos>
+      <size>0.28 0.0500</size>
+    </text>
+
+    <!-- fourth row -->
+    <image name="e_date_icon" extra="true">
+      <pos>0.64 0.62</pos>
+      <maxSize>0.03 0.03</maxSize>
+      <path>./_art/gamelist_icons/game_info_releasedate.svg</path>
+    </image>
+    <datetime name="md_releasedate">
+      <pos>0.68 0.62</pos>
+      <size>0.28 0.0500</size>
+    </datetime>
+
+    <!-- fifth row -->
+    <image name="e_players_icon" extra="true">
+      <pos>0.64 0.6600</pos>
+      <maxSize>0.03 0.03</maxSize>
+      <path>./_art/gamelist_icons/game_info_players.svg</path>
+    </image>
+    <text name="md_players">
+      <pos>0.68 0.6600</pos>
+      <size>0.28 0.0500</size>
+    </text>
+    <image name="e_count_icon" extra="true">
+      <pos>0.80 0.6600</pos>
+      <maxSize>0.03 0.03</maxSize>
+      <path>./_art/gamelist_icons/game_info_playcount.svg</path>
+    </image>
+    <text name="md_playcount">
+      <pos>0.8400 0.6600</pos>
+      <size>0.28 0.0500</size>
+    </text>
+
+    <!-- sixth row -->
+    <image name="e_time_icon" extra="true">
+      <pos>0.64 0.7000</pos>
+      <maxSize>0.03 0.03</maxSize>
+      <path>./_art/gamelist_icons/game_info_gametime.svg</path>
+    </image>
+    <text name="md_gametime">
+      <pos>0.68 0.7000</pos>
+      <size>0.28 0.0500</size>
+      <visible>false</visible>
+    </text>
+    <datetime name="md_lastplayed">
+      <pos>0.68 0.7000</pos>
+      <size>0.28 0.0500</size>
+    </datetime>
+
+    <!-- seventh row -->
+    <text name="md_description">
+      <origin>0 0</origin>
+      <pos>0.64 0.74</pos>
+      <size>0.34 0.21</size>
+      <fontPath>./_inc/fonts/${font_gamelist_desc}</fontPath>
+      <fontSize>${fz_gdescription}</fontSize>
+      <color>${cgdescription}</color>
+      <alignment>left</alignment>
+      <lineSpacing>1.4</lineSpacing>
+    </text>
+
+    <!-- background, enlarged by 0.003 on all sides -->
+    <image name="gamegrid_helper" extra="true">
+      <origin>0 0</origin>
+      <pos>0.017 0.047</pos>
+      <size>0.346 0.906</size>
+      <path>./_art/bg_color.png</path>
+      <color>00000077</color>
+      <zIndex>19</zIndex>
+    </image>
+    <image name="metadata_helper" extra="true">
+      <origin>0 0</origin>
+      <pos>0.637 0.047</pos>
+      <size>0.346 0.906</size>
+      <path>./_art/bg_color.png</path>
+      <color>00000077</color>
+      <zIndex>19</zIndex>
+    </image>
   </customView>
 
 </theme>
