@@ -63,6 +63,8 @@ Layouts adapt on their own — no user option required:
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). \
 ![Creative Commons Licence](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Licence")
 
+The full terms are also bundled as [`LICENSE`](LICENSE) and included in every release archive.
+
 ALLOWED:
 - Share and duplicate as it is
 - Edit, alter, change it
