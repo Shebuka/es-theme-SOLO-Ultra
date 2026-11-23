@@ -6,8 +6,11 @@
   <include>./systems/${system.theme}.xml</include>
 
   <view name="system">
+    <sound name="directory">
+      <path>./_art/sounds/</path>
+    </sound>
     <sound name="bgsound">
-      <path>./_art/sounds/${system.theme}.ogg</path>
+      <path>./_art/sounds/${system.theme}.mp3</path>
     </sound>
     <sound name="back">
       <path>./_art/sounds/ui/back.wav</path>
