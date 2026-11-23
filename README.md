@@ -4,11 +4,13 @@ An EmulationStation theme for **Batocera (Plus)**, **RetroBat** and **EmuELEC**,
 
 SOLO Ultra follows the symmetric art direction of the recent Star Wars films: many colours, simple and direct, with a new concept for the SOLO family.
 
+![SOLO Ultra system view](screenshots/0.%20Systems.png)
+
 ## Where the assets come from
 
 - **Backgrounds and system logos** — taken from [**Alekfull-SOLO**](https://github.com/fagnerpc/Alekfull-SOLO) (by fagnerpc).
 - **Everything else** — re-done from scratch for this theme: all views and layouts, colour schemes, icon sets, localization, per-system metadata and tooling.
-- **Sounds** — produced with our own **es-soundtrack-tool** (check it out [link]), which downloads per-system soundtrack previews from [retro.sx](https://retro.sx/).
+- **Sounds** — produced with our own [**es-soundtrack-tool**](https://github.com/shebuka/es-soundtrack-tool), which downloads per-system soundtrack previews from amazing folks at [retro.sx](https://retro.sx/).
 
 ## System and game view options
 
@@ -24,6 +26,10 @@ The theme ships with several user-selectable option groups:
 | Text size | Normal, Small |
 
 Game lists are available in **Basic**, **Detailed**, **Grid**, **Boxes**, **Boxes + Details**, **Carousel + Details**, **Tiles + Marquee** and **Fanart** views, and systems are browsed in a **vertical carousel** with an information header.
+
+![Detailed game list view](screenshots/2.%20Detailed.png)
+
+Browse the [screenshot gallery](screenshots/README.md) for every game-list view and the theme settings screen.
 
 ### Automatic aspect-ratio adaptation
 
